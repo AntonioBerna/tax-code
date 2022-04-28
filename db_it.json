@@ -1,0 +1,34 @@
+[
+    {
+        "surname": "bernardini",
+        "name": "antonio",
+        "gender": "m",
+        "date": "14/09/2002",
+        "common": "roma",
+        "fiscal_code": "BRNNTN02P14H501J"
+    },
+    {
+        "surname": "bellissimo",
+        "name": "gemma",
+        "gender": "f",
+        "date": "13/01/1966",
+        "common": "roma",
+        "fiscal_code": "BLLGMM66A53H501B"
+    },
+    {
+        "surname": "d'adamo",
+        "name": "valeria",
+        "gender": "f",
+        "date": "15/04/1998",
+        "common": "roma",
+        "fiscal_code": "DDMVLR98D55H501O"
+    },
+    {
+        "surname": "bellissimo",
+        "name": "gemma",
+        "gender": "F",
+        "date": "13/01/1966",
+        "common": "roma",
+        "fiscal_code": "BLLGMM66A53H501B"
+    }
+]

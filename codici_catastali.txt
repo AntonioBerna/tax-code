@@ -1,0 +1,8180 @@
+abano terme,a001,pd
+abbadia cerreto,a004,lo
+abbadia lariana,a005,lc
+abbadia san salvatore,a006,si
+abbasanta,a007,or
+abbateggio,a008,pe
+abbiategrasso,a010,mi
+abetone,a012,pt
+abriola,a013,pz
+acate,a014,rg
+accadia,a015,fg
+acceglio,a016,cn
+accettura,a017,mt
+acciano,a018,aq
+accumoli,a019,ri
+acerenza,a020,pz
+acerno,a023,sa
+acerra,a024,na
+aci bonaccorsi,a025,ct
+aci castello,a026,ct
+aci catena,a027,ct
+aci sant'antonio,a029,ct
+acireale,a028,ct
+acquacanina,a031,mc
+acquafondata,a032,fr
+acquaformosa,a033,cs
+acquafredda,a034,bs
+acqualagna,a035,ps
+acquanegra cremonese,a039,cr
+acquanegra sul chiese,a038,mn
+acquapendente,a040,vt
+acquappesa,a041,cs
+acquarica del capo,a042,le
+acquaro,a043,vv
+acquasanta terme,a044,ap
+acquasparta,a045,tr
+acquaviva collecroce,a050,cb
+acquaviva delle fonti,a048,ba
+acquaviva picena,a047,ap
+acquaviva platani,a049,cl
+acquedolci,m211,me
+acqui terme,a052,al
+acri,a053,cs
+acuto,a054,fr
+adelfia,a055,ba
+adrano,a056,ct
+adrara san martino,a057,bg
+adrara san rocco,a058,bg
+adria,a059,ro
+adro,a060,bs
+affi,a061,vr
+affile,a062,rm
+afragola,a064,na
+africo,a065,rc
+agazzano,a067,pc
+agerola,a068,na
+aggius,a069,ss
+agira,a070,en
+agliana,a071,pt
+agliano,a072,at
+aglie',a074,to
+aglientu,h848,ss
+agna,a075,pd
+agnadello,a076,cr
+agnana calabra,a077,rc
+agnone,a080,is
+agnosine,a082,bs
+agordo,a083,bl
+agosta,a084,rm
+agra,a085,va
+agrate brianza,a087,mi
+agrate conturbia,a088,no
+agrigento,a089,ag
+agropoli,a091,sa
+agugliano,a092,an
+agugliaro,a093,vi
+aicurzio,a096,mi
+aidomaggiore,a097,or
+aidone,a098,en
+aielli,a100,aq
+aiello calabro,a102,cs
+aiello del friuli,a103,ud
+aiello del sabato,a101,av
+aieta,a105,cs
+ailano,a106,ce
+ailoche,a107,bi
+airasca,a109,to
+airola,a110,bn
+airole,a111,im
+airuno,a112,lc
+aisone,a113,cn
+ala,a116,tn
+ala di stura,a117,to
+alagna,a118,pv
+alagna valsesia,a119,vc
+alanno,a120,pe
+alano di piave,a121,bl
+alassio,a122,sv
+alatri,a123,fr
+alba,a124,cn
+alba adriatica,a125,te
+albagiara,a126,or
+albairate,a127,mi
+albanella,a128,sa
+albano di lucania,a131,pz
+albano laziale,a132,rm
+albano sant'alessandro,a129,bg
+albano vercellese,a130,vc
+albaredo d'adige,a137,vr
+albaredo per san marco,a135,so
+albareto,a138,pr
+albaretto della torre,a139,cn
+albavilla,a143,co
+albenga,a145,sv
+albera ligure,a146,al
+alberobello,a149,ba
+alberona,a150,fg
+albese con cassano,a153,co
+albettone,a154,vi
+albi,a155,cz
+albiano,a158,tn
+albiano d'ivrea,a157,to
+albiate,a159,mi
+albidona,a160,cs
+albignasego,a161,pd
+albinea,a162,re
+albino,a163,bg
+albiolo,a164,co
+albisola superiore,a166,sv
+albizzate,a167,va
+albonese,a171,pv
+albosaggia,a172,so
+albugnano,a173,at
+albuzzano,a175,pv
+alcamo,a176,tp
+alcara li fusi,a177,me
+aldeno,a178,tn
+aldino,a179,bz
+ales,a180,or
+alessandria,a182,al
+alessandria del carretto,a183,cs
+alessandria della rocca,a181,ag
+alessano,a184,le
+alezio,a185,le
+alfano,a186,sa
+alfedena,a187,aq
+alfianello,a188,bs
+alfiano natta,a189,al
+alfonsine,a191,ra
+alghero,a192,ss
+algua,a193,bg
+ali',a194,me
+ali' terme,a201,me
+alia,a195,pa
+aliano,a196,mt
+alice bel colle,a197,al
+alice castello,a198,vc
+alice superiore,a199,to
+alife,a200,ce
+alimena,a202,pa
+aliminusa,a203,pa
+allai,a204,or
+alleghe,a206,bl
+allein,a205,ao
+allerona,a207,tr
+alliste,a208,le
+allumiere,a210,rm
+alluvioni cambio',a211,al
+alme',a214,bg
+almenno san bartolomeo,a216,bg
+almenno san salvatore,a217,bg
+almese,a218,to
+alonte,a220,vi
+alpette,a221,to
+alpignano,a222,to
+alseno,a223,pc
+alserio,a224,co
+altamura,a225,ba
+altare,a226,sv
+altavilla irpina,a228,av
+altavilla milicia,a229,pa
+altavilla monferrato,a227,al
+altavilla silentina,a230,sa
+altavilla vicentina,a231,vi
+altidona,a233,ap
+altilia,a234,cs
+altino,a235,ch
+altissimo,a236,vi
+altivole,a237,tv
+alto,a238,cn
+altofonte,a239,pa
+altomonte,a240,cs
+altopascio,a241,lu
+alviano,a242,tr
+alvignano,a243,ce
+alvito,a244,fr
+alzano lombardo,a246,bg
+alzano scrivia,a245,al
+alzate brianza,a249,co
+amalfi,a251,sa
+amandola,a252,ap
+amantea,a253,cs
+amaro,a254,ud
+amaroni,a255,cz
+amaseno,a256,fr
+amato,a257,cz
+amatrice,a258,ri
+ambivere,a259,bg
+amblar,a260,tn
+ameglia,a261,sp
+amelia,a262,tr
+amendolara,a263,cs
+ameno,a264,no
+amorosi,a265,bn
+ampezzo,a267,ud
+anacapri,a268,na
+anagni,a269,fr
+ancarano,a270,te
+ancona,a271,an
+andali,a272,cz
+andalo,a274,tn
+andalo valtellino,a273,so
+andezeno,a275,to
+andora,a278,sv
+andorno micca,a280,bi
+andrano,a281,le
+andrate,a282,to
+andreis,a283,pn
+andretta,a284,av
+andria,a285,ba
+anela,a287,ss
+anfo,a288,bs
+angera,a290,va
+anghiari,a291,ar
+angiari,a292,vr
+angolo terme,a293,bs
+angri,a294,sa
+angrogna,a295,to
+anguillara sabazia,a297,rm
+anguillara veneta,a296,pd
+annicco,a299,cr
+annone di brianza,a301,lc
+annone veneto,a302,ve
+anoia,a303,rc
+antegnate,a304,bg
+anticoli corrado,a309,rm
+antignano,a312,at
+antillo,a313,me
+antonimina,a314,rc
+antrodoco,a315,ri
+antrona schieranco,a317,vb
+anversa degli abruzzi,a318,aq
+anzano del parco,a319,co
+anzano di puglia,a320,fg
+anzi,a321,pz
+anzio,a323,rm
+anzola d'ossola,a325,vb
+anzola dell'emilia,a324,bo
+aosta,a326,ao
+apecchio,a327,ps
+apice,a328,bn
+apiro,a329,mc
+apollosa,a330,bn
+appiano gentile,a333,co
+appignano,a334,mc
+appignano del tronto,a335,ap
+aprica,a337,so
+apricale,a338,im
+apricena,a339,fg
+aprigliano,a340,cs
+aprilia,a341,lt
+aquara,a343,sa
+aquileia,a346,ud
+aquilonia,a347,av
+aquino,a348,fr
+aradeo,a350,le
+aragona,a351,ag
+aramengo,a352,at
+arba,a354,pn
+arborea,a357,or
+arborio,a358,vc
+arbus,a359,ca
+arcade,a360,tv
+arce,a363,fr
+arcene,a365,bg
+arcevia,a366,an
+archi,a367,ch
+arcidosso,a369,gr
+arcinazzo romano,a370,rm
+arcisate,a371,va
+arco,a372,tn
+arcola,a373,sp
+arcole,a374,vr
+arconate,a375,mi
+arcore,a376,mi
+arcugnano,a377,vi
+ardara,a379,ss
+ardauli,a380,or
+ardea,m213,rm
+ardenno,a382,so
+ardesio,a383,bg
+ardore,a385,rc
+arena,a386,vv
+arena po,a387,pv
+arenzano,a388,ge
+arese,a389,mi
+arezzo,a390,ar
+argegno,a391,co
+argelato,a392,bo
+argenta,a393,fe
+argentera,a394,cn
+arguello,a396,cn
+argusto,a397,cz
+ari,a398,ch
+ariano irpino,a399,av
+ariano nel polesine,a400,ro
+ariccia,a401,rm
+arielli,a402,ch
+arienzo,a403,ce
+arignano,a405,to
+aritzo,a407,nu
+arizzano,a409,vb
+arlena di castro,a412,vt
+arluno,a413,mi
+armeno,a414,no
+armento,a415,pz
+armo,a417,im
+armungia,a419,ca
+arnad,a424,ao
+arnara,a421,fr
+arnasco,a422,sv
+arnesano,a425,le
+arola,a427,vb
+arona,a429,no
+arosio,a430,co
+arpaia,a431,bn
+arpaise,a432,bn
+arpino,a433,fr
+arqua' petrarca,a434,pd
+arqua' polesine,a435,ro
+arquata del tronto,a437,ap
+arquata scrivia,a436,al
+arre,a438,pd
+arrone,a439,tr
+arsago seprio,a441,va
+arsie',a443,bl
+arsiero,a444,vi
+arsita,a445,te
+arsoli,a446,rm
+arta terme,a447,ud
+artegna,a448,ud
+artena,a449,rm
+artogne,a451,bs
+arvier,a452,ao
+arzachena,a453,ss
+arzago d'adda,a440,bg
+arzana,a454,nu
+arzano,a455,na
+arzene,a456,pn
+arzergrande,a458,pd
+arzignano,a459,vi
+ascea,a460,sa
+asciano,a461,si
+ascoli piceno,a462,ap
+ascoli satriano,a463,fg
+ascrea,a464,ri
+asiago,a465,vi
+asigliano veneto,a467,vi
+asigliano vercellese,a466,vc
+asola,a470,mn
+asolo,a471,tv
+assago,a473,mi
+assemini,a474,ca
+assisi,a475,pg
+asso,a476,co
+assolo,a477,or
+assoro,a478,en
+asti,a479,at
+asuni,a480,or
+ateleta,a481,aq
+atella,a482,pz
+atena lucana,a484,sa
+atessa,a485,ch
+atina,a486,fr
+atrani,a487,sa
+atri,a488,te
+atripalda,a489,av
+attigliano,a490,tr
+attimis,a491,ud
+atzara,a492,nu
+auditore,a493,ps
+augusta,a494,sr
+auletta,a495,sa
+aulla,a496,ms
+aurano,a497,vb
+aurigo,a499,im
+auronzo di cadore,a501,bl
+ausonia,a502,fr
+austis,a503,nu
+avegno,a506,ge
+avella,a508,av
+avellino,a509,av
+averara,a511,bg
+aversa,a512,ce
+avetrana,a514,ta
+avezzano,a515,aq
+aviano,a516,pn
+aviatico,a517,bg
+avigliana,a518,to
+avigliano,a519,pz
+avigliano umbro,m258,tr
+avio,a520,tn
+avise,a521,ao
+avola,a522,sr
+avolasca,a523,al
+ayas,a094,ao
+aymavilles,a108,ao
+azeglio,a525,to
+azzanello,a526,cr
+azzano d'asti,a527,at
+azzano decimo,a530,pn
+azzano mella,a529,bs
+azzano san paolo,a528,bg
+azzate,a531,va
+azzio,a532,va
+azzone,a533,bg
+baceno,a534,vb
+bacoli,a535,na
+badalucco,a536,im
+badesi,m214,ss
+badia,a537,bz
+badia calavena,a540,vr
+badia pavese,a538,pv
+badia polesine,a539,ro
+badia tedalda,a541,ar
+badolato,a542,cz
+bagaladi,a544,rc
+bagheria,a546,pa
+bagnacavallo,a547,ra
+bagnara calabra,a552,rc
+bagnara di romagna,a551,ra
+bagnaria,a550,pv
+bagnaria arsa,a553,ud
+bagnasco,a555,cn
+bagnatica,a557,bg
+bagni di lucca,a560,lu
+bagno a ripoli,a564,fi
+bagno di romagna,a565,fo
+bagnoli del trigno,a567,is
+bagnoli di sopra,a568,pd
+bagnoli irpino,a566,av
+bagnolo cremasco,a570,cr
+bagnolo del salento,a572,le
+bagnolo di po,a574,ro
+bagnolo in piano,a573,re
+bagnolo mella,a569,bs
+bagnolo piemonte,a571,cn
+bagnolo san vito,a575,mn
+bagnone,a576,ms
+bagnoregio,a577,vt
+bagolino,a578,bs
+baia e latina,a579,ce
+baiano,a580,av
+baiardo,a581,im
+bairo,a584,to
+baiso,a586,re
+balangero,a587,to
+baldichieri d'asti,a588,at
+baldissero canavese,a590,to
+baldissero d'alba,a589,cn
+baldissero torinese,a591,to
+balestrate,a592,pa
+balestrino,a593,sv
+ballabio,a594,lc
+ballao,a597,ca
+balme,a599,to
+balmuccia,a600,vc
+balocco,a601,vc
+balsorano,a603,aq
+balvano,a604,pz
+balzola,a605,al
+banari,a606,ss
+banchette,a607,to
+bannio anzino,a610,vb
+banzi,a612,pz
+baone,a613,pd
+baradili,a614,or
+baragiano,a615,pz
+baranello,a616,cb
+barano d'ischia,a617,na
+barasso,a619,va
+baratili san pietro,a621,or
+barbania,a625,to
+barbara,a626,an
+barbarano romano,a628,vt
+barbarano vicentino,a627,vi
+barbaresco,a629,cn
+barbariga,a630,bs
+barbata,a631,bg
+barberino di mugello,a632,fi
+barberino val d'elsa,a633,fi
+barbianello,a634,pv
+barbona,a637,pd
+barcellona pozzo di gotto,a638,me
+barchi,a639,ps
+barcis,a640,pn
+bard,a643,ao
+bardello,a645,va
+bardi,a646,pr
+bardineto,a647,sv
+bardolino,a650,vr
+bardonecchia,a651,to
+bareggio,a652,mi
+barengo,a653,no
+baressa,a655,or
+barete,a656,aq
+barga,a657,lu
+bargagli,a658,ge
+barge,a660,cn
+barghe,a661,bs
+bari,a662,ba
+bari sardo,a663,nu
+bariano,a664,bg
+baricella,a665,bo
+barile,a666,pz
+barisciano,a667,aq
+barlassina,a668,mi
+barletta,a669,ba
+barni,a670,co
+barolo,a671,cn
+barone canavese,a673,to
+baronissi,a674,sa
+barrafranca,a676,en
+barrali,a677,ca
+barrea,a678,aq
+barumini,a681,ca
+barzago,a683,lc
+barzana,a684,bg
+barzano',a686,lc
+barzio,a687,lc
+basaluzzo,a689,al
+bascape',a690,pv
+baschi,a691,tr
+basciano,a692,te
+baselga di pine',a694,tn
+baselice,a696,bn
+basiano,a697,mi
+basico',a698,me
+basiglio,a699,mi
+basiliano,a700,ud
+bassano bresciano,a702,bs
+bassano del grappa,a703,vi
+bassano in teverina,a706,vt
+bassano romano,a704,vt
+bassiano,a707,lt
+bassignana,a708,al
+bastia mondovi',a709,cn
+bastia umbra,a710,pg
+bastida de' dossi,a711,pv
+bastida pancarana,a712,pv
+bastiglia,a713,mo
+battaglia terme,a714,pd
+battifollo,a716,cn
+battipaglia,a717,sa
+battuda,a718,pv
+baucina,a719,pa
+bauladu,a721,or
+baunei,a722,nu
+baveno,a725,vb
+bazzano,a726,bo
+bedero valcuvia,a728,va
+bedizzole,a729,bs
+bedollo,a730,tn
+bedonia,a731,pr
+bedulita,a732,bg
+bee,a733,vb
+beinasco,a734,to
+beinette,a735,cn
+belcastro,a736,cz
+belfiore,a737,vr
+belforte all'isauro,a740,ps
+belforte del chienti,a739,mc
+belforte monferrato,a738,al
+belgioioso,a741,pv
+belgirate,a742,vb
+bella,a743,pz
+bellagio,a744,co
+bellano,a745,lc
+bellante,a746,te
+bellegra,a749,rm
+bellino,a750,cn
+bellinzago lombardo,a751,mi
+bellinzago novarese,a752,no
+bellona,a755,ce
+bellosguardo,a756,sa
+belluno,a757,bl
+bellusco,a759,mi
+belmonte calabro,a762,cs
+belmonte castello,a763,fr
+belmonte del sannio,a761,is
+belmonte in sabina,a765,ri
+belmonte mezzagno,a764,pa
+belmonte piceno,a760,ap
+belpasso,a766,ct
+belsito,a768,cs
+belvedere di spinello,a772,kr
+belvedere langhe,a774,cn
+belvedere marittimo,a773,cs
+belvedere ostrense,a769,an
+belveglio,a770,at
+bema,a777,so
+bene lario,a778,co
+bene vagienna,a779,cn
+benestare,a780,rc
+benetutti,a781,ss
+benevello,a782,cn
+benevento,a783,bn
+benna,a784,bi
+bentivoglio,a785,bo
+berbenno,a786,bg
+berbenno di valtellina,a787,so
+berceto,a788,pr
+berchidda,a789,ss
+beregazzo con figliaro,a791,co
+bereguardo,a792,pv
+bergamasco,a793,al
+bergamo,a794,bg
+bergantino,a795,ro
+bergeggi,a796,sv
+bergolo,a798,cn
+berlingo,a799,bs
+bernalda,a801,mt
+bernareggio,a802,mi
+bernate ticino,a804,mi
+bernezzo,a805,cn
+berra,a806,fe
+bersone,a808,tn
+bertinoro,a809,fo
+bertiolo,a810,ud
+bertonico,a811,lo
+berzano di san pietro,a812,at
+berzano di tortona,a813,al
+berzo demo,a816,bs
+berzo inferiore,a817,bs
+berzo san fermo,a815,bg
+besana in brianza,a818,mi
+besano,a819,va
+besate,a820,mi
+besenello,a821,tn
+besenzone,a823,pc
+besnate,a825,va
+besozzo,a826,va
+bessude,a827,ss
+bettola,a831,pc
+bettona,a832,pg
+beura-cardezza,a834,vb
+bevagna,a835,pg
+beverino,a836,sp
+bevilacqua,a837,vr
+bezzecca,a839,tn
+biancavilla,a841,ct
+bianchi,a842,cs
+bianco,a843,rc
+biandrate,a844,no
+biandronno,a845,va
+bianzano,a846,bg
+bianze',a847,vc
+bianzone,a848,so
+biassono,a849,mi
+bibbiano,a850,re
+bibbiena,a851,ar
+bibbona,a852,li
+bibiana,a853,to
+biccari,a854,fg
+bicinicco,a855,ud
+bidoni',a856,or
+biella,a859,bi
+bienno,a861,bs
+bieno,a862,no
+bientina,a864,pi
+bigarello,a866,mn
+binago,a870,co
+binasco,a872,mi
+binetto,a874,ba
+bioglio,a876,bi
+bionaz,a877,ao
+bione,a878,bs
+birori,a880,nu
+bisaccia,a881,av
+bisacquino,a882,pa
+bisceglie,a883,ba
+bisegna,a884,aq
+bisenti,a885,te
+bisignano,a887,cs
+bistagno,a889,al
+bisuschio,a891,va
+bitetto,a892,ba
+bitonto,a893,ba
+bitritto,a894,ba
+bitti,a895,nu
+bivona,a896,ag
+bivongi,a897,rc
+bizzarone,a898,co
+bleggio inferiore,a901,tn
+bleggio superiore,a902,tn
+blello,a903,bg
+blera,a857,vt
+blessagno,a904,co
+blevio,a905,co
+blufi,m268,pa
+boara pisani,a906,pd
+bobbio,a909,pc
+bobbio pellice,a910,to
+boca,a911,no
+bocchigliero,a912,cs
+boccioleto,a914,vc
+bocenago,a916,tn
+bodio lomnago,a918,va
+boffalora d'adda,a919,lo
+boffalora sopra ticino,a920,mi
+bogliasco,a922,ge
+bognanco,a925,vb
+bogogno,a929,no
+boiano,a930,cb
+boissano,a931,sv
+bolano,a932,sp
+bolbeno,a933,tn
+bolgare,a937,bg
+bollate,a940,mi
+bollengo,a941,to
+bologna,a944,bo
+bolognano,a945,pe
+bolognetta,a946,pa
+bolognola,a947,mc
+bolotana,a948,nu
+bolsena,a949,vt
+boltiere,a950,bg
+bolzano,a952,bz
+bolzano novarese,a953,no
+bolzano vicentino,a954,vi
+bomarzo,a955,vt
+bomba,a956,ch
+bompensiere,a957,cl
+bompietro,a958,pa
+bomporto,a959,mo
+bonarcado,a960,or
+bonassola,a961,sp
+bonate sopra,a963,bg
+bonate sotto,a962,bg
+bonavigo,a964,vr
+bondeno,a965,fe
+bondo,a967,tn
+bondone,a968,tn
+bonea,a970,bn
+bonefro,a971,cb
+bonemerse,a972,cr
+bonifati,a973,cs
+bonito,a975,av
+bonnanaro,a976,ss
+bono,a977,ss
+bonorva,a978,ss
+bonvicino,a979,cn
+borbona,a981,ri
+borca di cadore,a982,bl
+bordano,a983,ud
+bordighera,a984,im
+bordolano,a986,cr
+bore,a987,pr
+boretto,a988,re
+borgarello,a989,pv
+borgaro torinese,a990,to
+borgetto,a991,pa
+borghetto d'arroscia,a993,im
+borghetto di borbera,a998,al
+borghetto di vara,a992,sp
+borghetto lodigiano,a995,lo
+borghetto santo spirito,a999,sv
+borghi,b001,fo
+borgia,b002,cz
+borgiallo,b003,to
+borgio verezzi,b005,sv
+borgo a mozzano,b007,lu
+borgo d'ale,b009,vc
+borgo di terzo,b010,bg
+borgo pace,b026,ps
+borgo priolo,b028,pv
+borgo san dalmazzo,b033,cn
+borgo san giacomo,b035,bs
+borgo san giovanni,b017,lo
+borgo san lorenzo,b036,fi
+borgo san martino,b037,al
+borgo san siro,b038,pv
+borgo ticino,b043,no
+borgo tossignano,b044,bo
+borgo val di taro,b042,pr
+borgo valsugana,b006,tn
+borgo velino,a996,ri
+borgo vercelli,b046,vc
+borgoforte,b011,mn
+borgofranco d'ivrea,b015,to
+borgofranco sul po,b013,mn
+borgolavezzaro,b016,no
+borgomale,b018,cn
+borgomanero,b019,no
+borgomaro,b020,im
+borgomasino,b021,to
+borgone susa,b024,to
+borgonovo val tidone,b025,pc
+borgoratto alessandrino,b029,al
+borgoratto mormorolo,b030,pv
+borgoricco,b031,pd
+borgorose,b008,ri
+borgosatollo,b040,bs
+borgosesia,b041,vc
+bormida,b048,sv
+bormio,b049,so
+bornasco,b051,pv
+borno,b054,bs
+boroneddu,b055,or
+borore,b056,nu
+borrello,b057,ch
+borriana,b058,bi
+borso del grappa,b061,tv
+bortigali,b062,nu
+bortigiadas,b063,ss
+borutta,b064,ss
+borzonasca,b067,ge
+bosa,b068,nu
+bosaro,b069,ro
+boschi sant'anna,b070,vr
+bosco chiesanuova,b073,vr
+bosco marengo,b071,al
+bosconero,b075,to
+boscoreale,b076,na
+boscotrecase,b077,na
+bosentino,b078,tn
+bosia,b079,cn
+bosio,b080,al
+bosisio parini,b081,lc
+bosnasco,b082,pv
+bossico,b083,bg
+bossolasco,b084,cn
+botricello,b085,cz
+botrugno,b086,le
+bottanuco,b088,bg
+botticino,b091,bs
+bottidda,b094,ss
+bova,b097,rc
+bova marina,b099,rc
+bovalino,b098,rc
+bovegno,b100,bs
+boves,b101,cn
+bovezzo,b102,bs
+boville ernica,a720,fr
+bovino,b104,fg
+bovolenta,b106,pd
+bovolone,b107,vr
+bozzole,b109,al
+bozzolo,b110,mn
+bra,b111,cn
+bracca,b112,bg
+bracciano,b114,rm
+bracigliano,b115,sa
+brallo di pregola,b117,pv
+brancaleone,b118,rc
+brandico,b120,bs
+brandizzo,b121,to
+branzi,b123,bg
+braone,b124,bs
+brebbia,b126,va
+breda di piave,b128,tv
+bregano,b131,va
+breganze,b132,vi
+bregnano,b134,co
+breguzzo,b135,tn
+breia,b136,vc
+brembate,b137,bg
+brembate di sopra,b138,bg
+brembilla,b140,bg
+brembio,b141,lo
+breme,b142,pv
+brendola,b143,vi
+brenna,b144,co
+brennero,b145,bz
+breno,b149,bs
+brenta,b150,va
+brentino belluno,b152,vr
+brentonico,b153,tn
+brenzone,b154,vr
+brescello,b156,re
+brescia,b157,bs
+bresimo,b158,tn
+bressana bottarone,b159,pv
+bressanone,b160,bz
+bressanvido,b161,vi
+bresso,b162,mi
+brez,b165,tn
+brezzo di bedero,b166,va
+briaglia,b167,cn
+briatico,b169,vv
+bricherasio,b171,to
+brienno,b172,co
+brienza,b173,pz
+briga alta,b175,cn
+briga novarese,b176,no
+brignano gera d'adda,b178,bg
+brindisi,b180,br
+brindisi montagna,b181,pz
+brinzio,b182,va
+briona,b183,no
+brione,b184,bs
+briosco,b187,mi
+brisighella,b188,ra
+brissogne,b192,ao
+brittoli,b193,pe
+brivio,b194,lc
+broccostella,b195,fr
+brogliano,b196,vi
+brognaturo,b197,vv
+brolo,b198,me
+brondello,b200,cn
+broni,b201,pv
+bronte,b202,ct
+brossasco,b204,cn
+brosso,b205,to
+brovello-carpugnino,b207,vb
+brozolo,b209,to
+brozzi,b210,fi
+brugherio,b212,mi
+brugine,b213,pd
+brugnato,b214,sp
+brugnera,b215,pn
+bruino,b216,to
+brumano,b217,bg
+brunate,b218,co
+brunello,b219,va
+bruno,b221,at
+brusaporto,b223,bg
+brusasco,b225,to
+brusciano,b227,na
+brusimpiano,b228,va
+brusnengo,b229,bi
+brusson,b230,ao
+bruzolo,b232,to
+bruzzano zeffirio,b234,rc
+bubbiano,b235,mi
+bubbio,b236,at
+buccheri,b237,sr
+bucchianico,b238,ch
+bucciano,b239,bn
+buccinasco,b240,mi
+buccino,b242,sa
+bucine,b243,ar
+budduso',b246,ss
+budoia,b247,pn
+budoni,b248,nu
+budrio,b249,bo
+buggerru,b250,ca
+buggiano,b251,pt
+buglio in monte,b255,so
+bugnara,b256,aq
+buguggiate,b258,va
+buia,b259,ud
+bulciago,b261,lc
+bulgarograsso,b262,co
+bultei,b264,ss
+bulzi,b265,ss
+buonabitacolo,b266,sa
+buonalbergo,b267,bn
+buonconvento,b269,si
+buonvicino,b270,cs
+burago di molgora,b272,mi
+burcei,b274,ca
+burgio,b275,ag
+burgos,b276,ss
+buriasco,b278,to
+burolo,b279,to
+buronzo,b280,vc
+busachi,b281,or
+busalla,b282,ge
+busana,b283,re
+busano,b284,to
+busca,b285,cn
+buscate,b286,mi
+buscemi,b287,sr
+buseto palizzolo,b288,tp
+busnago,b289,mi
+bussero,b292,mi
+busseto,b293,pr
+bussi sul tirino,b294,pe
+busso,b295,cb
+bussolengo,b296,vr
+bussoleno,b297,to
+busto arsizio,b300,va
+busto garolfo,b301,mi
+butera,b302,cl
+buti,b303,pi
+buttapietra,b304,vr
+buttigliera alta,b305,to
+buttigliera d'asti,b306,at
+buttrio,b309,ud
+ca' d'andrea,b320,cr
+cabella ligure,b311,al
+cabiate,b313,co
+cabras,b314,or
+caccamo,b315,pa
+caccuri,b319,kr
+cadegliano-viconago,b326,va
+cadelbosco di sopra,b328,re
+cadeo,b332,pc
+caderzone,b335,tn
+cadoneghe,b345,pd
+cadorago,b346,co
+cadrezzate,b347,va
+caerano di san marco,b349,tv
+cafasse,b350,to
+caggiano,b351,sa
+cagli,b352,ps
+cagliari,b354,ca
+caglio,b355,co
+cagnano amiterno,b358,aq
+cagnano varano,b357,fg
+cagno,b359,co
+cagno',b360,tn
+caianello,b361,ce
+caiazzo,b362,ce
+caino,b365,bs
+caiolo,b366,so
+cairano,b367,av
+cairate,b368,va
+cairo montenotte,b369,sv
+caivano,b371,na
+calabritto,b374,av
+calalzo di cadore,b375,bl
+calamandrana,b376,at
+calamonaci,b377,ag
+calangianus,b378,ss
+calanna,b379,rc
+calasca-castiglione,b380,vb
+calascibetta,b381,en
+calascio,b382,aq
+calasetta,b383,ca
+calatabiano,b384,ct
+calatafimi,b385,tp
+calavino,b386,tn
+calcata,b388,vt
+calceranica al lago,b389,tn
+calci,b390,pi
+calciano,b391,mt
+calcinaia,b392,pi
+calcinate,b393,bg
+calcinato,b394,bs
+calcio,b395,bg
+calco,b396,lc
+caldarola,b398,mc
+calderara di reno,b399,bo
+caldes,b400,tn
+caldiero,b402,vr
+caldogno,b403,vi
+caldonazzo,b404,tn
+calendasco,b405,pc
+calenzano,b406,fi
+calestano,b408,pr
+calice al cornoviglio,b410,sp
+calice ligure,b409,sv
+calimera,b413,le
+calitri,b415,av
+calizzano,b416,sv
+callabiana,b417,bi
+calliano,b418,tn
+calolziocorte,b423,lc
+calopezzati,b424,cs
+calosso,b425,at
+caloveto,b426,cs
+caltabellotta,b427,ag
+caltagirone,b428,ct
+caltanissetta,b429,cl
+caltavuturo,b430,pa
+caltignaga,b431,no
+calto,b432,ro
+caltrano,b433,vi
+calusco d'adda,b434,bg
+caluso,b435,to
+calvagese della riviera,b436,bs
+calvanico,b437,sa
+calvatone,b439,cr
+calvello,b440,pz
+calvene,b441,vi
+calvenzano,b442,bg
+calvera,b443,pz
+calvi,b444,bn
+calvi dell'umbria,b446,tr
+calvi risorta,b445,ce
+calvignano,b447,pv
+calvignasco,b448,mi
+calvisano,b450,bs
+calvizzano,b452,na
+camaiore,b455,lu
+camairago,b456,lo
+camandona,b457,bi
+camastra,b460,ag
+cambiago,b461,mi
+cambiano,b462,to
+cambiasca,b463,vb
+camburzano,b465,bi
+camerana,b467,cn
+camerano,b468,an
+camerano casasco,b469,at
+camerata cornello,b471,bg
+camerata nuova,b472,rm
+camerata picena,b470,an
+cameri,b473,no
+camerino,b474,mc
+camerota,b476,sa
+camigliano,b477,ce
+caminata,b479,pc
+camini,b481,rc
+camino,b482,al
+camino al tagliamento,b483,ud
+camisano,b484,cr
+camisano vicentino,b485,vi
+cammarata,b486,ag
+camo,b489,cn
+camogli,b490,ge
+campagna,b492,sa
+campagna lupia,b493,ve
+campagnano di roma,b496,rm
+campagnatico,b497,gr
+campagnola cremasca,b498,cr
+campagnola emilia,b499,re
+campana,b500,cs
+camparada,b501,mi
+campegine,b502,re
+campello sul clitunno,b504,pg
+campertogno,b505,vc
+campi bisenzio,b507,fi
+campi salentina,b506,le
+campiglia cervo,b508,bi
+campiglia dei berici,b511,vi
+campiglia marittima,b509,li
+campione d'italia,b513,co
+campitello di fassa,b514,tn
+campli,b515,te
+campo calabro,b516,rc
+campo di giove,b526,aq
+campo di trens,b529,bz
+campo ligure,b538,ge
+campo nell'elba,b553,li
+campo san martino,b564,pd
+campo tures,b570,bz
+campobasso,b519,cb
+campobello di licata,b520,ag
+campobello di mazara,b521,tp
+campochiaro,b522,cb
+campodarsego,b524,pd
+campodenno,b525,tn
+campodimele,b527,lt
+campodipietra,b528,cb
+campodolcino,b530,so
+campodoro,b531,pd
+campofelice di fitalia,b533,pa
+campofelice di roccella,b532,pa
+campofilone,b534,ap
+campofiorito,b535,pa
+campoformido,b536,ud
+campofranco,b537,cl
+campogalliano,b539,mo
+campolattaro,b541,bn
+campoli appennino,b543,fr
+campoli del monte taburno,b542,bn
+campolieto,b544,cb
+campolongo al torre,b545,ud
+campolongo maggiore,b546,ve
+campolongo sul brenta,b547,vi
+campomaggiore,b549,pz
+campomarino,b550,cb
+campomorone,b551,ge
+camponogara,b554,ve
+campora,b555,sa
+camporeale,b556,pa
+camporgiano,b557,lu
+camporosso,b559,im
+camporotondo di fiastrone,b562,mc
+camporotondo etneo,b561,ct
+camposampiero,b563,pd
+camposano,b565,na
+camposanto,b566,mo
+campospinoso,b567,pv
+campotosto,b569,aq
+camugnano,b572,bo
+canale,b573,cn
+canale d'agordo,b574,bl
+canale monterano,b576,rm
+canaro,b578,ro
+canazei,b579,tn
+cancellara,b580,pz
+cancello ed arnone,b581,ce
+canda,b582,ro
+candela,b584,fg
+candelo,b586,bi
+candia canavese,b588,to
+candia lomellina,b587,pv
+candiana,b589,pd
+candida,b590,av
+candidoni,b591,rc
+candiolo,b592,to
+canegrate,b593,mi
+canelli,b594,at
+canepina,b597,vt
+caneva,b598,pn
+canevino,b599,pv
+canicatti',b602,ag
+canicattini bagni,b603,sr
+canino,b604,vt
+canischio,b605,to
+canistro,b606,aq
+canna,b607,cs
+cannalonga,b608,sa
+cannara,b609,pg
+cannero riviera,b610,vb
+canneto pavese,b613,pv
+canneto sull'oglio,b612,mn
+cannobio,b615,vb
+cannole,b616,le
+canolo,b617,rc
+canonica d'adda,b618,bg
+canosa di puglia,b619,ba
+canosa sannita,b620,ch
+canosio,b621,cn
+cansano,b624,aq
+cantagallo,b626,po
+cantalice,b627,ri
+cantalupa,b628,to
+cantalupo in sabina,b631,ri
+cantalupo ligure,b629,al
+cantalupo nel sannio,b630,is
+cantarana,b633,at
+cantello,b634,va
+canterano,b635,rm
+cantiano,b636,ps
+cantoira,b637,to
+cantu',b639,co
+canzano,b640,te
+canzo,b641,co
+caorle,b642,ve
+caorso,b643,pc
+capaccio,b644,sa
+capaci,b645,pa
+capalbio,b646,gr
+capannoli,b647,pi
+capannori,b648,lu
+capena,b649,rm
+capergnanica,b650,cr
+capestrano,b651,aq
+capiago intimiano,b653,co
+capistrano,b655,vv
+capistrello,b656,aq
+capitignano,b658,aq
+capizzi,b660,me
+capizzone,b661,bg
+capo d'orlando,b666,me
+capo di ponte,b664,bs
+capodimonte,b663,vt
+capodistria,b665,po
+capodrise,b667,ce
+capoliveri,b669,li
+capolona,b670,ar
+caponago,b671,mi
+caporciano,b672,aq
+caposele,b674,av
+capoterra,b675,ca
+capovalle,b676,bs
+cappadocia,b677,aq
+cappella cantone,b679,cr
+cappella de' picenardi,b680,cr
+cappella maggiore,b678,tv
+cappelle sul tavo,b681,pe
+capracotta,b682,is
+capraia e limite,b684,fi
+capraia isola,b685,li
+capralba,b686,cr
+capranica,b688,vt
+capranica prenestina,b687,rm
+caprarica di lecce,b690,le
+caprarola,b691,vt
+caprauna,b692,cn
+caprese michelangelo,b693,ar
+caprezzo,b694,vb
+capri,b696,na
+capri leone,b695,me
+capriana,b697,tn
+capriano del colle,b698,bs
+capriata d'orba,b701,al
+capriate san gervasio,b703,bg
+capriati a volturno,b704,ce
+caprie,b705,to
+capriglia irpina,b706,av
+capriglio,b707,at
+caprile,b708,bi
+caprino bergamasco,b710,bg
+caprino veronese,b709,vr
+capriolo,b711,bs
+capriva del friuli,b712,go
+capua,b715,ce
+capurso,b716,ba
+caraffa del bianco,b718,rc
+caraffa di catanzaro,b717,cz
+caraglio,b719,cn
+caramagna piemonte,b720,cn
+caramanico terme,b722,pe
+carano,b723,tn
+carapelle,b724,fg
+carapelle calvisio,b725,aq
+carasco,b726,ge
+carassai,b727,ap
+carate brianza,b729,mi
+carate urio,b730,co
+caravaggio,b731,bg
+caravate,b732,va
+caravino,b733,to
+caravonica,b734,im
+carbognano,b735,vt
+carbonara al ticino,b741,pv
+carbonara di nola,b740,na
+carbonara di po,b739,mn
+carbonara scrivia,b736,al
+carbonara di bari,b737,ba
+carbonate,b742,co
+carbone,b743,pz
+carbonera,b744,tv
+carbonia,b745,ca
+carcare,b748,sv
+carceri,b749,pd
+carcoforo,b752,vc
+cardano al campo,b754,va
+carde',b755,cn
+cardedu,m285,nu
+cardeto,b756,rc
+cardinale,b758,cz
+cardito,b759,na
+careggine,b760,lu
+carema,b762,to
+carenno,b763,lc
+carentino,b765,al
+careri,b766,rc
+caresana,b767,vc
+caresanablot,b768,vc
+carezzano,b769,al
+carfizzi,b771,kr
+cargeghe,b772,ss
+cariati,b774,cs
+carife,b776,av
+carignano,b777,to
+carimate,b778,co
+carinaro,b779,ce
+carini,b780,pa
+carinola,b781,ce
+carisio,b782,vc
+carisolo,b783,tn
+carlantino,b784,fg
+carlazzo,b785,co
+carlentini,b787,sr
+carlino,b788,ud
+carloforte,b789,ca
+carlopoli,b790,cz
+carmagnola,b791,to
+carmiano,b792,le
+carmignano,b794,po
+carmignano di brenta,b795,pd
+carnago,b796,va
+carnate,b798,mi
+carobbio degli angeli,b801,bg
+carolei,b802,cs
+carona,b803,bg
+caronia,b804,me
+caronno pertusella,b805,va
+caronno varesino,b807,va
+carosino,b808,ta
+carovigno,b809,br
+carovilli,b810,is
+carpaneto piacentino,b812,pc
+carpanzano,b813,cs
+carpasio,b814,im
+carpegna,b816,ps
+carpenedolo,b817,bs
+carpeneto,b818,al
+carpi,b819,mo
+carpiano,b820,mi
+carpignano salentino,b822,le
+carpignano sesia,b823,no
+carpineti,b825,re
+carpineto della nora,b827,pe
+carpineto romano,b828,rm
+carpineto sinello,b826,ch
+carpino,b829,fg
+carpinone,b830,is
+carrara,b832,ms
+carrara san giorgio,b833,pd
+carrara santo stefano,b834,pd
+carre',b835,vi
+carrega ligure,b836,al
+carro,b838,sp
+carrodano,b839,sp
+carrosio,b840,al
+carru',b841,cn
+carsoli,b842,aq
+cartigliano,b844,vi
+cartignano,b845,cn
+cartoceto,b846,ps
+cartosio,b847,al
+cartura,b848,pd
+carugate,b850,mi
+carugo,b851,co
+carunchio,b853,ch
+carvico,b854,bg
+carzano,b856,tn
+casabona,b857,kr
+casacalenda,b858,cb
+casacanditella,b859,ch
+casagiove,b860,ce
+casal cermelli,b870,al
+casal di principe,b872,ce
+casal velino,b895,sa
+casalanguida,b861,ch
+casalattico,b862,fr
+casalbeltrame,b864,no
+casalbordino,b865,ch
+casalbore,b866,av
+casalborgone,b867,to
+casalbuono,b868,sa
+casalciprano,b871,cb
+casalduni,b873,bn
+casale corte cerro,b876,vb
+casale di scodosia,b877,pd
+casale litta,b875,va
+casale marittimo,b878,pi
+casale monferrato,b885,al
+casale sul sile,b879,tv
+casalecchio di reno,b880,bo
+casaleggio boiro,b882,al
+casaleggio novara,b883,no
+casaleone,b886,vr
+casaletto ceredano,b889,cr
+casaletto di sopra,b890,cr
+casaletto lodigiano,b887,lo
+casaletto spartano,b888,sa
+casaletto vaprio,b891,cr
+casalfiumanese,b892,bo
+casalgrande,b893,re
+casalgrasso,b894,cn
+casalincontrada,b896,ch
+casalino,b897,no
+casalmaggiore,b898,cr
+casalmaiocco,b899,lo
+casalmorano,b900,cr
+casalmoro,b901,mn
+casalnoceto,b902,al
+casalnuovo di napoli,b905,na
+casalnuovo monterotaro,b904,fg
+casaloldo,b907,mn
+casalpusterlengo,b910,lo
+casalromano,b911,mn
+casalserugo,b912,pd
+casaluce,b916,ce
+casalvecchio di puglia,b917,fg
+casalvecchio siculo,b918,me
+casalvieri,b919,fr
+casalvolone,b920,no
+casalzuigno,b921,va
+casamarciano,b922,na
+casamassima,b923,ba
+casamicciola terme,b924,na
+casandrino,b925,na
+casanova elvo,b928,vc
+casanova lerrone,b927,sv
+casanova lonati,b929,pv
+casape,b932,rm
+casapesenna,m260,ce
+casapinta,b933,bi
+casaprota,b934,ri
+casapulla,b935,ce
+casarano,b936,le
+casargo,b937,lc
+casarile,b938,mi
+casarsa della delizia,b940,pn
+casarza ligure,b939,ge
+casasco,b941,al
+casasco d'intelvi,b942,co
+casatenovo,b943,lc
+casatisma,b945,pv
+casavatore,b946,na
+casazza,b947,bg
+cascia,b948,pg
+casciago,b949,va
+casciana terme,a559,pi
+cascina,b950,pi
+cascinette d'ivrea,b953,to
+casei gerola,b954,pv
+caselette,b955,to
+casella,b956,ge
+caselle in pittari,b959,sa
+caselle landi,b961,lo
+caselle lurani,b958,lo
+caselle torinese,b960,to
+casellina,b9262,fi
+caserta,b963,ce
+casier,b965,tv
+casignana,b966,rc
+casina,b967,re
+casirate d'adda,b971,bg
+caslino d'erba,b974,co
+casnate con bernate,b977,co
+casnigo,b978,bg
+casola di napoli,b980,na
+casola in lunigiana,b979,ms
+casola valsenio,b982,ra
+casole bruzio,b983,cs
+casole d'elsa,b984,si
+casoli,b985,ch
+casorate primo,b988,pv
+casorate sempione,b987,va
+casorezzo,b989,mi
+casoria,b990,na
+casorzo,b991,at
+casperia,a472,ri
+caspoggio,b993,so
+cassacco,b994,ud
+cassago brianza,b996,lc
+cassano allo ionio,c002,cs
+cassano d'adda,c003,mi
+cassano delle murge,b998,ba
+cassano irpino,b997,av
+cassano magnago,c004,va
+cassano spinola,c005,al
+cassano valcuvia,b999,va
+cassaro,c006,sr
+cassiglio,c007,bg
+cassina de' pecchi,c014,mi
+cassina rizzardi,c020,co
+cassina valsassina,c024,lc
+cassinasco,c022,at
+cassine,c027,al
+cassinelle,c030,al
+cassinetta di lugagnano,c033,mi
+cassino,c034,fr
+cassola,c037,vi
+cassolnovo,c038,pv
+castagnaro,c041,vr
+castagneto carducci,c044,li
+castagneto po,c045,to
+castagnito,c046,cn
+castagnole monferrato,c047,at
+castagnole piemonte,c048,to
+castana,c050,pv
+castano primo,c052,mi
+casteggio,c053,pv
+castegnato,c055,bs
+castegnero,c056,vi
+castel baronia,c058,av
+castel boglione,c064,at
+castel bolognese,c065,ra
+castel campagnano,b494,ce
+castel castagna,c040,te
+castel colonna,c071,an
+castel d'aiano,c075,bo
+castel d'ario,c076,mn
+castel d'azzano,c078,vr
+castel del giudice,c082,is
+castel del monte,c083,aq
+castel del piano,c085,gr
+castel del rio,c086,bo
+castel di casio,b969,bo
+castel di ieri,c090,aq
+castel di iudica,c091,ct
+castel di lama,c093,ap
+castel di lucio,c094,me
+castel di sangro,c096,aq
+castel di sasso,c097,ce
+castel di tora,c098,ri
+castel focognano,c102,ar
+castel frentano,c114,ch
+castel gabbiano,c115,cr
+castel gandolfo,c116,rm
+castel giorgio,c117,tr
+castel goffredo,c118,mn
+castel guelfo di bologna,c121,bo
+castel madama,c203,rm
+castel maggiore,c204,bo
+castel mella,c208,bs
+castel morrone,c211,ce
+castel ritaldi,c252,pg
+castel rocchero,c253,at
+castel rozzone,c255,bg
+castel san giorgio,c259,sa
+castel san giovanni,c261,pc
+castel san lorenzo,c262,sa
+castel san niccolo',c263,ar
+castel san pietro romano,c266,rm
+castel san pietro terme,c265,bo
+castel san vincenzo,c270,is
+castel sant'angelo,c268,ri
+castel sant'elia,c269,vt
+castel viscardo,c289,tr
+castel vittorio,c110,im
+castel volturno,c291,ce
+castelbaldo,c057,pd
+castelbelforte,c059,mn
+castelbellino,c060,an
+castelbianco,c063,sv
+castelbottaccio,c066,cb
+castelbuono,c067,pa
+castelcivita,c069,sa
+castelcovati,c072,bs
+castelcucco,c073,tv
+casteldaccia,c074,pa
+casteldelci,c080,ps
+casteldelfino,c081,cn
+casteldidone,c089,cr
+castelfidardo,c100,an
+castelfiorentino,c101,fi
+castelfondo,c103,tn
+castelforte,c104,lt
+castelfranci,c105,av
+castelfranco di sopra,c112,ar
+castelfranco di sotto,c113,pi
+castelfranco emilia,c107,mo
+castelfranco in miscano,c106,bn
+castelfranco veneto,c111,tv
+castelgomberto,c119,vi
+castelgrande,c120,pz
+castelguglielmo,c122,ro
+castelguidone,c123,ch
+castell'alfero,c127,at
+castell'arquato,c145,pc
+castell'azzara,c147,gr
+castell'umberto,c051,me
+castellabate,c125,sa
+castellafiume,c126,aq
+castellalto,c128,te
+castellammare del golfo,c130,tp
+castellammare di stabia,c129,na
+castellamonte,c133,to
+castellana grotte,c134,ba
+castellana sicula,c135,pa
+castellaneta,c136,ta
+castellania,c137,al
+castellanza,c139,va
+castellar,c140,cn
+castellar guidobono,c142,al
+castellarano,c141,re
+castellaro,c143,im
+castellavazzo,c146,bl
+castellazzo bormida,c148,al
+castellazzo novarese,c149,no
+castelleone,c153,cr
+castelleone di suasa,c152,an
+castellero,c154,at
+castelletto cervo,c155,bi
+castelletto d'erro,c156,al
+castelletto d'orba,c158,al
+castelletto di branduzzo,c157,pv
+castelletto merli,c160,al
+castelletto molina,c161,at
+castelletto monferrato,c162,al
+castelletto sopra ticino,c166,no
+castelletto stura,c165,cn
+castelletto uzzone,c167,cn
+castelli,c169,te
+castelli calepio,c079,bg
+castellina in chianti,c172,si
+castellina marittima,c174,pi
+castellinaldo,c173,cn
+castellino del biferno,c175,cb
+castellino tanaro,c176,cn
+castelliri,c177,fr
+castello cabiaglio,b312,va
+castello d'agogna,c184,pv
+castello d'argile,c185,bo
+castello del matese,c178,ce
+castello dell'acqua,c186,so
+castello di annone,a300,at
+castello di brianza,c187,lc
+castello di cisterna,c188,na
+castello di godego,c190,tv
+castello tesino,c194,tn
+castellucchio,c195,mn
+castelluccio inferiore,c199,pz
+castelluccio superiore,c201,pz
+castelluccio valmaggiore,c202,fg
+castelmagno,c205,cn
+castelmarte,c206,co
+castelmassa,c207,ro
+castelmauro,c197,cb
+castelmezzano,c209,pz
+castelnovetto,c213,pv
+castelnovo del friuli,c217,pn
+castelnovo di sotto,c218,re
+castelnovo ne' monti,c219,re
+castelnuovo,c216,tn
+castelnuovo belbo,c226,at
+castelnuovo berardenga,c227,si
+castelnuovo bocca d'adda,c228,lo
+castelnuovo bormida,c229,al
+castelnuovo bozzente,c220,co
+castelnuovo calcea,c230,at
+castelnuovo cilento,c231,sa
+castelnuovo del garda,c225,vr
+castelnuovo della daunia,c222,fg
+castelnuovo di ceva,c214,cn
+castelnuovo di conza,c235,sa
+castelnuovo di farfa,c224,ri
+castelnuovo di garfagnana,c236,lu
+castelnuovo di porto,c237,rm
+castelnuovo don bosco,c232,at
+castelnuovo magra,c240,sp
+castelnuovo nigra,c241,to
+castelnuovo parano,c223,fr
+castelnuovo rangone,c242,mo
+castelnuovo scrivia,c243,al
+castelpagano,c245,bn
+castelpetroso,c246,is
+castelpizzuto,c247,is
+castelplanio,c248,an
+castelpoto,c250,bn
+castelraimondo,c251,mc
+castelrotto,c254,bz
+castelsantangelo sul nera,c267,mc
+castelsaraceno,c271,pz
+castelsardo,c272,ss
+castelseprio,c273,va
+castelsilano,b968,kr
+castelspina,c274,al
+casteltermini,c275,ag
+castelveccana,c181,va
+castelvecchio calvisio,c278,aq
+castelvecchio di rocca barbena,c276,sv
+castelvecchio subequo,c279,aq
+castelvenere,c280,bn
+castelverde,b129,cr
+castelverrino,c200,is
+castelvetere in val fortore,c284,bn
+castelvetrano,c286,tp
+castelvetro di modena,c287,mo
+castelvetro piacentino,c288,pc
+castelvisconti,c290,cr
+castenaso,c292,bo
+castenedolo,c293,bs
+castiadas,m288,ca
+castiglion fibocchi,c318,ar
+castiglion fiorentino,c319,ar
+castiglione a casauria,c308,pe
+castiglione chiavarese,c302,ge
+castiglione cosentino,c301,cs
+castiglione d'adda,c304,lo
+castiglione d'intelvi,c299,co
+castiglione d'orcia,c313,si
+castiglione dei pepoli,c296,bo
+castiglione del genovesi,c306,sa
+castiglione del lago,c309,pg
+castiglione della pescaia,c310,gr
+castiglione delle stiviere,c312,mn
+castiglione di garfagnana,c303,lu
+castiglione di sicilia,c297,ct
+castiglione falletto,c314,cn
+castiglione in teverina,c315,vt
+castiglione messer marino,c298,ch
+castiglione olona,c300,va
+castiglione tinella,c317,cn
+castiglione torinese,c307,to
+castignano,c321,ap
+castilenti,c322,te
+castino,c323,cn
+castione andevenno,c325,so
+castione della presolana,c324,bg
+castions di strada,c327,ud
+castiraga vidardo,c329,lo
+casto,c330,bs
+castorano,c331,ap
+castrezzato,c332,bs
+castri di lecce,c334,le
+castrignano de' greci,c335,le
+castrignano del capo,c336,le
+castro,c337,bg
+castro dei volsci,c338,fr
+castrocaro terme e terra del sole, c339,fo
+castrocielo,c340,fr
+castrofilippo,c341,ag
+castrolibero,c108,cs
+castronno,c343,va
+castronuovo di sicilia,c344,pa
+castropignano,c346,cb
+castroreale,c347,me
+castroregio,c348,cs
+castrovillari,c349,cs
+catania,c351,ct
+catanzaro,c352,cz
+catenanuova,c353,en
+catignano,c354,pe
+cattolica,c357,rn
+cattolica eraclea,c356,ag
+caulonia,c285,rc
+cautano,c359,bn
+cava manara,c360,pv
+cava dei tirreni,c361,sa
+cavacurta,c362,lo
+cavaglia',c363,bi
+cavaglietto,c364,no
+cavaglio d'agogna,c365,no
+cavaglio-spoccia,c367,vb
+cavagnolo,c369,to
+cavaion veronese,c370,vr
+cavalese,c372,tn
+cavallasca,c374,co
+cavallerleone,c375,cn
+cavallermaggiore,c376,cn
+cavallino,c377,le
+cavallirio,c378,no
+cavareno,c380,tn
+cavargna,c381,co
+cavaria con premezzo,c382,va
+cavarzere,c383,ve
+cavaso del tomba,c384,tv
+cavasso nuovo,c385,pn
+cavatore,c387,al
+cavazzo carnico,c389,ud
+cave,c390,rm
+cavedago,c392,tn
+cavedine,c393,tn
+cavenago d'adda,c394,lo
+cavenago di brianza,c395,mi
+cavernago,c396,bg
+cavezzo,c398,mo
+cavizzana,c400,tn
+cavour,c404,to
+cavriago,c405,re
+cavriana,c406,mn
+cavriglia,c407,ar
+cazzago brabbia,c409,va
+cazzago san martino,c408,bs
+cazzano di tramigna,c412,vr
+cazzano sant'andrea,c410,bg
+ceccano,c413,fr
+cecima,c414,pv
+cecina,c415,li
+cedegolo,c417,bs
+cedrasco,c418,so
+cefala' diana,c420,pa
+cefalu',c421,pa
+ceggia,c422,ve
+ceglie messapico,c424,br
+celano,c426,aq
+celenza sul trigno,c428,ch
+celenza valfortore,c429,fg
+celico,c430,cs
+cella dati,c435,cr
+cella monte,c432,al
+cellamare,c436,ba
+cellara,c437,cs
+cellarengo,c438,at
+cellatica,c439,bs
+celle di bulgheria,c444,sa
+celle di macra,c441,cn
+celle enomondo,c440,at
+celle ligure,c443,sv
+celleno,c446,vt
+cellere,c447,vt
+cellino attanasio,c449,te
+cellino san marco,c448,br
+cellio,c450,vc
+cellole,m262,ce
+cembra,c452,tn
+cenadi,c453,cz
+cenate sopra,c456,bg
+cenate sotto,c457,bg
+cencenighe agordino,c458,bl
+cene,c459,bg
+ceneselli,c461,ro
+cengio,c463,sv
+centa san nicolo',c467,tn
+centallo,c466,cn
+cento,c469,fe
+centola,c470,sa
+centrache,c472,cz
+centuripe,c471,en
+cepagatti,c474,pe
+ceppaloni,c476,bn
+ceppo morelli,c478,vb
+ceprano,c479,fr
+cerami,c480,en
+ceranesi,c481,ge
+cerano,c483,no
+cerano d'intelvi,c482,co
+ceranova,c484,pv
+ceraso,c485,sa
+cercemaggiore,c486,cb
+cercenasco,c487,to
+cercepiccola,c488,cb
+cerchiara di calabria,c489,cs
+cerchio,c492,aq
+cercino,c493,so
+cercivento,c494,ud
+cercola,c495,na
+cerda,c496,pa
+cerea,c498,vr
+ceregnano,c500,ro
+cerenzia,c501,kr
+ceres,c497,to
+ceresara,c502,mn
+cereseto,c503,al
+ceresole reale,c505,to
+cerete,c506,bg
+ceretto lomellina,c508,pv
+cergnago,c509,pv
+ceriale,c510,sv
+ceriana,c511,im
+ceriano laghetto,c512,mi
+cerignale,c513,pc
+cerignola,c514,fg
+cerisano,c515,cs
+cermenate,c516,co
+cermes,a022,bz
+cermignano,c517,te
+cernobbio,c520,co
+cernusco lombardone,c521,lc
+cernusco sul naviglio,c523,mi
+cerreto castello,c526,bi
+cerreto d'asti,c528,at
+cerreto d'esi,c524,an
+cerreto di spoleto,c527,pg
+cerreto grue,c507,al
+cerreto guidi,c529,fi
+cerreto laziale,c518,rm
+cerreto sannita,c525,bn
+cerrina,c531,al
+cerrione,c532,bi
+cerro al lambro,c536,mi
+cerro al volturno,c534,is
+cerro maggiore,c537,mi
+cerro tanaro,c533,at
+cerro veronese,c538,vr
+cersosimo,c539,pz
+certaldo,c540,fi
+certosa di pavia,c541,pv
+cerva,c542,cz
+cervara di roma,c543,rm
+cervarese santa croce,c544,pd
+cervaro,c545,fr
+cervasca,c547,cn
+cervatto,c548,vc
+cerveno,c549,bs
+cervere,c550,cn
+cervesina,c551,pv
+cerveteri,c552,rm
+cervia,c553,ra
+cervicati,c554,cs
+cervignano d'adda,c555,lo
+cervignano del friuli,c556,ud
+cervinara,c557,av
+cervino,c558,ce
+cervo,c559,im
+cerzeto,c560,cs
+cesa,c561,ce
+cesana brianza,c563,lc
+cesana torinese,c564,to
+cesano boscone,c565,mi
+cesano maderno,c566,mi
+cesara,c567,vb
+cesaro',c568,me
+cesate,c569,mi
+cesena,c573,fo
+cesenatico,c574,fo
+cesinali,c576,av
+cesio,c578,im
+cesiomaggiore,c577,bl
+cessalto,c580,tv
+cessaniti,c581,vv
+cessapalombo,c582,mc
+cessole,c583,at
+cetara,c584,sa
+ceto,c585,bs
+cetona,c587,si
+cetraro,c588,cs
+ceva,c589,cn
+cevo,c591,bs
+chambave,c595,ao
+chamois,b491,ao
+champdepraz,c596,ao
+champorcher,b540,ao
+charvensod,c598,ao
+chatillon,c294,ao
+cherasco,c599,cn
+cheremule,c600,ss
+chialamberto,c604,to
+chiampo,c605,vi
+chianche,c606,av
+chianciano terme,c608,si
+chianni,c609,pi
+chianocco,c610,to
+chiaramonte gulfi,c612,rg
+chiaramonti,c613,ss
+chiarano,c614,tv
+chiaravalle,c615,an
+chiaravalle centrale,c616,cz
+chiari,c618,bs
+chiaromonte,c619,pz
+chiauci,c620,is
+chiavari,c621,ge
+chiavenna,c623,so
+chiaverano,c624,to
+chieri,c627,to
+chies d'alpago,c630,bl
+chiesa in valmalenco,c628,so
+chiesanuova,c629,to
+chiesina uzzanese,c631,pt
+chieti,c632,ch
+chieuti,c633,fg
+chieve,c634,cr
+chignolo d'isola,c635,bg
+chignolo po,c637,pv
+chioggia,c638,ve
+chiomonte,c639,to
+chions,c640,pn
+chitignano,c648,ar
+chiuduno,c649,bg
+chiuppano,c650,vi
+chiuro,c651,so
+chiusa,c652,bz
+chiusa di pesio,c653,cn
+chiusa di san michele,c655,to
+chiusa sclafani,c654,pa
+chiusaforte,c656,ud
+chiusanico,c657,im
+chiusano d'asti,c658,at
+chiusano di san domenico,c659,av
+chiusavecchia,c660,im
+chiusdino,c661,si
+chiusi,c662,si
+chiusi della verna,c663,ar
+chivasso,c665,to
+ciampino,m272,rm
+cianciana,c668,ag
+ciano d'enza,c669,re
+cibiana di cadore,c672,bl
+cicagna,c673,ge
+cicala,c674,cz
+cicciano,c675,na
+cicerale,c676,sa
+ciciliano,c677,rm
+cicognolo,c678,cr
+ciconio,c679,to
+cigliano,c680,vc
+ciglie',c681,cn
+cigognola,c684,pv
+cigole,c685,bs
+cilavegna,c686,pv
+cimadolmo,c689,tv
+cimbergo,c691,bs
+cimego,c694,tn
+cimina',c695,rc
+ciminna,c696,pa
+cimitile,c697,na
+cimolais,c699,pn
+cimone,c700,tn
+cinaglio,c701,at
+cineto romano,c702,rm
+cingia de' botti,c703,cr
+cingoli,c704,mc
+cinigiano,c705,gr
+cinisello balsamo,c707,mi
+cinisi,c708,pa
+cino,c709,so
+cinquefrondi,c710,rc
+cintano,c711,to
+cinte tesino,c712,tn
+cinto caomaggiore,c714,ve
+cinto euganeo,c713,pd
+cinzano,c715,to
+ciorlano,c716,ce
+cipressa,c718,im
+circello,c719,bn
+cirie',c722,to
+cirigliano,c723,mt
+cirimido,c724,co
+ciro',c725,kr
+ciro' marina,c726,kr
+cis,c727,tn
+cisano bergamasco,c728,bg
+cisano sul neva,c729,sv
+ciserano,c730,bg
+cislago,c732,va
+cisliano,c733,mi
+cismon del grappa,c734,vi
+cison di valmarino,c735,tv
+cissone,c738,cn
+cisterna d'asti,c739,at
+cisterna di latina,c740,lt
+cisternino,c741,br
+citerna,c742,pg
+citta' della pieve,c744,pg
+citta' di castello,c745,pg
+citta' sant'angelo,c750,pe
+cittadella,c743,pd
+cittaducale,c746,ri
+cittanova,c747,rc
+cittareale,c749,ri
+cittiglio,c751,va
+civate,c752,lc
+civenna,c754,co
+civezza,c755,im
+civezzano,c756,tn
+civiasco,c757,vc
+cividale del friuli,c758,ud
+cividate al piano,c759,bg
+cividate camuno,c760,bs
+civita,c763,cs
+civita castellana,c765,vt
+civita d'antino,c766,aq
+civitacampomarano,c764,cb
+civitaluparella,c768,ch
+civitanova del sannio,c769,is
+civitanova marche,c770,mc
+civitaquana,c771,pe
+civitavecchia,c773,rm
+civitella alfedena,c778,aq
+civitella casanova,c779,pe
+civitella d'agliano,c780,vt
+civitella del tronto,c781,te
+civitella di romagna,c777,fo
+civitella in val di chiana,c774,ar
+civitella messer raimondo,c776,ch
+civitella paganico,c782,gr
+civitella roveto,c783,aq
+civitella san paolo,c784,rm
+civo,c785,so
+claino con osteno,c787,co
+claut,c790,pn
+clauzetto,c791,pn
+clavesana,c792,cn
+claviere,c793,to
+cles,c794,tn
+cleto,c795,cs
+clivio,c796,va
+cloz,c797,tn
+clusone,c800,bg
+coassolo torinese,c801,to
+coazze,c803,to
+coazzolo,c804,at
+coccaglio,c806,bs
+cocconato,c807,at
+cocullo,c811,aq
+codevigo,c812,pd
+codevilla,c813,pv
+codigoro,c814,fe
+codogne',c815,tv
+codogno,c816,lo
+codroipo,c817,ud
+codrongianus,c818,ss
+coggiola,c819,bi
+cogliate,c820,mi
+cogne,c821,ao
+cogoleto,c823,ge
+cogollo del cengio,c824,vi
+cogorno,c826,ge
+colazza,c829,no
+colbordolo,c830,ps
+colcavagno,c831,at
+colere,c835,bg
+colfelice,c836,fr
+coli,c838,pc
+colico,c839,lc
+collagna,c840,re
+collalto sabino,c841,ri
+collarmele,c844,aq
+collazzone,c845,pg
+colle brianza,c851,lc
+colle d'anchise,c854,cb
+colle di tora,c857,ri
+colle di val d'elsa,c847,si
+colle san magno,c870,fr
+colle sannita,c846,bn
+colle santa lucia,c872,bl
+colle umberto,c848,tv
+collebeato,c850,bs
+collecchio,c852,pr
+collecorvino,c853,pe
+colledara,c311,te
+colledimacine,c855,ch
+colledimezzo,c856,ch
+colleferro,c858,rm
+collegiove,c859,ri
+collegno,c860,to
+collelongo,c862,aq
+collepardo,c864,fr
+collepasso,c865,le
+collepietro,c866,aq
+colleretto castelnuovo,c867,to
+colleretto giacosa,c868,to
+collesalvetti,c869,li
+collesano,c871,pa
+colletorto,c875,cb
+collevecchio,c876,ri
+colli del tronto,c877,ap
+colli sul velino,c880,ri
+colliano,c879,sa
+collinas,c882,ca
+collio,c883,bs
+collobiano,c884,vc
+colloredo di monte albano,c885,ud
+colmurano,c886,mc
+colobraro,c888,mt
+cologna veneta,c890,vr
+cologne,c893,bs
+cologno al serio,c894,bg
+cologno monzese,c895,mi
+colognola ai colli,c897,vr
+colonna,c900,rm
+colonnella,c901,te
+colonno,c902,co
+colorina,c903,so
+colorno,c904,pr
+colosimi,c905,cs
+colturano,c908,mi
+colzate,c910,bg
+comabbio,c911,va
+comacchio,c912,fe
+comano,c914,ms
+comazzo,c917,lo
+comeglians,c918,ud
+comelico superiore,c920,bl
+comerio,c922,va
+comignago,c926,no
+comiso,c927,rg
+comitini,c928,ag
+comiziano,c929,na
+commessaggio,c930,mn
+commezzadura,c931,tn
+como,c933,co
+compiano,c934,pr
+comun nuovo,c937,bg
+comunanza,c935,ap
+cona,c938,ve
+conca casale,c941,is
+conca dei marini,c940,sa
+conca della campania,c939,ce
+concamarise,c943,vr
+concei,c944,tn
+concerviano,c946,ri
+concesio,c948,bs
+conco,c949,vi
+concordia sagittaria,c950,ve
+concorezzo,c952,mi
+condino,c953,tn
+condofuri,c954,rc
+condove,c955,to
+condro',c956,me
+conegliano,c957,tv
+confienza,c958,pv
+configni,c959,ri
+conflenti,c960,cz
+coniolo,c962,al
+conselice,c963,ra
+conselve,c964,pd
+consiglio di rumo,c965,co
+contarina,c967,ro
+contessa entellina,c968,pa
+contigliano,c969,ri
+contrada,c971,av
+controguerra,c972,te
+controne,c973,sa
+contursi terme,c974,sa
+conversano,c975,ba
+conza della campania,c976,av
+conzano,c977,al
+copertino,c978,le
+copiano,c979,pv
+copparo,c980,fe
+corana,c982,pv
+corato,c983,ba
+corbara,c984,sa
+corbetta,c986,mi
+corbola,c987,ro
+corchiano,c988,vt
+corciano,c990,pg
+cordenons,c991,pn
+cordignano,c992,tv
+cordovado,c993,pn
+coredo,c994,tn
+coreglia antelminelli,c996,lu
+coreglia ligure,c995,ge
+coreno ausonio,c998,fr
+corfinio,c999,aq
+cori,d003,lt
+coriano,d004,rn
+corigliano calabro,d005,cs
+corigliano d'otranto,d006,le
+corinaldo,d007,an
+corio,d008,to
+corleone,d009,pa
+corleto monforte,d011,sa
+corleto perticara,d010,pz
+cormano,d013,mi
+cormons,d014,go
+corna imagna,d015,bg
+cornalba,d016,bg
+cornale,d017,pv
+cornaredo,d018,mi
+cornate d'adda,d019,mi
+cornedo all'isarco,b799,bz
+cornedo vicentino,d020,vi
+cornegliano laudense,d021,lo
+corneliano d'alba,d022,cn
+corniglio,d026,pr
+corno di rosazzo,d027,ud
+corno giovine,d028,lo
+cornovecchio,d029,lo
+cornuda,d030,tv
+correggio,d037,re
+correzzana,d038,mi
+correzzola,d040,pd
+corrido,d041,co
+corridonia,d042,mc
+corropoli,d043,te
+corsano,d044,le
+corsico,d045,mi
+corsione,d046,at
+cortale,d049,cz
+cortandone,d050,at
+cortanze,d051,at
+cortazzone,d052,at
+corte brugnatella,d054,pc
+corte de' cortesi con cignone,d056,cr
+corte de' frati,d057,cr
+corte franca,d058,bs
+corte palasio,d068,lo
+cortemaggiore,d061,pc
+cortemilia,d062,cn
+corteno golgi,d064,bs
+cortenova,d065,lc
+cortenuova,d066,bg
+corteolona,d067,pv
+cortiglione,d072,at
+cortina d'ampezzo,a266,bl
+cortina sulla strada del vino,d075,bz
+cortino,d076,te
+cortona,d077,ar
+corvara,d078,pe
+corvara in badia,d079,bz
+corvino san quirico,d081,pv
+corzano,d082,bs
+coseano,d085,ud
+cosenza,d086,cs
+cosio di arroscia,d087,im
+cosio valtellino,d088,so
+cosoleto,d089,rc
+cossano belbo,d093,cn
+cossano canavese,d092,to
+cossato,d094,bi
+cosseria,d095,sv
+cossignano,d096,ap
+cossogno,d099,vb
+cossoine,d100,ss
+cossombrato,d101,at
+costa de' nobili,d109,pv
+costa di mezzate,d110,bg
+costa di rovigo,d105,ro
+costa di serina,d111,bg
+costa masnaga,d112,lc
+costa valle imagna,d103,bg
+costa vescovato,d102,al
+costa volpino,d117,bg
+costabissara,d107,vi
+costacciaro,d108,pg
+costanzana,d113,vc
+costarainera,d114,im
+costermano,d118,vr
+costigliole d'asti,d119,at
+costigliole saluzzo,d120,cn
+cotignola,d121,ra
+cotronei,d123,kr
+cottanello,d124,ri
+courmayeur,d012,ao
+covo,d126,bg
+cozzo,d127,pv
+craco,d128,mt
+crandola valsassina,d131,lc
+cravagliana,d132,vc
+cravanzana,d133,cn
+craveggia,d134,vb
+creazzo,d136,vi
+crecchio,d137,ch
+credaro,d139,bg
+credera rubbiano,d141,cr
+crema,d142,cr
+cremella,d143,lc
+cremenaga,d144,va
+cremeno,d145,lc
+cremia,d147,co
+cremolino,d149,al
+cremona,d150,cr
+cremosano,d151,cr
+crescentino,d154,vc
+crespadoro,d156,vi
+crespano del grappa,d157,tv
+crespellano,d158,bo
+crespiatica,d159,lo
+crespina,d160,pi
+crespino,d161,ro
+cressa,d162,no
+crevacuore,d165,bi
+crevalcore,d166,bo
+crevoladossola,d168,vb
+crispano,d170,na
+crispiano,d171,ta
+crissolo,d172,cn
+crocefieschi,d175,ge
+crocetta del montello,c670,tv
+crodo,d177,vb
+crognaleto,d179,te
+cropalati,d180,cs
+cropani,d181,cz
+crosa,d182,bi
+crosia,d184,cs
+crosio della valle,d185,va
+crotone,d122,kr
+crotta d'adda,d186,cr
+crova,d187,vc
+croviana,d188,tn
+crucoli,d189,kr
+cuasso al monte,d192,va
+cuccaro monferrato,d194,al
+cuccaro vetere,d195,sa
+cucciago,d196,co
+cuceglio,d197,to
+cuggiono,d198,mi
+cugliate-fabiasco,d199,va
+cuglieri,d200,or
+cugnoli,d201,pe
+cumiana,d202,to
+cumignano sul naviglio,d203,cr
+cunardo,d204,va
+cuneo,d205,cn
+cunevo,d206,tn
+cunico,d207,at
+cuorgne',d208,to
+cupello,d209,ch
+cupra marittima,d210,ap
+cupramontana,d211,an
+cura carpignano,b824,pv
+curcuris,d214,or
+cureggio,d216,no
+curiglia con monteviasco,d217,va
+curinga,d218,cz
+curino,d219,bi
+curno,d221,bg
+curon venosta,d222,bz
+cursi,d223,le
+curtarolo,d226,pd
+curtatone,d227,mn
+curti,d228,ce
+cusago,d229,mi
+cusano milanino,d231,mi
+cusano mutri,d230,bn
+cusino,d232,co
+cusio,d233,bg
+custonaci,d234,tp
+cutigliano,d235,pt
+cutro,d236,kr
+cutrofiano,d237,le
+cuveglio,d238,va
+cuvio,d239,va
+daiano,d243,tn
+dairago,d244,mi
+dalmine,d245,bg
+dambel,d246,tn
+danta di cadore,d247,bl
+daone,d248,tn
+dare',d250,tn
+darfo boario terme,d251,bs
+dasa',d253,vv
+davagna,d255,ge
+daverio,d256,va
+davoli,d257,cz
+dazio,d258,so
+decimomannu,d259,ca
+decimoputzu,d260,ca
+decollatura,d261,cz
+dego,d264,sv
+deiva marina,d265,sp
+delebio,d266,so
+delia,d267,cl
+delianuova,d268,rc
+deliceto,d269,fg
+dello,d270,bs
+demonte,d271,cn
+denice,d272,al
+denno,d273,tn
+dernice,d277,al
+derovere,d278,cr
+deruta,d279,pg
+dervio,d280,lc
+desana,d281,vc
+desenzano del garda,d284,bs
+desio,d286,mi
+desulo,d287,nu
+diamante,d289,cs
+diano arentino,d293,im
+diano castello,d296,im
+diano d'alba,d291,cn
+diano marina,d297,im
+diano san pietro,d298,im
+dicomano,d299,fi
+dignano,d300,ud
+dimaro,d302,tn
+dinami,d303,vv
+dipignano,d304,cs
+diso,d305,le
+divignano,d309,no
+dizzasco,d310,co
+dobbiaco,d311,bz
+doberdo' del lago,d312,go
+dogliani,d314,cn
+dogliola,d315,ch
+dogna,d316,ud
+dolce',d317,vr
+dolceacqua,d318,im
+dolcedo,d319,im
+dolegna del collio,d321,go
+dolianova,d323,ca
+dolo,d325,ve
+dolzago,d327,lc
+domanico,d328,cs
+domaso,d329,co
+domegge di cadore,d330,bl
+domicella,d331,av
+domodossola,d332,vb
+domus de maria,d333,ca
+domusnovas,d334,ca
+don,d336,tn
+donada,d337,ro
+donato,d339,bi
+dongo,d341,co
+donnas,d338,ao
+dorgali,d345,nu
+dorio,d346,lc
+dormelletto,d347,no
+dorno,d348,pv
+dorsino,d349,tn
+dorzano,d350,bi
+dosolo,d351,mn
+dossena,d352,bg
+dosso del liro,d355,co
+doues,d356,ao
+dovadola,d357,fo
+dovera,d358,cr
+dozza,d360,bo
+dragoni,d361,ce
+drapia,d364,vv
+drena,d365,tn
+drenchia,d366,ud
+dresano,d367,mi
+drezzo,d369,co
+drizzona,d370,cr
+dronero,d372,cn
+druento,d373,to
+druogno,d374,vb
+dualchi,d376,nu
+dubino,d377,so
+dueville,d379,vi
+dugenta,d380,bn
+duino aurisina,d383,ts
+dumenza,d384,va
+duno,d385,va
+durazzano,d386,bn
+duronia,c772,cb
+dusino san michele,d388,at
+eboli,d390,sa
+edolo,d391,bs
+egna,d392,bz
+elice,d394,pe
+elini,d395,nu
+ello,d398,lc
+elmas,d399,ca
+elva,d401,cn
+emarese,d402,ao
+empoli,d403,fi
+endine gaiano,d406,bg
+enego,d407,vi
+enemonzo,d408,ud
+enna,c342,en
+entracque,d410,cn
+entratico,d411,bg
+envie,d412,cn
+episcopia,d414,pz
+eraclea,d415,ve
+erba,d416,co
+erbezzo,d420,vr
+erbusco,d421,bs
+erchie,d422,br
+ercolano,h243,na
+erice,d423,tp
+erli,d424,sv
+erto e casso,d426,pn
+erve,d428,lc
+esanatoglia,d429,mc
+escalaplano,d430,nu
+escolca,d431,nu
+esine,d434,bs
+esino lario,d436,lc
+esperia,d440,fr
+esporlatu,d441,ss
+este,d442,pd
+esterzili,d443,nu
+etroubles,d444,ao
+eupilio,d445,co
+exilles,d433,to
+fabbrica curone,d447,al
+fabbriche di vallico,d449,lu
+fabbrico,d450,re
+fabriano,d451,an
+fabrica di roma,d452,vt
+fabrizia,d453,vv
+fabro,d454,tr
+faedis,d455,ud
+faedo,d457,tn
+faedo valtellino,d456,so
+faenza,d458,ra
+faeto,d459,fg
+fagagna,d461,ud
+faggeto lario,d462,co
+faggiano,d463,ta
+fagnano alto,d465,aq
+fagnano castello,d464,cs
+fagnano olona,d467,va
+fai della paganella,d468,tn
+faicchio,d469,bn
+falcade,d470,bl
+falciano del massico,d471,ce
+falconara albanese,d473,cs
+falconara marittima,d472,an
+falcone,d474,me
+faleria,d475,vt
+falerna,d476,cz
+falerone,d477,ap
+fallo,d480,ch
+falmenta,d481,vb
+faloppio,d482,co
+falvaterra,d483,fr
+falzes,d484,bz
+fanano,d486,mo
+fanna,d487,pn
+fano,d488,ps
+fano adriano,d489,te
+fara filiorum petri,d494,ch
+fara gera d'adda,d490,bg
+fara in sabina,d493,ri
+fara novarese,d492,no
+fara olivana con sola,d491,bg
+fara san martino,d495,ch
+fara vicentino,d496,vi
+fardella,d497,pz
+farigliano,d499,cn
+farindola,d501,pe
+farini,d502,pc
+farnese,d503,vt
+farra d'alpago,d506,bl
+farra d'isonzo,d504,go
+farra di soligo,d505,tv
+fasano,d508,br
+fascia,d509,ge
+fauglia,d510,pi
+faule,d511,cn
+favale di malvaro,d512,ge
+favara,d514,ag
+faver,d516,tn
+favignana,d518,tp
+favria,d520,to
+feisoglio,d523,cn
+feletto,d524,to
+felino,d526,pr
+felitto,d527,sa
+felizzano,d528,al
+felonica,d529,mn
+feltre,d530,bl
+fenegro',d531,co
+fenestrelle,d532,to
+fenis,d537,ao
+ferentillo,d538,tr
+ferentino,d539,fr
+ferla,d540,sr
+fermignano,d541,ps
+fermo,d542,ap
+ferno,d543,va
+feroleto antico,d544,cz
+feroleto della chiesa,d545,rc
+ferrandina,d547,mt
+ferrara,d548,fe
+ferrara di monte baldo,d549,vr
+ferrazzano,d550,cb
+ferrera di varese,d551,va
+ferrera erbognone,d552,pv
+ferrere,d554,at
+ferriere,d555,pc
+ferruzzano,d557,rc
+fiamignano,d560,ri
+fiano,d562,to
+fiano romano,d561,rm
+fiastra,d564,mc
+fiave',d565,tn
+ficarazzi,d567,pa
+ficarolo,d568,ro
+ficarra,d569,me
+ficulle,d570,tr
+fidenza,b034,pr
+fiera di primiero,d572,tn
+fierozzo,d573,tn
+fiesco,d574,cr
+fiesole,d575,fi
+fiesse,d576,bs
+fiesso d'artico,d578,ve
+fiesso umbertiano,d577,ro
+figino serenza,d579,co
+figline valdarno,d583,fi
+figline vegliaturo,d582,cs
+filacciano,d586,rm
+filadelfia,d587,vv
+filago,d588,bg
+filandari,d589,vv
+filattiera,d590,ms
+filettino,d591,fr
+filetto,d592,ch
+filiano,d593,pz
+filighera,d594,pv
+filignano,d595,is
+filogaso,d596,vv
+filottrano,d597,an
+finale emilia,d599,mo
+finale ligure,d600,sv
+fino del monte,d604,bg
+fino mornasco,d605,co
+fiorano al serio,d606,bg
+fiorano canavese,d608,to
+fiorano modenese,d607,mo
+fiordimonte,d609,mc
+fiorenzuola d'arda,d611,pc
+firenze,d612,fi
+firenzuola,d613,fi
+firmo,d614,cs
+fisciano,d615,sa
+fiuggi,a310,fr
+fiumalbo,d617,mo
+fiumara,d619,rc
+fiume veneto,d621,pn
+fiumedinisi,d622,me
+fiumefreddo bruzio,d624,cs
+fiumicello,d627,ud
+fiuminata,d628,mc
+fivizzano,d629,ms
+flaibano,d630,ud
+flavon,d631,tn
+flero,d634,bs
+floresta,d635,me
+floridia,d636,sr
+florinas,d637,ss
+flumeri,d638,av
+fluminimaggiore,d639,ca
+flussio,d640,nu
+fobello,d641,vc
+foggia,d643,fg
+foglianise,d644,bn
+fogliano redipuglia,d645,go
+foglizzo,d646,to
+foiano della chiana,d649,ar
+foiano di val fortore,d650,bn
+folgaria,d651,tn
+folignano,d652,ap
+foligno,d653,pg
+follina,d654,tv
+follo,d655,sp
+follonica,d656,gr
+fombio,d660,lo
+fondachelli-fantina,d661,me
+fondi,d662,lt
+fondo,d663,tn
+fonni,d665,nu
+fontainemore,d666,ao
+fontana liri,d667,fr
+fontanafredda,d670,pn
+fontanarosa,d671,av
+fontanelice,d668,bo
+fontanella,d672,bg
+fontanellato,d673,pr
+fontanelle,d674,tv
+fontaneto d'agogna,d675,no
+fontanetto po,d676,vc
+fontanigorda,d677,ge
+fontanile,d678,at
+fontaniva,d679,pd
+fonte,d680,tv
+fontecchio,d681,aq
+fontechiari,d682,fr
+fontegreca,d683,ce
+fonteno,d684,bg
+fontevivo,d685,pr
+fonzaso,d686,bl
+foppolo,d688,bg
+forano,d689,ri
+force,d691,ap
+forchia,d693,bn
+forcola,d694,so
+fordongianus,d695,or
+forenza,d696,pz
+foresto sparso,d697,bg
+forgaria nel friuli,d700,ud
+forino,d701,av
+forio,d702,na
+forli del sannio,d703,is
+forli',d704,fo
+forlimpopoli,d705,fo
+formazza,d706,vb
+formello,d707,rm
+formia,d708,lt
+formicola,d709,ce
+formigara,d710,cr
+formigine,d711,mo
+formigliana,d712,vc
+formignana,d713,fe
+fornace,d714,tn
+fornelli,d715,is
+forni avoltri,d718,ud
+forni di sopra,d719,ud
+forni di sotto,d720,ud
+forno canavese,d725,to
+forno di zoldo,d726,bl
+fornovo di taro,d728,pr
+forte dei marmi,d730,lu
+fortezza,d731,bz
+fortunago,d732,pv
+forza d'agro',d733,me
+fosciandora,d734,lu
+fosdinovo,d735,ms
+fossa,d736,aq
+fossacesia,d738,ch
+fossalta di piave,d740,ve
+fossalto,d737,cb
+fossano,d742,cn
+fossato di vico,d745,pg
+fossato serralta,d744,cz
+fosso',d748,ve
+fossombrone,d749,ps
+foza,d750,vi
+frabosa soprana,d751,cn
+frabosa sottana,d752,cn
+fraconalto,d559,al
+fragagnano,d754,ta
+fragneto l'abate,d755,bn
+fragneto monforte,d756,bn
+fraine,d757,ch
+framura,d758,sp
+francavilla al mare,d763,ch
+francavilla angitola,d762,vv
+francavilla bisio,d759,al
+francavilla d'ete,d760,ap
+francavilla di sicilia,d765,me
+francavilla fontana,d761,br
+francavilla in sinni,d766,pz
+francavilla marittima,d764,cs
+francica,d767,vv
+francofonte,d768,sr
+francolise,d769,ce
+frascaro,d770,al
+frascarolo,d771,pv
+frascati,d773,rm
+frascineto,d774,cs
+frassilongo,d775,tn
+frassinelle polesine,d776,ro
+frassinello monferrato,d777,al
+frassineto po,d780,al
+frassinetto,d781,to
+frassino,d782,cn
+frassinoro,d783,mo
+frasso sabino,d785,ri
+frasso telesino,d784,bn
+fratta polesine,d788,ro
+fratta todina,d787,pg
+frattamaggiore,d789,na
+frattaminore,d790,na
+fratte rosa,d791,ps
+frazzano',d793,me
+fregona,d794,tv
+fresagrandinaria,d796,ch
+fresonara,d797,al
+frigento,d798,av
+frignano,d799,ce
+frinco,d802,at
+frisa,d803,ch
+frisanco,d804,pn
+front,d805,to
+frontino,d807,ps
+frontone,d808,ps
+frosinone,d810,fr
+frosolone,d811,is
+frossasco,d812,to
+frugarolo,d813,al
+fubine,d814,al
+fucecchio,d815,fi
+fuipiano valle imagna,d817,bg
+fumane,d818,vr
+fumone,d819,fr
+furci,d823,ch
+furci siculo,d824,me
+furnari,d825,me
+furore,d826,sa
+furtei,d827,ca
+fuscaldo,d828,cs
+fusignano,d829,ra
+fusine,d830,so
+futani,d832,sa
+gabbioneta binanuova,d834,cr
+gabiano,d835,al
+gabicce mare,d836,ps
+gaby,d839,ao
+gadesco pieve delmona,d841,cr
+gadoni,d842,nu
+gaeta,d843,lt
+gaggi,d844,me
+gaggiano,d845,mi
+gaggio montano,d847,bo
+gaglianico,d848,bi
+gagliano aterno,d850,aq
+gagliano castelferrato,d849,en
+gagliano del capo,d851,le
+gagliato,d852,cz
+gagliole,d853,mc
+gaiarine,d854,tv
+gaiba,d855,ro
+gaiola,d856,cn
+gaiole in chianti,d858,si
+gairo,d859,nu
+gais,d860,bz
+galati mamertino,d861,me
+galatina,d862,le
+galatone,d863,le
+galatro,d864,rc
+galbiate,d865,lc
+galeata,d867,fo
+galgagnano,d868,lo
+gallarate,d869,va
+gallese,d870,vt
+galliate,d872,no
+galliate lombardo,d871,va
+galliavola,d873,pv
+gallicano,d874,lu
+gallicano nel lazio,d875,rm
+gallicchio,d876,pz
+galliera,d878,bo
+galliera veneta,d879,pd
+gallinaro,d881,fr
+gallio,d882,vi
+gallipoli,d883,le
+gallo,d884,ce
+gallodoro,d885,me
+galluccio,d886,ce
+galluzzo,d887,fi
+galtelli,d888,nu
+galzignano terme,d889,pd
+gamalero,d890,al
+gambara,d891,bs
+gambarana,d892,pv
+gambasca,d894,cn
+gambassi terme,d895,fi
+gambatesa,d896,cb
+gambellara,d897,vi
+gamberale,d898,ch
+gambettola,d899,fo
+gambolo',d901,pv
+gambugliano,d902,vi
+gandellino,d903,bg
+gandino,d905,bg
+gandosso,d906,bg
+gangi,d907,pa
+garaguso,d909,mt
+garbagna,d910,al
+garbagna novarese,d911,no
+garbagnate milanese,d912,mi
+garbagnate monastero,d913,lc
+garda,d915,vr
+gardone riviera,d917,bs
+gardone val trompia,d918,bs
+garessio,d920,cn
+gargallo,d921,no
+gargazzone,d923,bz
+gargnano,d924,bs
+garlasco,d925,pv
+garlate,d926,lc
+garlenda,d927,sv
+garniga,d928,tn
+garzeno,d930,co
+garzigliana,d931,to
+gasperina,d932,cz
+gassino torinese,d933,to
+gattatico,d934,re
+gatteo,d935,fo
+gattico,d937,no
+gattinara,d938,vc
+gavardo,d940,bs
+gavazzana,d941,al
+gavello,d942,ro
+gaverina terme,d943,bg
+gavi,d944,al
+gavignano,d945,rm
+gavirate,d946,va
+gavoi,d947,nu
+gavorrano,d948,gr
+gazoldo degli ippoliti,d949,mn
+gazzada schianno,d951,va
+gazzaniga,d952,bg
+gazzo,d955,pd
+gazzo veronese,d957,vr
+gazzola,d958,pc
+gazzuolo,d959,mn
+gela,d960,cl
+gemmano,d961,rn
+gemona del friuli,d962,ud
+gemonio,d963,va
+genazzano,d964,rm
+genga,d965,an
+genivolta,d966,cr
+genola,d967,cn
+genoni,d968,nu
+genova,d969,ge
+genuri,d970,ca
+genzano di lucania,d971,pz
+genzano di roma,d972,rm
+genzone,d973,pv
+gera lario,d974,co
+gerace,d975,rc
+geraci siculo,d977,pa
+gerano,d978,rm
+gerenzago,d980,pv
+gerenzano,d981,va
+gergei,d982,nu
+germagnano,d983,to
+germagno,d984,vb
+germasino,d986,co
+germignaga,d987,va
+gerocarne,d988,vv
+gerola alta,d990,so
+gerosa,d991,bg
+gerre de' caprioli,d993,cr
+gesico,d994,ca
+gessate,d995,mi
+gessopalena,d996,ch
+gesturi,d997,ca
+gesualdo,d998,av
+ghedi,d999,bs
+ghemme,e001,no
+ghiffa,e003,vb
+ghilarza,e004,or
+ghisalba,e006,bg
+ghislarengo,e007,vc
+giaglione,e009,to
+gianico,e010,bs
+giano dell'umbria,e012,pg
+giano vetusto,e011,ce
+giardinello,e013,pa
+giardini-naxos,e014,me
+giarole,e015,al
+giarratana,e016,rg
+giarre,e017,ct
+giave,e019,ss
+giaveno,e020,to
+giavera del montello,e021,tv
+giba,e022,ca
+gibellina,e023,tp
+gifflenga,e024,bi
+giffone,e025,rc
+giffoni sei casali,e026,sa
+giffoni valle piana,e027,sa
+gignese,e028,vb
+gignod,e029,ao
+gildone,e030,cb
+gimigliano,e031,cz
+ginestra,e033,pz
+ginestra degli schiavoni,e034,bn
+ginosa,e036,ta
+gioi,e037,sa
+gioia dei marsi,e040,aq
+gioia del colle,e038,ba
+gioia sannitica,e039,ce
+gioia tauro,e041,rc
+gioiosa ionica,e044,rc
+gioiosa marea,e043,me
+giove,e045,tr
+giovinazzo,e047,ba
+giovo,e048,tn
+girasole,e049,nu
+girifalco,e050,cz
+gironico,e051,co
+gissi,e052,ch
+giuggianello,e053,le
+giugliano in campania,e054,na
+giuliana,e055,pa
+giuliano di roma,e057,fr
+giuliano teatino,e056,ch
+giulianova,e058,te
+giuncugnano,e059,lu
+giungano,e060,sa
+giurdignano,e061,le
+giussago,e062,pv
+giussano,e063,mi
+giustenice,e064,sv
+giustino,e065,tn
+giusvalla,e066,sv
+givoletto,e067,to
+gizzeria,e068,cz
+godega di sant'urbano,e071,tv
+godiasco,e072,pv
+godrano,e074,pa
+goito,e078,mn
+golasecca,e079,va
+golferenzo,e081,pv
+golfo aranci,m274,ss
+gombito,e082,cr
+gonars,e083,ud
+goni,e084,ca
+gonnesa,e086,ca
+gonnoscodina,e087,or
+gonnosfanadiga,e085,ca
+gonnosno',d585,or
+gonnostramatza,e088,or
+gonzaga,e089,mn
+gordona,e090,so
+gorga,e091,rm
+gorgo al monticano,e092,tv
+gorgoglione,e093,mt
+gorgonzola,e094,mi
+goriano sicoli,e096,aq
+gorizia,e098,go
+gorla maggiore,e101,va
+gorla minore,e102,va
+gorlago,e100,bg
+gorle,e103,bg
+gornate olona,e104,va
+gorno,e106,bg
+goro,e107,fe
+gorreto,e109,ge
+gorzegno,e111,cn
+gosaldo,e113,bl
+gossolengo,e114,pc
+gottasecca,e115,cn
+gottolengo,e116,bs
+govone,e118,cn
+gozzano,e120,no
+gradara,e122,ps
+gradisca d'isonzo,e124,go
+grado,e125,go
+gradoli,e126,vt
+graffignana,e127,lo
+graffignano,e128,vt
+graglia,e130,bi
+gragnano,e131,na
+gragnano trebbiense,e132,pc
+grammichele,e133,ct
+grana,e134,at
+granaglione,e135,bo
+granarolo dell'emilia,e136,bo
+grancona,e138,vi
+grandate,e139,co
+grandola ed uniti,e141,co
+graniti,e142,me
+granozzo con monticello,e143,no
+grantola,e144,va
+grantorto,e145,pd
+granze,e146,pd
+grassano,e147,mt
+grassobbio,e148,bg
+gratteri,e149,pa
+grauno,e150,tn
+gravedona,e151,co
+gravellona lomellina,e152,pv
+gravellona toce,e153,vb
+gravere,e154,to
+gravina di puglia,e155,ba
+gravina di catania,e156,ct
+grazzanise,e158,ce
+grazzano badoglio,e159,at
+greccio,e160,ri
+greci,e161,av
+greco milanese,e162,mi
+greggio,e163,vc
+gremiasco,e164,al
+gressan,e165,ao
+greve in chianti,e169,fi
+grezzago,e170,mi
+grezzana,e171,vr
+griante,e172,co
+gricignano di aversa,e173,ce
+grignasco,e177,no
+grigno,e178,tn
+grimacco,e179,ud
+grimaldi,e180,cs
+grinzane cavour,e182,cn
+grisignano di zocco,e184,vi
+grisolia,e185,cs
+grognardo,e188,al
+gromo,e189,bg
+grondona,e191,al
+grone,e192,bg
+grontardo,e193,cr
+gropello cairoli,e195,pv
+gropparello,e196,pc
+groscavallo,e199,to
+grosio,e200,so
+grosotto,e201,so
+grosseto,e202,gr
+grosso,e203,to
+grottaferrata,e204,rm
+grottaglie,e205,ta
+grottaminarda,e206,av
+grottammare,e207,ap
+grottazzolina,e208,ap
+grotte,e209,ag
+grotte di castro,e210,vt
+grotteria,e212,rc
+grottole,e213,mt
+grottolella,e214,av
+gruaro,e215,ve
+grugliasco,e216,to
+grumello del monte,e219,bg
+grumento nova,e221,pz
+grumes,e222,tn
+grumo appula,e223,ba
+grumo nevano,e224,na
+grumolo delle abbadesse,e226,vi
+guagnano,e227,le
+gualdo,e228,mc
+gualdo cattaneo,e229,pg
+gualdo tadino,e230,pg
+gualtieri,e232,re
+gualtieri sicamino',e233,me
+guamaggiore,e234,ca
+guanzate,e235,co
+guarcino,e236,fr
+guarda veneta,e240,ro
+guardabosone,e237,vc
+guardamiglio,e238,lo
+guardavalle,e239,cz
+guardea,e241,tr
+guardia lombardi,e245,av
+guardia perticara,e246,pz
+guardia piemontese,e242,cs
+guardia sanframondi,e249,bn
+guardiagrele,e243,ch
+guardialfiera,e244,cb
+guardiaregia,e248,cb
+guardistallo,e250,pi
+guarene,e251,cn
+guasila,e252,ca
+guastalla,e253,re
+guazzora,e255,al
+gubbio,e256,pg
+gudo visconti,e258,mi
+guglionesi,e259,cb
+guidizzolo,e261,mn
+guidonia montecelio,e263,rm
+guiglia,e264,mo
+guilmi,e266,ch
+gurro,e269,vb
+guspini,e270,ca
+gussago,e271,bs
+gussola,e272,cr
+hone,e273,ao
+idro,e280,bs
+iglesias,e281,ca
+igliano,e282,cn
+ilbono,e283,nu
+illasi,e284,vr
+illorai,e285,ss
+imbersago,e287,lc
+imer,e288,tn
+imola,e289,bo
+imperia,e290,im
+impruneta,e291,fi
+inarzo,e292,va
+incisa in val d'arno,e296,fi
+incisa scapaccino,e295,at
+incudine,e297,bs
+induno olona,e299,va
+ingria,e301,to
+intragna,e304,vb
+introbio,e305,lc
+introd,e306,ao
+introdacqua,e307,aq
+introzzo,e308,lc
+inverigo,e309,co
+inverno e monteleone,e310,pv
+inverso pinasca,e311,to
+inveruno,e313,mi
+invorio,e314,no
+inzago,e317,mi
+ionadi,e321,vv
+irgoli,e323,nu
+irma,e325,bs
+irsina,e326,mt
+isasca,e327,cn
+isca sullo ionio,e328,cz
+ischia,e329,na
+ischia di castro,e330,vt
+ischitella,e332,fg
+iseo,e333,bs
+isera,e334,tn
+isernia,e335,is
+isili,e336,nu
+isnello,e337,pa
+isola d'asti,e338,at
+isola del cantone,e341,ge
+isola del giglio,e348,gr
+isola del gran sasso d'italia,e343,te
+isola del liri,e340,fr
+isola del piano,e351,ps
+isola della scala,e349,vr
+isola delle femmine,e350,pa
+isola di capo rizzuto,e339,kr
+isola di fondra,e353,bg
+isola dovarese,e356,cr
+isola rizza,e358,vr
+isola sant'antonio,e360,al
+isola vicentina,e354,vi
+isolabella,e345,to
+isolabona,e346,im
+isole tremiti,e363,fg
+isorella,e364,bs
+ispani,e365,sa
+ispica,e366,rg
+ispra,e367,va
+issiglio,e368,to
+issime,e369,ao
+isso,e370,bg
+issogne,e371,ao
+istrana,e373,tv
+itala,e374,me
+itri,e375,lt
+ittireddu,e376,ss
+ittiri,e377,ss
+ivrea,e379,to
+izano,e380,cr
+jelsi,e381,cb
+jerzu,e387,nu
+jesi,e388,an
+jesolo,c388,ve
+jovencan,e391,ao
+l'aquila,a345,aq
+la cassa,e394,to
+la loggia,e423,to
+la maddalena,e425,ss
+la magdeleine,a308,ao
+la morra,e430,cn
+la salle,e458,ao
+la spezia,e463,sp
+la thuile,e470,ao
+la valle agordina,e490,bl
+labico,e392,rm
+labro,e393,ri
+lacchiarella,e395,mi
+lacco ameno,e396,na
+lacedonia,e397,av
+laces,e398,bz
+laconi,e400,nu
+ladispoli,m212,rm
+laerru,e401,ss
+laganadi,e402,rc
+laghi,e403,vi
+laglio,e405,co
+lagnasco,e406,cn
+lago,e407,cs
+lagonegro,e409,pz
+lagosanto,e410,fe
+lagundo,e412,bz
+laigueglia,e414,sv
+lainate,e415,mi
+laino,e416,co
+laino borgo,e417,cs
+laino castello,e419,cs
+laion,e420,bz
+laives,e421,bz
+lallio,e422,bg
+lama dei peligni,e424,ch
+lama mocogno,e426,mo
+lambrugo,e428,co
+lamezia terme,m208,cz
+lamon,e429,bl
+lampedusa e linosa,e431,ag
+lamporecchio,e432,pt
+lamporo,e433,vc
+lana,e434,bz
+lanciano,e435,ch
+landiona,e436,no
+landriano,e437,pv
+langhirano,e438,pr
+langosco,e439,pv
+lanusei,e441,nu
+lanuvio,c767,rm
+lanzada,e443,so
+lanzo d'intelvi,e444,co
+lanzo torinese,e445,to
+lapedona,e447,ap
+lapio,e448,av
+lappano,e450,cs
+larciano,e451,pt
+lardaro,e452,tn
+lardirago,e454,pv
+lari,e455,pi
+lariano,m207,rm
+larino,e456,cb
+las plassas,e464,ca
+lasa,e457,bz
+lascari,e459,pa
+lasino,e461,tn
+lasnigo,e462,co
+lastebasse,e465,vi
+lastra a signa,e466,fi
+latera,e467,vt
+laterina,e468,ar
+laterza,e469,ta
+latiano,e471,br
+latina,e472,lt
+latisana,e473,ud
+latronico,e474,pz
+lattarico,e475,cs
+lauco,e476,ud
+laureana cilento,e480,sa
+laureana di borrello,e479,rc
+laurenzana,e482,pz
+lauria,e483,pz
+lauriano,e484,to
+laurino,e485,sa
+laurito,e486,sa
+lauro,e487,av
+lavagna,e488,ge
+lavagno,e489,vr
+lavarone,e492,tn
+lavello,e493,pz
+lavena ponte tresa,e494,va
+laveno-mombello,e496,va
+lavenone,e497,bs
+laviano,e498,sa
+lavis,e500,tn
+lazise,e502,vr
+lazzate,e504,mi
+lecce,e506,le
+lecce nei marsi,e505,aq
+lecco,e507,lc
+leffe,e509,bg
+leggiuno,e510,va
+legnago,e512,vr
+legnano,e514,mi
+legnaro,e515,pd
+lei,e517,nu
+leivi,e519,ge
+lemie,e520,to
+lendinara,e522,ro
+leni,e523,me
+lenna,e524,bg
+lenno,e525,co
+leno,e526,bs
+lenola,e527,lt
+lentate sul seveso,e530,mi
+lentella,e531,ch
+lentiai,c562,bl
+lentini,e532,sr
+leonessa,e535,ri
+leonforte,e536,en
+leporano,e537,ta
+lequile,e538,le
+lequio berria,e540,cn
+lequio tanaro,e539,cn
+lercara friddi,e541,pa
+lerici,e542,sp
+lerma,e543,al
+lesa,e544,no
+lesegno,e546,cn
+lesignano de' bagni,e547,pr
+lesina,e549,fg
+lesmo,e550,mi
+lessolo,e551,to
+lessona,e552,bi
+lestizza,e553,ud
+letino,e554,ce
+letoianni,e555,me
+lettere,e557,na
+lettomanoppello,e558,pe
+lettopalena,e559,ch
+levanto,e560,sp
+levate,e562,bg
+leverano,e563,le
+levice,e564,cn
+levico terme,e565,tn
+levone,e566,to
+lezzeno,e569,co
+liberi,e570,ce
+librizzi,e571,me
+licata,e573,ag
+licciana nardi,e574,ms
+licenza,e576,rm
+licodia eubea,e578,ct
+lierna,e581,lc
+lignana,e583,vc
+ligonchio,e585,re
+ligosullo,e586,ud
+lillianes,e587,ao
+limana,e588,bl
+limatola,e589,bn
+limbadi,e590,vv
+limbiate,e591,mi
+limena,e592,pd
+limido comasco,e593,co
+limina,e594,me
+limone piemonte,e597,cn
+limone sul garda,e596,bs
+limosano,e599,cb
+linarolo,e600,pv
+linguaglossa,e602,ct
+lioni,e605,av
+lipari,e606,me
+lipomo,e607,co
+lirio,e608,pv
+liscate,e610,mi
+liscia,e611,ch
+lisciano niccone,e613,pg
+lisignago,e614,tn
+lisio,e615,cn
+lissone,e617,mi
+liveri,e620,na
+livigno,e621,so
+livo,e623,co
+livorno,e625,li
+livorno ferraris,e626,vc
+livraga,e627,lo
+lizzanello,e629,le
+lizzano,e630,ta
+lizzano in belvedere,a771,bo
+loano,e632,sv
+loazzolo,e633,at
+locana,e635,to
+locate di triulzi,e639,mi
+locate varesino,e638,co
+locatello,e640,bg
+loceri,e644,nu
+locorotondo,e645,ba
+locri,d976,rc
+loculi,e646,nu
+lode',e647,nu
+lodi,e648,lo
+lodi vecchio,e651,lo
+lodine,e649,nu
+lodrino,e652,bs
+lograto,e654,bs
+loiano,e655,bo
+loiri porto san paolo,m275,ss
+lomagna,e656,lc
+lomaso,e658,tn
+lomazzo,e659,co
+lombardore,e660,to
+lombriasco,e661,to
+lomello,e662,pv
+lonate ceppino,e665,va
+lonate pozzolo,e666,va
+lonato,e667,bs
+londa,e668,fi
+longano,e669,is
+longare,e671,vi
+longarone,e672,bl
+longhena,e673,bs
+longi,e674,me
+longiano,e675,fo
+longobardi,e677,cs
+longobucco,e678,cs
+longone al segrino,e679,co
+longone sabino,e681,ri
+lonigo,e682,vi
+loranze',e683,to
+loreggia,e684,pd
+loreglia,e685,vb
+lorenzago di cadore,e687,bl
+lorenzana,e688,pi
+loreo,e689,ro
+loreto,e690,an
+loreto aprutino,e691,pe
+loria,e692,tv
+loro ciuffenna,e693,ar
+loro piceno,e694,mc
+lorsica,e695,ge
+losine,e698,bs
+lotzorai,e700,nu
+lovere,e704,bg
+lovero valtellino,e705,so
+lozio,e706,bs
+lozza,e707,va
+lozzo atestino,e709,pd
+lozzo di cadore,e708,bl
+lozzolo,e711,vc
+lu,e712,al
+lubriano,e713,vt
+lucca,e715,lu
+lucca sicula,e714,ag
+lucera,e716,fg
+lucignano,e718,ar
+lucinasco,e719,im
+lucito,e722,cb
+luco dei marsi,e723,aq
+lucoli,e724,aq
+lugagnano val d'arda,e726,pc
+lugnacco,e727,to
+lugnano in teverina,e729,tr
+lugo,e730,ra
+lugo di vicenza,e731,vi
+luino,e734,va
+luisago,e735,co
+lula,e736,nu
+lumarzo,e737,ge
+lumezzane,e738,bs
+lunamatrona,e742,ca
+lunano,e743,ps
+lungavilla,b387,pv
+lungro,e745,cs
+luogosano,e746,av
+luogosanto,e747,ss
+lupara,e748,cb
+lurago d'erba,e749,co
+lurago marinone,e750,co
+lurano,e751,bg
+luras,e752,ss
+lurate caccivio,e753,co
+lusciano,e754,ce
+luserna,e756,tn
+luserna san giovanni,e758,to
+lusernetta,e759,to
+lusevera,e760,ud
+lusia,e761,ro
+lusiana,e762,vi
+lusiglie',e763,to
+luson,e764,bz
+lustra,e767,sa
+luvinate,e769,va
+luzzana,e770,bg
+luzzara,e772,re
+luzzi,e773,cs
+maccagno,e775,va
+maccastorna,e777,lo
+macchia valfortore,e780,cb
+macchiagodena,e779,is
+macello,e782,to
+macerata,e783,mc
+macerata campania,e784,ce
+macerata feltria,e785,ps
+macherio,e786,mi
+maclodio,e787,bs
+macomer,e788,nu
+macra,e789,cn
+macugnaga,e790,vb
+maddaloni,e791,ce
+madesimo,e342,so
+madignano,e793,cr
+madone,e794,bg
+madonna del sasso,e795,vb
+maenza,e798,lt
+mafalda,e799,cb
+magasa,e800,bs
+magenta,e801,mi
+maggiora,e803,no
+magherno,e804,pv
+magione,e805,pg
+magisano,e806,cz
+magliano alfieri,e809,cn
+magliano alpi,e808,cn
+magliano di tenna,e807,ap
+magliano in toscana,e810,gr
+magliano de' marsi,e811,aq
+magliano romano,e813,rm
+magliano sabina,e812,ri
+magliano vetere,e814,sa
+maglie,e815,le
+magliolo,e816,sv
+maglione,e817,to
+magnacavallo,e818,mn
+magnago,e819,mi
+magnano,e821,bi
+magnano in riviera,e820,ud
+magomadas,e825,nu
+magre' sulla strada del vino,e829,bz
+magreglio,e830,co
+maiano,e833,ud
+maida,e834,cz
+maiera',e835,cs
+maierato,e836,vv
+maiolati spontini,e837,an
+maiolo,e838,ps
+maiori,e839,sa
+mairago,e840,lo
+mairano,e841,bs
+maissana,e842,sp
+malagnino,e843,cr
+malalbergo,e844,bo
+malborghetto-valbruna,e847,ud
+malcesine,e848,vr
+male',e850,tn
+malegno,e851,bs
+maleo,e852,lo
+malesco,e853,vb
+maletto,e854,ct
+malfa,e855,me
+malgesso,e856,va
+malgrate,e858,lc
+malito,e859,cs
+mallare,e860,sv
+malles venosta,e862,bz
+malnate,e863,va
+malo,e864,vi
+malonno,e865,bs
+malosco,e866,tn
+maltignano,e868,ap
+malvagna,e869,me
+malvicino,e870,al
+malvito,e872,cs
+mammola,e873,rc
+mamoiada,e874,nu
+manciano,e875,gr
+mandanici,e876,me
+mandas,e877,ca
+mandatoriccio,e878,cs
+mandela,b632,rm
+mandello del lario,e879,lc
+mandello vitta,e880,no
+manduria,e882,ta
+manerba del garda,e883,bs
+manerbio,e884,bs
+manfredonia,e885,fg
+mango,e887,cn
+mangone,e888,cs
+maniace,m283,ct
+maniago,e889,pn
+manocalzati,e891,av
+manoppello,e892,pe
+mansue',e893,tv
+manta,e894,cn
+mantello,e896,so
+mantova,e897,mn
+manzano,e899,ud
+manziana,e900,rm
+mapello,e901,bg
+mara,e902,ss
+maracalagonis,e903,ca
+maranello,e904,mo
+marano di napoli,e906,na
+marano di valpolicella,e911,vr
+marano equo,e908,rm
+marano lagunare,e910,ud
+marano marchesato,e914,cs
+marano principato,e915,cs
+marano sul panaro,e905,mo
+marano ticino,e907,no
+marano vicentino,e912,vi
+maranzana,e917,at
+maratea,e919,pz
+marcallo con casone,e921,mi
+marcaria,e922,mn
+marcedusa,e923,cz
+marcellina,e924,rm
+marcellinara,e925,cz
+marcetelli,e927,ri
+marcheno,e928,bs
+marchirolo,e929,va
+marciana,e930,li
+marciana marina,e931,li
+marcianise,e932,ce
+marciano della chiana,e933,ar
+marcignago,e934,pv
+marcon,e936,ve
+marebbe,e938,bz
+marene,e939,cn
+mareno di piave,e940,tv
+marentino,e941,to
+maretto,e944,at
+margarita,e945,cn
+margherita di savoia,e946,fg
+margno,e947,lc
+mariana mantovana,e949,mn
+mariano comense,e951,co
+mariano del friuli,e952,go
+marianopoli,e953,cl
+mariglianella,e954,na
+marigliano,e955,na
+marina di gioiosa ionica,e956,rc
+marineo,e957,pa
+marino,e958,rm
+marliana,e960,pt
+marmentino,e961,bs
+marmirolo,e962,mn
+marmora,e963,cn
+marnate,e965,va
+marone,e967,bs
+maropati,e968,rc
+marostica,e970,vi
+marradi,e971,fi
+marrubiu,e972,or
+marsaglia,e973,cn
+marsala,e974,tp
+marsciano,e975,pg
+marsico nuovo,e976,pz
+marsicovetere,e977,pz
+marta,e978,vt
+martano,e979,le
+martellago,e980,ve
+martignacco,e982,ud
+martignana di po,e983,cr
+martignano,e984,le
+martina franca,e986,ta
+martinengo,e987,bg
+martiniana po,e988,cn
+martinsicuro,e989,te
+martirano,e990,cz
+martirano lombardo,e991,cz
+martis,e992,ss
+martone,e993,rc
+marudo,e994,lo
+maruggio,e995,ta
+marzabotto,b689,bo
+marzano,e999,pv
+marzano appio,e998,ce
+marzano di nola,e997,av
+marzi,f001,cs
+marzio,f002,va
+masainas,m270,ca
+masate,f003,mi
+mascali,f004,ct
+mascalucia,f005,ct
+maschito,f006,pz
+masciago primo,f007,va
+maser,f009,tv
+masera,f010,vb
+maserada sul piave,f012,tv
+masi,f013,pd
+masi torello,f016,fe
+masio,f015,al
+maslianico,f017,co
+mason vicentino,f019,vi
+masone,f020,ge
+massa,f023,ms
+massa d'albe,f022,aq
+massa e cozzile,f025,pt
+massa fermana,f021,ap
+massa lombarda,f029,ra
+massa marittima,f032,gr
+massa martana,f024,pg
+massafiscaglia,f026,fe
+massafra,f027,ta
+massalengo,f028,lo
+massa lubrense,f030,na
+massa marittima,f032,gr
+massanzago,f033,pd
+massarosa,f035,lu
+massazza,f037,bi
+massello,f041,to
+masserano,f042,bi
+massignano,f044,ap
+massimeno,f045,tn
+massimino,f046,sv
+massino visconti,f047,no
+massiola,f048,vb
+masullas,f050,or
+matelica,f051,mc
+matera,f052,mt
+mathi,f053,to
+matino,f054,le
+matrice,f055,cb
+mattie,f058,to
+mattinata,f059,fg
+mazara del vallo,f061,tp
+mazzano,f063,bs
+mazzano romano,f064,rm
+mazzarino,f065,cl
+mazzarra' sant'andrea,f066,me
+mazzarrone,m271,ct
+mazze',f067,to
+mazzin,f068,tn
+mazzo di valtellina,f070,so
+meana di susa,f074,to
+meana sardo,f073,nu
+meda,f078,mi
+mede,f080,pv
+medea,f081,go
+medesano,f082,pr
+medicina,f083,bo
+mediglia,f084,mi
+medolago,f085,bg
+medole,f086,mn
+medolla,f087,mo
+meduna di livenza,f088,tv
+meduno,f089,pn
+megliadino san fidenzio,f091,pd
+megliadino san vitale,f092,pd
+meina,f093,no
+mel,f094,bl
+melara,f095,ro
+melazzo,f096,al
+meldola,f097,fo
+mele,f098,ge
+melegnano,f100,mi
+melendugno,f101,le
+meleti,f102,lo
+melfi,f104,pz
+melicucca',f105,rc
+melicucco,f106,rc
+melilli,f107,sr
+melissa,f108,kr
+melissano,f109,le
+melito di napoli,f111,na
+melito di porto salvo,f112,rc
+melito irpino,f110,av
+melizzano,f113,bn
+melle,f114,cn
+mello,f115,so
+melpignano,f117,le
+melzo,f119,mi
+menaggio,f120,co
+menarola,f121,so
+menconico,f122,pv
+mendatica,f123,im
+mendicino,f125,cs
+menfi,f126,ag
+mentana,f127,rm
+meolo,f130,ve
+merana,f131,al
+merano,f132,bz
+merate,f133,lc
+mercallo,f134,va
+mercatello sul metauro,f135,ps
+mercatino conca,f136,ps
+mercato san severino,f138,sa
+mercato saraceno,f139,fo
+mercenasco,f140,to
+mercogliano,f141,av
+mereto di tomba,f144,ud
+mergo,f145,an
+mergozzo,f146,vb
+meri',f147,me
+merlara,f148,pd
+merlino,f149,lo
+merone,f151,co
+mesagne,f152,br
+mese,f153,so
+mesenzana,f154,va
+mesero,f155,mi
+mesola,f156,fe
+mesoraca,f157,kr
+messina,f158,me
+mestrino,f161,pd
+meta,f162,na
+meugliano,f164,to
+mezzago,f165,mi
+mezzana,f168,tn
+mezzana bigli,f170,pv
+mezzana mortigliengo,f167,bi
+mezzana rabattone,f171,pv
+mezzane di sotto,f172,vr
+mezzanego,f173,ge
+mezzani,f174,pr
+mezzanino,f175,pv
+mezzano,f176,tn
+mezzegra,f181,co
+mezzenile,f182,to
+mezzocorona,f183,tn
+mezzoiuso,f184,pa
+mezzoldo,f186,bg
+mezzolombardo,f187,tn
+mezzomerico,f188,no
+miagliano,f189,bi
+miane,f190,tv
+miasino,f191,no
+miazzina,f192,vb
+micigliano,f193,ri
+miggiano,f194,le
+miglianico,f196,ch
+migliarino,f198,fe
+migliaro,f199,fe
+miglierina,f200,cz
+miglionico,f201,mt
+mignanego,f202,ge
+mignano monte lungo,f203,ce
+milano,f205,mi
+milazzo,f206,me
+milena,e618,cl
+mileto,f207,vv
+milis,f208,or
+militello in val di catania,f209,ct
+militello rosmarino,f210,me
+millesimo,f213,sv
+milo,f214,ct
+milzano,f216,bs
+mineo,f217,ct
+minerbe,f218,vr
+minerbio,f219,bo
+minervino di lecce,f221,le
+minervino murge,f220,ba
+minori,f223,sa
+minturno,f224,lt
+minucciano,f225,lu
+mioglia,f226,sv
+mira,f229,ve
+mirabella eclano,f230,av
+mirabella imbaccari,f231,ct
+mirabello,f235,fe
+mirabello monferrato,f232,al
+mirabello sannitico,f233,cb
+miradolo terme,f238,pv
+miranda,f239,is
+mirandola,f240,mo
+mirano,f241,ve
+mirto,f242,me
+misano adriatico,f244,rn
+misano di gera d'adda,f243,bg
+misilmeri,f246,pa
+misinto,f247,mi
+missaglia,f248,lc
+missanello,f249,pz
+misterbianco,f250,ct
+mistretta,f251,me
+moasca,f254,at
+moconesi,f256,ge
+modena,f257,mo
+modica,f258,rg
+modigliana,f259,fo
+modolo,f261,nu
+modugno,f262,ba
+moena,f263,tn
+moggio,f265,lc
+moggio udinese,f266,ud
+moglia,f267,mn
+mogliano,f268,mc
+mogliano veneto,f269,tv
+mogorella,f270,or
+mogoro,f272,or
+moiano,f274,bn
+moimacco,f275,ud
+moio alcantara,f277,me
+moio della civitella,f278,sa
+moiola,f279,cn
+mola di bari,f280,ba
+molare,f281,al
+molazzana,f283,lu
+molfetta,f284,ba
+molina aterno,m255,aq
+molina di ledro,f286,tn
+molinara,f287,bn
+molinella,f288,bo
+molini di triora,f290,im
+molise,f294,cb
+moliterno,f295,pz
+mollia,f297,vc
+molochio,f301,rc
+molteno,f304,lc
+moltrasio,f305,co
+molvena,f306,vi
+molveno,f307,tn
+mombaldone,f308,at
+mombarcaro,f309,cn
+mombaroccio,f310,ps
+mombaruzzo,f311,at
+mombasiglio,f312,cn
+mombello di torino,f315,to
+mombello monferrato,f313,al
+mombercelli,f316,at
+momo,f317,no
+mompantero,f318,to
+mompeo,f319,ri
+momperone,f320,al
+monacilioni,f322,cb
+monale,f323,at
+monasterace,f324,rc
+monastero bormida,f325,at
+monastero di lanzo,f327,to
+monastero di vasco,f326,cn
+monasterolo casotto,f329,cn
+monasterolo del castello,f328,bg
+monasterolo di savigliano,f330,cn
+monastier di treviso,f332,tv
+monastir,f333,ca
+moncalieri,f335,to
+moncalvo,f336,at
+moncenisio,d553,to
+moncestino,f337,al
+monchiero,f338,cn
+monchio delle corti,f340,pr
+monclassico,f341,tn
+moncrivello,f342,vc
+moncucco torinese,f343,at
+mondaino,f346,rn
+mondavio,f347,ps
+mondolfo,f348,ps
+mondovi',f351,cn
+mondragone,f352,ce
+moneglia,f354,ge
+monesiglio,f355,cn
+monfalcone,f356,go
+monforte d'alba,f358,cn
+monforte san giorgio,f359,me
+monfumo,f360,tv
+mongardino,f361,at
+monghidoro,f363,bo
+mongiana,f364,vv
+mongiardino ligure,f365,al
+mongiuffi melia,f368,me
+mongrando,f369,bi
+mongrassano,f370,cs
+monguelfo,f371,bz
+monguzzo,f372,co
+moniga del garda,f373,bs
+monleale,f374,al
+monno,f375,bs
+monopoli,f376,ba
+monreale,f377,pa
+monrupino,f378,ts
+monsampietro morico,f379,ap
+monsampolo del tronto,f380,ap
+monsano,f381,an
+monselice,f382,pd
+monserrato,f383,ca
+monsummano terme,f384,pt
+monta',f385,cn
+montabone,f386,at
+montacuto,f387,al
+montafia,f390,at
+montagano,f391,cb
+montagna,f392,bz
+montagna in valtellina,f393,so
+montagnana,f394,pd
+montagnareale,f395,me
+montagne,f396,tn
+montaguto,f397,av
+montaione,f398,fi
+montalbano ionico,f399,mt
+montalcino,f402,si
+montaldeo,f403,al
+montaldo bormida,f404,al
+montaldo di mondovi',f405,cn
+montaldo roero,f408,cn
+montaldo scarampi,f409,at
+montaldo torinese,f407,to
+montale,f410,pt
+montalenghe,f411,to
+montallegro,f414,ag
+montalto delle marche,f415,ap
+montalto di castro,f419,vt
+montalto dora,f420,to
+montalto ligure,f406,im
+montalto pavese,f417,pv
+montalto uffugo,f416,cs
+montanaro,f422,to
+montanaso lombardo,f423,lo
+montanera,f424,cn
+montano antilia,f426,sa
+montano lucino,f427,co
+montappone,f428,ap
+montaquila,f429,is
+montasola,f430,ri
+montauro,f432,cz
+montazzoli,f433,ch
+monte argentario,f437,gr
+monte castello di vibio,f456,pg
+monte cavallo,f460,mc
+monte cerignone,f467,ps
+monte colombo,f476,rn
+monte cremasco,f434,cr
+monte di malo,f486,vi
+monte di procida,f488,na
+monte giberto,f517,ap
+monte grimano,f524,ps
+monte isola,f532,bs
+monte marenzo,f561,lc
+monte porzio,f589,ps
+monte porzio catone,f590,rm
+monte rinaldo,f599,ap
+monte roberto,f600,an
+monte romano,f603,vt
+monte san biagio,f616,lt
+monte san giacomo,f618,sa
+monte san giovanni campano,f620,fr
+monte san giovanni in sabina,f619,ri
+monte san giusto,f621,mc
+monte san martino,f622,mc
+monte san pietrangeli,f626,ap
+monte san pietro,f627,bo
+monte san savino,f628,ar
+monte san vito,f634,an
+monte sant'angelo,f631,fg
+monte urano,f653,ap
+monte vidon combatte,f664,ap
+monte vidon corrado,f665,ap
+montebello della battaglia,f440,pv
+montebello di bertona,f441,pe
+montebello ionico,d746,rc
+montebello sul sangro,b268,ch
+montebello vicentino,f442,vi
+montebelluna,f443,tv
+montebruno,f445,ge
+montebuono,f446,ri
+montecalvo in foglia,f450,ps
+montecalvo irpino,f448,av
+montecalvo versiggia,f449,pv
+montecarlo,f452,lu
+montecarotto,f453,an
+montecassiano,f454,mc
+montecastello,f455,al
+montecastrilli,f457,tr
+montecatini terme,a561,pt
+montecatini val di cecina,f458,pi
+montecchia di crosara,f461,vr
+montecchio,f462,tr
+montecchio emilia,f463,re
+montecchio maggiore,f464,vi
+montecchio precalcino,f465,vi
+montechiaro d'acqui,f469,al
+montechiaro d'asti,f468,at
+montechiarugolo,f473,pr
+monteciccardo,f474,ps
+montecilfone,f475,cb
+montecompatri,f477,rm
+montecopiolo,f478,ps
+montecorice,f479,sa
+montecorvino pugliano,f480,sa
+montecorvino rovella,f481,sa
+montecosaro,f482,mc
+montecrestese,f483,vb
+montecreto,f484,mo
+montedinove,f487,ap
+montedoro,f489,cl
+montefalcione,f491,av
+montefalco,f492,pg
+montefalcone di val fortore,f494,bn
+montefalcone nel sannio,f495,cb
+montefano,f496,mc
+montefelcino,f497,ps
+monteferrante,f498,ch
+montefiascone,f499,vt
+montefino,f500,te
+montefiore conca,f502,rn
+montefiore dell'aso,f501,ap
+montefiorino,f503,mo
+monteflavio,f504,rm
+monteforte cilento,f507,sa
+monteforte d'alpone,f508,vr
+monteforte irpino,f506,av
+montefortino,f509,ap
+montefranco,f510,tr
+montefredane,f511,av
+montefusco,f512,av
+montegabbione,f513,tr
+montegalda,f514,vi
+montegaldella,f515,vi
+montegallo,f516,ap
+montegioco,f518,al
+montegiordano,f519,cs
+montegiorgio,f520,ap
+montegranaro,f522,ap
+montegridolfo,f523,rn
+montegrosso d'asti,f527,at
+montegrosso pian latte,f528,im
+montegrotto terme,f529,pd
+monteiasi,f531,ta
+montelabbate,f533,ps
+montelanico,f534,rm
+montelapiano,f535,ch
+monteleone d'orvieto,f543,tr
+monteleone di fermo,f536,ap
+monteleone di puglia,f538,fg
+monteleone di spoleto,f540,pg
+monteleone rocca doria,f542,ss
+monteleone sabino,f541,ri
+montelepre,f544,pa
+montelibretti,f545,rm
+montella,f546,av
+montello,f547,bg
+montelongo,f548,cb
+montelparo,f549,ap
+montelupo albese,f550,cn
+montelupo fiorentino,f551,fi
+montelupone,f552,mc
+montemaggiore al metauro,f555,ps
+montemaggiore belsito,f553,pa
+montemagno,f556,at
+montemale di cuneo,f558,cn
+montemarano,f559,av
+montemarciano,f560,an
+montemarzino,f562,al
+montemesola,f563,ta
+montemezzo,f564,co
+montemignaio,f565,ar
+montemiletto,f566,av
+montemilone,f568,pz
+montemitro,f569,cb
+montemonaco,f570,ap
+montemurlo,f572,po
+montemurro,f573,pz
+montenars,f574,ud
+montenero di bisaccia,f576,cb
+montenero sabino,f579,ri
+montenerodomo,f578,ch
+monteodorisio,f582,ch
+montepaone,f586,cz
+monteparano,f587,ta
+monteprandone,f591,ap
+montepulciano,f592,si
+monterado,f593,an
+monterchi,f594,ar
+montereale,f595,aq
+montereale valcellina,f596,pn
+monterenzio,f597,bo
+monteriggioni,f598,si
+monteroduni,f601,is
+monteroni d'arbia,f605,si
+monteroni di lecce,f604,le
+monterosi,f606,vt
+monterosso al mare,f609,sp
+monterosso almo,f610,rg
+monterosso calabro,f607,vv
+monterosso grana,f608,cn
+monterotondo,f611,rm
+monterotondo marittimo,f612,gr
+monterubbiano,f614,ap
+montesano salentino,f623,le
+montesano sulla marcellana,f625,sa
+monte santa maria tibertina,f629,pg
+montesarchio,f636,bn
+montescaglioso,f637,mt
+montescano,f638,pv
+montescheno,f639,vb
+montescudaio,f640,pi
+montescudo,f641,rn
+montese,f642,mo
+montesegale,f644,pv
+montesilvano,f646,pe
+montespertoli,f648,fi
+monteu da po,f651,to
+monteu roero,f654,cn
+montevago,f655,ag
+montevarchi,f656,ar
+montevecchia,f657,lc
+monteveglio,f659,bo
+monteverde,f660,av
+monteverdi marittimo,f661,pi
+monteviale,f662,vi
+montezemolo,f666,cn
+monti,f667,ss
+montiano,f668,fo
+monticelli brusati,f672,bs
+monticelli d'ongina,f671,pc
+monticelli pavese,f670,pv
+monticello conte otto,f675,vi
+monticello d'alba,f669,cn
+montichiari,f471,bs
+monticiano,f676,si
+montieri,f677,gr
+montiglio,f678,at
+montignoso,f679,ms
+montirone,f680,bs
+montjovet,f367,ao
+montodine,f681,cr
+montoggio,f682,ge
+montone,f685,pg
+montopoli di sabina,f687,ri
+montopoli in val d'arno,f686,pi
+montorfano,f688,co
+montorio al vomano,f690,te
+montorio nei frentani,f689,cb
+montorio romano,f692,rm
+montoro inferiore,f693,av
+montoro superiore,f694,av
+montorso vicentino,f696,vi
+montottone,f697,ap
+montresta,f698,nu
+montu' beccaria,f701,pv
+monvalle,f703,va
+monza,f704,mi
+monzambano,f705,mn
+monzuno,f706,bo
+morano calabro,f708,cs
+morano sul po,f707,al
+moransengo,f709,at
+moraro,f710,go
+morazzone,f711,va
+morbegno,f712,so
+morbello,f713,al
+morciano di leuca,f716,le
+morciano di romagna,f715,rn
+morcone,f717,bn
+mordano,f718,bo
+morengo,f720,bg
+mores,f721,ss
+moresco,f722,ap
+moretta,f723,cn
+morfasso,f724,pc
+morgano,f725,tv
+morgex,f726,ao
+morgongiori,f727,or
+mori,f728,tn
+moricone,f730,rm
+morigerati,f731,sa
+morimondo,d033,mi
+morino,f732,aq
+moriondo torinese,f733,to
+morlupo,f734,rm
+mormanno,f735,cs
+mornago,f736,va
+mornese,f737,al
+mornico al serio,f738,bg
+mornico losana,f739,pv
+morolo,f740,fr
+morozzo,f743,cn
+morra de sanctis,f744,av
+morro d'alba,f745,an
+morro d'oro,f747,te
+morro reatino,f746,ri
+morrone del sannio,f748,cb
+morrovalle,f749,mc
+morsano al tagliamento,f750,pn
+morsasco,f751,al
+mortara,f754,pv
+mortegliano,f756,ud
+morterone,f758,lc
+moruzzo,f760,ud
+moscazzano,f761,cr
+moschiano,f762,av
+mosciano sant'angelo,f764,te
+moscufo,f765,pe
+moso in passiria,f766,bz
+mossa,f767,go
+mossano,f768,vi
+mosso santa maria,f769,bi
+motta baluffi,f771,cr
+motta camastra,f772,me
+motta d'affermo,f773,me
+motta di livenza,f770,tv
+motta montecorvino,f777,fg
+motta san giovanni,f779,rc
+motta sant'anastasia,f781,ct
+motta santa lucia,f780,cz
+motta visconti,f783,mi
+mottafollone,f775,cs
+mottalciata,f776,bi
+motteggiana,b012,mn
+mottola,f784,ta
+mozzagrogna,f785,ch
+mozzanica,f786,bg
+mozzate,f788,co
+mozzecane,f789,vr
+mozzo,f791,bg
+muccia,f793,mc
+muggia,f795,ts
+muggio',f797,mi
+mugnano del cardinale,f798,av
+mugnano di napoli,f799,na
+mulazzano,f801,lo
+mulazzo,f802,ms
+mura,f806,bs
+muravera,f808,ca
+murazzano,f809,cn
+murello,f811,cn
+murialdo,f813,sv
+murisengo,f814,al
+murlo,f815,si
+muro leccese,f816,le
+muro lucano,f817,pz
+muros,f818,ss
+muscoline,f820,bs
+musei,f822,ca
+musile di piave,f826,ve
+musso,f828,co
+mussolente,f829,vi
+mussomeli,f830,cl
+muzzana del turgnano,f832,ud
+muzzano,f833,bi
+nalles,f836,bz
+nanno,f837,tn
+nanto,f838,vi
+napoli,f839,na
+narbolia,f840,or
+narcao,f841,ca
+nardo',f842,le
+nardodipace,f843,vv
+narni,f844,tr
+naro,f845,ag
+narzole,f846,cn
+nasino,f847,sv
+naso,f848,me
+naturno,f849,bz
+nave,f851,bs
+nave san rocco,f853,tn
+navelli,f852,aq
+naz sciaves,f856,bz
+nazzano,f857,rm
+ne,f858,ge
+nebbiuno,f859,no
+negrar,f861,vr
+neirone,f862,ge
+neive,f863,cn
+nembro,f864,bg
+nemi,f865,rm
+nemoli,f866,pz
+neoneli,f867,or
+nepi,f868,vt
+nereto,f870,te
+nerola,f871,rm
+nervesa della battaglia,f872,tv
+nerviano,f874,mi
+nespolo,f876,ri
+nesso,f877,co
+netro,f878,bi
+nettuno,f880,rm
+neviano,f881,le
+neviano degli arduini,f882,pr
+neviglie,f883,cn
+niardo,f884,bs
+nibbiano,f885,pc
+nibbiola,f886,no
+nibionno,f887,lc
+nicastro,f888,cz
+nichelino,f889,to
+nicolosi,f890,ct
+nicorvo,f891,pv
+nicosia,f892,en
+nicotera,f893,vv
+niella belbo,f894,cn
+niella tanaro,f895,cn
+nimis,f898,ud
+niscemi,f899,cl
+nissoria,f900,en
+nizza di sicilia,f901,me
+nizza monferrato,f902,at
+noale,f904,ve
+noasca,f906,to
+nocara,f907,cs
+nocciano,f908,pe
+nocera inferiore,f912,sa
+nocera superiore,f913,sa
+nocera tirinese,f910,cz
+nocera umbra,f911,pg
+noceto,f914,pr
+noci,f915,ba
+nociglia,f916,le
+noepoli,f917,pz
+nogara,f918,vr
+nogaredo,f920,tn
+nogarole rocca,f921,vr
+nogarole vicentino,f922,vi
+noicattaro,f923,ba
+nola,f924,na
+nole,f925,to
+noli,f926,sv
+nomaglio,f927,to
+nomi,f929,tn
+nonantola,f930,mo
+none,f931,to
+nonio,f932,vb
+noragugume,f933,nu
+norbello,f934,or
+norcia,f935,pg
+norma,f937,lt
+nosate,f939,mi
+notaresco,f942,te
+noto,f943,sr
+nova levante,f949,bz
+nova milanese,f944,mi
+nova ponente,f950,bz
+nova siri,a942,mt
+novafeltria,f137,ps
+novaledo,f947,tn
+novalesa,f948,to
+novara,f952,no
+novara di sicilia,f951,me
+novate mezzola,f956,so
+novate milanese,f955,mi
+nove,f957,vi
+novedrate,f958,co
+novellara,f960,re
+novello,f961,cn
+noventa di piave,f963,ve
+noventa padovana,f962,pd
+noventa vicentina,f964,vi
+novi di modena,f966,mo
+novi ligure,f965,al
+novi velia,f967,sa
+noviglio,f968,mi
+novoli,f970,le
+nucetto,f972,cn
+nughedu santa vittoria,f974,or
+nule,f976,ss
+nulvi,f977,ss
+numana,f978,an
+nuoro,f979,nu
+nurachi,f980,or
+nuragus,f981,nu
+nurallao,f982,nu
+nuraminis,f983,ca
+nureci,f985,or
+nurri,f986,nu
+nus,f987,ao
+nusco,f988,av
+nuvolento,f989,bs
+nuvolera,f990,bs
+nuxis,f991,ca
+occhieppo inferiore,f992,bi
+occhieppo superiore,f993,bi
+occhiobello,f994,ro
+occimiano,f995,al
+ocre,f996,aq
+odalengo grande,f997,al
+odalengo piccolo,f998,al
+oderzo,f999,tv
+odolo,g001,bs
+ofena,g002,aq
+offagna,g003,an
+offanengo,g004,cr
+offida,g005,ap
+offlaga,g006,bs
+oggebbio,g007,vb
+oggiona con santo stefano,g008,va
+oggiono,g009,lc
+oglianico,g010,to
+ogliastro cilento,g011,sa
+olbia,g015,ss
+olcenengo,g016,vc
+oldenico,g018,vc
+oleggio,g019,no
+oleggio castello,g020,no
+olevano di lomellina,g021,pv
+olevano romano,g022,rm
+olevano sul tusciano,g023,sa
+olgiate comasco,g025,co
+olgiate molgora,g026,lc
+olgiate olona,g028,va
+olginate,g030,lc
+oliena,g031,nu
+oliva gessi,g032,pv
+olivadi,g034,cz
+oliveri,g036,me
+oliveto citra,g039,sa
+oliveto lario,g040,lc
+oliveto lucano,g037,mt
+olivetta san michele,g041,im
+olivola,g042,al
+ollastra simaxis,g043,or
+ollolai,g044,nu
+ollomont,g045,ao
+olmedo,g046,ss
+olmeneta,g047,cr
+olmo al brembo,g049,bg
+olmo gentile,g048,at
+oltre il colle,g050,bg
+oltressenda alta,g054,bg
+olzai,g058,nu
+ome,g061,bs
+omegna,g062,vb
+omignano,g063,sa
+onani,g064,nu
+onano,g065,vt
+oncino,g066,cn
+oneta,g068,bg
+onifai,g070,nu
+oniferi,g071,nu
+ono san pietro,g074,bs
+onore,g075,bg
+onzo,g076,sv
+opera,g078,mi
+opi,g079,aq
+oppeano,g080,vr
+oppido lucano,g081,pz
+oppido mamertina,g082,rc
+ora,g083,bz
+orani,g084,nu
+oratino,g086,cb
+orbassano,g087,to
+orbetello,g088,gr
+orciano di pesaro,g089,ps
+orciano pisano,g090,pi
+orco feglino,d522,sv
+ordona,m266,fg
+orero,g093,ge
+orgiano,g095,vi
+orgosolo,g097,nu
+oria,g098,br
+oricola,g102,aq
+origgio,g103,va
+orino,g105,va
+orio al serio,g108,bg
+orio canavese,g109,to
+orio litta,g107,lo
+oriolo,g110,cs
+oriolo romano,g111,vt
+oristano,g113,or
+ormea,g114,cn
+ormelle,g115,tv
+ornago,g116,mi
+ornavasso,g117,vb
+ornica,g118,bg
+orosei,g119,nu
+orotelli,g120,nu
+orria,g121,sa
+orroli,g122,nu
+orsago,g123,tv
+orsara bormida,g124,al
+orsara di puglia,g125,fg
+orsenigo,g126,co
+orsogna,g128,ch
+orsomarso,g129,cs
+orta di atella,g130,ce
+orta nova,g131,fg
+orta san giulio,g134,no
+ortacesus,g133,ca
+orte,g135,vt
+ortelle,g136,le
+ortezzano,g137,ap
+ortignano raggiolo,g139,ar
+ortisei,g140,bz
+ortona,g141,ch
+ortona dei marsi,g142,aq
+ortonovo,g143,sp
+ortovero,g144,sv
+ortucchio,g145,aq
+ortueri,g146,nu
+orune,g147,nu
+orvieto,g148,tr
+orvinio,b595,ri
+orzinuovi,g149,bs
+orzivecchi,g150,bs
+osasco,g151,to
+osasio,g152,to
+oschiri,g153,ss
+osidda,g154,nu
+osiglia,g155,sv
+osilo,g156,ss
+osimo,g157,an
+osini,g158,nu
+osio sopra,g159,bg
+osio sotto,g160,bg
+osmate,e529,va
+osnago,g161,lc
+osoppo,g163,ud
+ospedaletti,g164,im
+ospedaletto,g168,tn
+ospedaletto d'alpinolo,g165,av
+ospedaletto euganeo,g167,pd
+ospedaletto lodigiano,g166,lo
+ospitale di cadore,g169,bl
+ospitaletto,g170,bs
+ossago lodigiano,g171,lo
+ossana,g173,tn
+ossi,g178,ss
+ossimo,g179,bs
+ossona,g181,mi
+ossuccio,g182,co
+ostana,g183,cn
+ostellato,g184,fe
+ostiano,g185,cr
+ostiglia,g186,mn
+ostra,f401,an
+ostra vetere,f581,an
+ostuni,g187,br
+otranto,g188,le
+otricoli,g189,tr
+ottana,g191,nu
+ottati,g192,sa
+ottaviano,g190,na
+ottiglio,g193,al
+ottobiano,g194,pv
+ottone,g195,pc
+oulx,g196,to
+ovada,g197,al
+ovaro,g198,ud
+oviglio,g199,al
+ovindoli,g200,aq
+ovodda,g201,nu
+oyace,g012,ao
+ozegna,g202,to
+ozieri,g203,ss
+ozzano dell'emilia,g205,bo
+ozzano monferrato,g204,al
+ozzero,g206,mi
+pabillonis,g207,ca
+pace del mela,g209,me
+paceco,g208,tp
+pacentro,g210,aq
+pachino,g211,sr
+paciano,g212,pg
+padenghe sul garda,g213,bs
+padergnone,g214,tn
+paderna,g215,al
+paderno d'adda,g218,lc
+paderno del grappa,g221,tv
+paderno dugnano,g220,mi
+paderno franciacorta,g217,bs
+paderno ponchielli,g222,cr
+padova,g224,pd
+padria,g225,ss
+padula,g226,sa
+paduli,g227,bn
+paesana,g228,cn
+paese,g229,tv
+pagani,g230,sa
+paganico sabino,g232,ri
+pagazzano,g233,bg
+pagliara,g234,me
+paglieta,g237,ch
+pagnacco,g238,ud
+pagno,g240,cn
+pagnona,g241,lc
+pago del vallo di lauro,g242,av
+pago veiano,g243,bn
+paisco loveno,g247,bs
+paitone,g248,bs
+paladina,g249,bg
+palagano,g250,mo
+palagianello,g251,ta
+palagiano,g252,ta
+palagonia,g253,ct
+palaia,g254,pi
+palanzano,g255,pr
+palata,g257,cb
+palau,g258,ss
+palazzago,g259,bg
+palazzo adriano,g263,pa
+palazzo canavese,g262,to
+palazzo pignano,g260,cr
+palazzo san gervasio,g261,pz
+palazzolo acreide,g267,sr
+palazzolo dello stella,g268,ud
+palazzolo sull'oglio,g264,bs
+palazzolo vercellese,g266,vc
+palazzuolo sul senio,g270,fi
+palena,g271,ch
+palermiti,g272,cz
+palermo,g273,pa
+palestrina,g274,rm
+palestro,g275,pv
+paliano,g276,fr
+palizzi,g277,rc
+pallagorio,g278,kr
+pallanzeno,g280,vb
+pallare,g281,sv
+palma campania,g283,na
+palma di montechiaro,g282,ag
+palmanova,g284,ud
+palmariggi,g285,le
+palmas arborea,g286,or
+palmi,g288,rc
+palmiano,g289,ap
+palmoli,g290,ch
+palo del colle,g291,ba
+palombara sabina,g293,rm
+palombaro,g294,ch
+palomonte,g292,sa
+palosco,g295,bg
+palu',g297,vr
+palu' del fersina,g296,tn
+paludi,g298,cs
+paluzza,g300,ud
+pamparato,g302,cn
+pancalieri,g303,to
+pancarana,g304,pv
+panchia',g305,tn
+pandino,g306,cr
+panettieri,g307,cs
+panicale,g308,pg
+pannarano,g311,bn
+panni,g312,fg
+pantelleria,g315,tp
+pantigliate,g316,mi
+paola,g317,cs
+paolisi,g318,bn
+papasidero,g320,cs
+papozze,g323,ro
+parabiago,g324,mi
+parabita,g325,le
+paratico,g327,bs
+pare',g329,co
+parella,g330,to
+parenti,g331,cs
+parete,g333,ce
+pareto,g334,al
+parghelia,g335,vv
+parlasco,g336,lc
+parma,g337,pr
+parodi ligure,g338,al
+paroldo,g339,cn
+parolise,g340,av
+parona,g342,pv
+parrano,g344,tr
+parre,g346,bg
+partanna,g347,tp
+partinico,g348,pa
+paruzzaro,g349,no
+parzanica,g350,bg
+pasian di prato,g352,ud
+pasiano di pordenone,g353,pn
+paspardo,g354,bs
+passerano marmorito,g358,at
+passignano sul trasimeno,g359,pg
+passirano,g361,bs
+pastena,g362,fr
+pastorano,g364,ce
+pastrengo,g365,vr
+pasturana,g367,al
+pasturo,g368,lc
+paterno,m269,pz
+paterno calabro,g372,cs
+paterno',g371,ct
+paternopoli,g370,av
+patrica,g374,fr
+pattada,g376,ss
+patti,g377,me
+patu',g378,le
+pau,g379,or
+paularo,g381,ud
+pauli arbarei,g382,ca
+paulilatino,g384,or
+paullo,g385,mi
+paupisi,g386,bn
+pavarolo,g387,to
+pavia,g388,pv
+pavia di udine,g389,ud
+pavone canavese,g392,to
+pavone del mella,g391,bs
+pavullo nel frignano,g393,mo
+pazzano,g394,rc
+peccioli,g395,pi
+pecco,g396,to
+pecetto di valenza,g397,al
+pecetto torinese,g398,to
+pecorara,g399,pc
+pedace,g400,cs
+pedara,g402,ct
+pedaso,g403,ap
+pedavena,g404,bl
+pedemonte,g406,vi
+pederobba,g408,tv
+pedesina,g410,so
+pedivigliano,g411,cs
+pedrengo,g412,bg
+peglio,g415,ps
+peglio,g416,co
+pegognaga,g417,mn
+peia,g418,bg
+peio,g419,tn
+pelago,g420,fi
+pella,g421,no
+pellegrino parmense,g424,pr
+pellezzano,g426,sa
+pellio intelvi,g427,co
+pellizzano,g428,tn
+pelugo,g429,tn
+penango,g430,at
+penna in teverina,g432,tr
+penna san giovanni,g436,mc
+penna sant'andrea,g437,te
+pennabilli,g433,ps
+pennadomo,g434,ch
+pennapiedimonte,g435,ch
+penne,g438,pe
+pentone,g439,cz
+perano,g441,ch
+perarolo di cadore,g442,bl
+percile,g444,rm
+perdasdefogu,g445,nu
+perdaxius,g446,ca
+perdifumo,g447,sa
+perego,g448,lc
+pereto,g449,aq
+perfugas,g450,ss
+pergine valdarno,g451,ar
+pergine valsugana,g452,tn
+pergola,g453,ps
+perinaldo,g454,im
+perito,g455,sa
+perledo,g456,lc
+perletto,g457,cn
+perlo,g458,cn
+perloz,g459,ao
+pernumia,g461,pd
+pero,c013,mi
+perosa argentina,g463,to
+perosa canavese,g462,to
+perrero,g465,to
+persico dosimo,g469,cr
+pertengo,g471,vc
+pertica alta,g474,bs
+pertica bassa,g475,bs
+pertosa,g476,sa
+pertusio,g477,to
+perugia,g478,pg
+pesaro,g479,ps
+pescaglia,g480,lu
+pescantina,g481,vr
+pescara,g482,pe
+pescarolo ed uniti,g483,cr
+pescasseroli,g484,aq
+pescate,g485,lc
+pesche,g486,is
+peschici,g487,fg
+peschiera borromeo,g488,mi
+peschiera del garda,g489,vr
+pescia,g491,pt
+pescina,g492,aq
+pesco sannita,g494,bn
+pescocostanzo,g493,aq
+pescolanciano,g495,is
+pescopagano,g496,pz
+pescopennataro,g497,is
+pescorocchiano,g498,ri
+pescosansonesco,g499,pe
+pescosolido,g500,fr
+pessano con bornago,g502,mi
+pessina cremonese,g504,cr
+pessinetto,g505,to
+petacciato,g506,cb
+petilia policastro,g508,kr
+petina,g509,sa
+petralia soprana,g510,pa
+petralia sottana,g511,pa
+petrella salto,g513,ri
+petrella tifernina,g512,cb
+petriano,g514,ps
+petriolo,g515,mc
+petritoli,g516,ap
+petrizzi,g517,cz
+petrona',g518,cz
+petrosino,m281,tp
+petruro irpino,g519,av
+pettenasco,g520,no
+pettinengo,g521,bi
+pettineo,g522,me
+pettoranello del molise,g523,is
+pettorano sul gizio,g524,aq
+pettorazza grimani,g525,ro
+peveragno,g526,cn
+pezzana,g528,vc
+pezzaze,g529,bs
+pezzolo valle uzzone,g532,cn
+piacenza,g535,pc
+piacenza d'adige,g534,pd
+piadena,g536,cr
+piagge,g537,ps
+piaggine,g538,sa
+pian camuno,g546,bs
+pian di sco,g552,ar
+piana crixia,g542,sv
+piana degli albanesi,g543,pa
+piana di monte verna,g541,ce
+piancastagnaio,g547,si
+piancogno,g549,bs
+piandimeleto,g551,ps
+piane crati,g553,cs
+pianella,g555,pe
+pianello del lario,g556,co
+pianello val tidone,g557,pc
+pianengo,g558,cr
+pianezza,g559,to
+pianezze,g560,vi
+pianfei,g561,cn
+pianico,g564,bg
+pianiga,g565,ve
+piano di sorrento,g568,na
+pianopoli,d546,cz
+pianoro,g570,bo
+piansano,g571,vt
+piantedo,g572,so
+piario,g574,bg
+piasco,g575,cn
+piateda,g576,so
+piatto,g577,bi
+piazza al serchio,g582,lu
+piazza armerina,g580,en
+piazza brembana,g579,bg
+piazzatorre,g583,bg
+piazzola sul brenta,g587,pd
+piazzolo,g588,bg
+picciano,g589,pe
+picerno,g590,pz
+picinisco,g591,fr
+pico,g592,fr
+piea,g593,at
+piedicavallo,g594,bi
+piedimonte etneo,g597,ct
+piedimonte matese,g596,ce
+piedimonte san germano,g598,fr
+piedimulera,g600,vb
+piegaro,g601,pg
+pienza,g602,si
+pieranica,g603,cr
+pietra de' giorgi,g612,pv
+pietra ligure,g605,sv
+pietra marazzi,g619,al
+pietrabbondante,g606,is
+pietrabruna,g607,im
+pietracamela,g608,te
+pietracatella,g609,cb
+pietracupa,g610,cb
+pietradefusi,g611,av
+pietraferrazzana,g613,ch
+pietrafitta,g615,cs
+pietragalla,g616,pz
+pietralunga,g618,pg
+pietramelara,g620,ce
+pietramontecorvino,g604,fg
+pietranico,g621,pe
+pietrapaola,g622,cs
+pietrapertosa,g623,pz
+pietraperzia,g624,en
+pietraporzio,g625,cn
+pietraroia,g626,bn
+pietrarubbia,g627,ps
+pietrasanta,g628,lu
+pietrastornina,g629,av
+pietravairano,g630,ce
+pietrelcina,g631,bn
+pieve a nievole,g636,pt
+pieve albignola,g635,pv
+pieve d'alpago,g638,bl
+pieve d'olmi,g647,cr
+pieve del cairo,g639,pv
+pieve di bono,g641,tn
+pieve di cadore,g642,bl
+pieve di cento,g643,bo
+pieve di coriano,g633,mn
+pieve di ledro,g644,tn
+pieve di soligo,g645,tv
+pieve di teco,g632,im
+pieve emanuele,g634,mi
+pieve fissiraga,g096,lo
+pieve fosciana,g648,lu
+pieve ligure,g646,ge
+pieve porto morone,g650,pv
+pieve san giacomo,g651,cr
+pieve santo stefano,g653,ar
+pieve tesino,g656,tn
+pieve torina,g657,mc
+pieve vergonte,g658,vb
+pievebovigliana,g637,mc
+pievepelago,g649,mo
+piglio,g659,fr
+pigna,g660,im
+pignataro interamna,g662,fr
+pignataro maggiore,g661,ce
+pignola,g663,pz
+pignone,g664,sp
+pigra,g665,co
+pila,g666,vc
+pimentel,g669,ca
+pimonte,g670,na
+pinarolo po,g671,pv
+pinasca,g672,to
+pincara,g673,ro
+pinerolo,g674,to
+pineto,f831,te
+pino d'asti,g676,at
+pino torinese,g678,to
+pinzano al tagliamento,g680,pn
+pinzolo,g681,tn
+piobbico,g682,ps
+piobesi d'alba,g683,cn
+piobesi torinese,g684,to
+piode,g685,vc
+pioltello,g686,mi
+piombino,g687,li
+piombino dese,g688,pd
+pioraco,g690,mc
+piossasco,g691,to
+piova' massaia,g692,at
+piove di sacco,g693,pd
+piovene rocchette,g694,vi
+piovera,g695,al
+piozzano,g696,pc
+piozzo,g697,cn
+piraino,g699,me
+pisa,g702,pi
+pisano,g703,no
+piscina,g705,to
+pisciotta,g707,sa
+pisogne,g710,bs
+pisoniano,g704,rm
+pisticci,g712,mt
+pistoia,g713,pt
+pistolesa,g714,bi
+piteglio,g715,pt
+pitigliano,g716,gr
+piubega,g717,mn
+piuro,g718,so
+piverone,g719,to
+pizzale,g720,pv
+pizzighettone,g721,cr
+pizzo,g722,vv
+pizzoferrato,g724,ch
+pizzoli,g726,aq
+pizzone,g727,is
+pizzoni,g728,vv
+placanica,g729,rc
+plataci,g733,cs
+platania,g734,cz
+plati',g735,rc
+plaus,g299,bz
+plesio,g737,co
+ploaghe,g740,ss
+plodio,g741,sv
+pocapaglia,g742,cn
+pocenia,g743,ud
+podenzana,g746,ms
+podenzano,g747,pc
+pofi,g749,fr
+poggiardo,g751,le
+poggibonsi,g752,si
+poggio a caiano,g754,po
+poggio berni,g755,rn
+poggio bustone,g756,ri
+poggio catino,g757,ri
+poggio imperiale,g761,fg
+poggio mirteto,g763,ri
+poggio moiano,g764,ri
+poggio nativo,g765,ri
+poggio picenze,g766,aq
+poggio renatico,g768,fe
+poggio rusco,g753,mn
+poggio san lorenzo,g770,ri
+poggio san marcello,g771,an
+poggio san vicino,d566,mc
+poggio sannita,b317,is
+poggiodomo,g758,pg
+poggiofiorito,g760,ch
+poggiomarino,g762,na
+poggioreale,g767,tp
+poggiorsini,g769,ba
+poggiridenti,g431,so
+pogliano milanese,g772,mi
+pognana lario,g773,co
+pognano,g774,bg
+pogno,g775,no
+poirino,g777,to
+pola,g778,po
+polaveno,g779,bs
+polcenigo,g780,pn
+polesella,g782,ro
+polesine parmense,g783,pr
+poli,g784,rm
+polia,g785,vv
+policoro,g786,mt
+polignano a mare,g787,ba
+polinago,g789,mo
+polino,g790,tr
+polistena,g791,rc
+polizzi generosa,g792,pa
+polla,g793,sa
+pollein,g794,ao
+pollena trocchia,g795,na
+pollenza,f567,mc
+pollica,g796,sa
+pollina,g797,pa
+pollone,g798,bi
+pollutri,g799,ch
+polonghera,g800,cn
+polpenazze del garda,g801,bs
+polverara,g802,pd
+polverigi,g803,an
+pomarance,g804,pi
+pomaretto,g805,to
+pomarico,g806,mt
+pomaro monferrato,g807,al
+pomarolo,g808,tn
+pombia,g809,no
+pomezia,g811,rm
+pomigliano d'arco,g812,na
+pompei,g813,na
+pompeiana,g814,im
+pompiano,g815,bs
+pomponesco,g816,mn
+pompu,g817,or
+poncarale,g818,bs
+ponderano,g820,bi
+ponna,g821,co
+ponsacco,g822,pi
+ponso,g823,pd
+pont canavese,g826,to
+pontassieve,g825,fi
+pontboset,g545,ao
+ponte,g827,bn
+ponte buggianese,g833,pt
+ponte dell'olio,g842,pc
+ponte di legno,g844,bs
+ponte di piave,g846,tv
+ponte in valtellina,g829,so
+ponte lambro,g847,co
+ponte nelle alpi,b662,bl
+ponte nizza,g851,pv
+ponte nossa,f941,bg
+ponte san nicolo',g855,pd
+ponte san pietro,g856,bg
+pontebba,g831,ud
+pontecagnano faiano,g834,sa
+pontecchio polesine,g836,ro
+pontechianale,g837,cn
+pontecorvo,g838,fr
+pontecurone,g839,al
+pontedassio,g840,im
+pontedera,g843,pi
+pontelandolfo,g848,bn
+pontelatone,g849,ce
+pontelongo,g850,pd
+pontenure,g852,pc
+ponteranica,g853,bg
+pontestura,g858,al
+pontevico,g859,bs
+pontey,g860,ao
+ponti,g861,al
+ponti sul mincio,g862,mn
+pontida,g864,bg
+pontinia,g865,lt
+pontinvrea,g866,sv
+pontirolo nuovo,g867,bg
+pontoglio,g869,bs
+pontremoli,g870,ms
+ponza,g871,lt
+ponzano di fermo,g873,ap
+ponzano monferrato,g872,al
+ponzano romano,g874,rm
+ponzano veneto,g875,tv
+ponzone,g877,al
+popoli,g878,pe
+poppi,g879,ar
+porano,g881,tr
+porcari,g882,lu
+porcia,g886,pn
+pordenone,g888,pn
+porlezza,g889,co
+pornassio,g890,im
+porpetto,g891,ud
+porretta terme,a558,bo
+portacomaro,g894,at
+portalbera,g895,pv
+porte,g900,to
+portici,g902,na
+portico di caserta,g903,ce
+portico e san benedetto,g904,fo
+portigliola,g905,rc
+porto azzurro,e680,li
+porto ceresio,g906,va
+porto cesareo,m263,le
+porto empedocle,f299,ag
+porto mantovano,g917,mn
+porto recanati,g919,mc
+porto san giorgio,g920,ap
+porto sant'elpidio,g921,ap
+porto tolle,g923,ro
+porto torres,g924,ss
+porto valtravaglia,g907,va
+portobuffole',g909,tv
+portocannone,g910,cb
+portoferraio,g912,li
+portofino,g913,ge
+portogruaro,g914,ve
+portomaggiore,g916,fe
+portoscuso,g922,ca
+portovenere,g925,sp
+portula,g927,bi
+posada,g929,nu
+posina,g931,vi
+positano,g932,sa
+possagno,g933,tv
+posta,g934,ri
+posta fibreno,g935,fr
+postalesio,g937,so
+postiglione,g939,sa
+postua,g940,vc
+potenza,g942,pz
+potenza picena,f632,mc
+pove del grappa,g943,vi
+povegliano,g944,tv
+povegliano veronese,g945,vr
+poviglio,g947,re
+povoletto,g949,ud
+pozza di fassa,g950,tn
+pozzaglia sabino,g951,ri
+pozzaglio ed uniti,b914,cr
+pozzallo,g953,rg
+pozzilli,g954,is
+pozzo d'adda,g955,mi
+pozzol groppo,g960,al
+pozzolengo,g959,bs
+pozzoleone,g957,vi
+pozzolo formigaro,g961,al
+pozzomaggiore,g962,ss
+pozzonovo,g963,pd
+pozzuoli,g964,na
+pozzuolo del friuli,g966,ud
+pozzuolo martesana,g965,mi
+pradalunga,g968,bg
+pradamano,g969,ud
+pradleves,g970,cn
+pragelato,g973,to
+praia a mare,g975,cs
+praiano,g976,sa
+pralboino,g977,bs
+prali,g978,to
+pralormo,g979,to
+pralungo,g980,bi
+pramaggiore,g981,ve
+pramollo,g982,to
+prarolo,g985,vc
+prarostino,g986,to
+prasco,g987,al
+prascorsano,g988,to
+praso,g989,tn
+prata camportaccio,g993,so
+prata d'ansidonia,g992,aq
+prata di pordenone,g994,pn
+prata di principato ultra,g990,av
+prata sannita,g991,ce
+pratella,g995,ce
+pratiglione,g997,to
+prato,g999,po
+prato allo stelvio,h004,bz
+prato carnico,h002,ud
+prato sesia,h001,no
+pratola peligna,h007,aq
+pratola serra,h006,av
+pratovecchio,h008,ar
+pravisdomini,h010,pn
+pray,g974,bi
+prazzo,h011,cn
+precenicco,h014,ud
+preci,h015,pg
+predappio,h017,fo
+predazzo,h018,tn
+predoi,h019,bz
+predore,h020,bg
+predosa,h021,al
+preganziol,h022,tv
+pregnana milanese,h026,mi
+prela',h027,im
+premana,h028,lc
+premariacco,h029,ud
+premeno,h030,vb
+premia,h033,vb
+premilcuore,h034,fo
+premolo,h036,bg
+premosello chiovenda,h037,vb
+preone,h038,ud
+preore,h039,tn
+prepotto,h040,ud
+preseglie,h043,bs
+presenzano,h045,ce
+presezzo,h046,bg
+presicce,h047,le
+pressana,h048,vr
+prestine,h050,bs
+pretoro,h052,ch
+prevalle,h055,bs
+prezza,h056,aq
+prezzo,h057,tn
+priero,h059,cn
+prignano cilento,h062,sa
+prignano sulla secchia,h061,mo
+primaluna,h063,lc
+priocca,h068,cn
+priola,h069,cn
+priolo gargallo,m279,sr
+priverno,g698,lt
+prizzi,h070,pa
+proceno,h071,vt
+procida,h072,na
+propata,h073,ge
+proserpio,h074,co
+prossedi,h076,lt
+provaglio d'iseo,h078,bs
+provaglio val sabbia,h077,bs
+provvidenti,h083,cb
+prunetto,h085,cn
+puegnago sul garda,h086,bs
+puglianello,h087,bn
+pula,h088,ca
+pulfero,h089,ud
+pulsano,h090,ta
+pumenengo,h091,bg
+puos d'alpago,h092,bl
+pusiano,h094,co
+putifigari,h095,ss
+putignano,h096,ba
+quadrelle,h097,av
+quadri,h098,ch
+quagliuzzo,h100,to
+qualiano,h101,na
+quaranti,h102,at
+quaregna,h103,bi
+quargnento,h104,al
+quarna sopra,h106,vb
+quarna sotto,h107,vb
+quarona,h108,vc
+quarrata,h109,pt
+quart,h110,ao
+quarto,h114,na
+quarto d'altino,h117,ve
+quartu sant'elena,h118,ca
+quartucciu,h119,ca
+quassolo,h120,to
+quattordio,h121,al
+quattro castella,h122,re
+quero,h124,bl
+quiliano,h126,sv
+quincinetto,h127,to
+quindici,h128,av
+quingentole,h129,mn
+quintano,h130,cr
+quinto di treviso,h131,tv
+quinto vercellese,h132,vc
+quinto vicentino,h134,vi
+quinzano d'oglio,h140,bs
+quistello,h143,mn
+quittengo,h145,bi
+rabbi,h146,tn
+racale,h147,le
+racalmuto,h148,ag
+racconigi,h150,cn
+raccuia,h151,me
+racines,h152,bz
+radda in chianti,h153,si
+raddusa,h154,ct
+radicofani,h156,si
+radicondoli,h157,si
+raffadali,h159,ag
+ragalna,m286,me
+ragogna,h161,ud
+ragoli,h162,tn
+ragusa,h163,rg
+raiano,h166,aq
+ramacca,h168,ct
+ramiseto,g654,re
+ramponio verna,h171,co
+rancio valcuvia,h173,va
+ranco,h174,va
+randazzo,h175,ct
+ranica,h176,bg
+ranzanico,h177,bg
+ranzo,h180,im
+rapagnano,h182,ap
+rapallo,h183,ge
+rapino,h184,ch
+rapolano terme,h185,si
+rapolla,h186,pz
+rapone,h187,pz
+rassa,h188,vc
+rasun anterselva,h189,bz
+rasura,h192,so
+ravanusa,h194,ag
+ravarino,h195,mo
+ravascletto,h196,ud
+ravello,h198,sa
+ravenna,h199,ra
+raveo,h200,ud
+raviscanina,h202,ce
+re,h203,vb
+rea,h204,pv
+realmonte,h205,ag
+reana del roiale,h206,ud
+reano,h207,to
+recale,h210,ce
+recanati,h211,mc
+recco,h212,ge
+recetto,h213,no
+recoaro terme,h214,vi
+redavalle,h216,pv
+redondesco,h218,mn
+refrancore,h219,at
+refrontolo,h220,tv
+regalbuto,h221,en
+reggello,h222,fi
+reggio calabria,h224,rc
+reggio emilia,h223,re
+reggiolo,h225,re
+reino,h227,bn
+reitano,h228,me
+remanzacco,h229,ud
+remedello,h230,bs
+renate,h233,mi
+rende,h235,cs
+renon,h236,bz
+resana,h238,tv
+rescaldina,h240,mi
+resia,h242,ud
+resiutta,h244,ud
+resuttano,h245,cl
+retorbido,h246,pv
+revello,h247,cn
+revere,h248,mn
+revigliasco d'asti,h250,at
+revine lago,h253,tv
+revo',h254,tn
+rezzago,h255,co
+rezzato,h256,bs
+rezzo,h257,im
+rezzoaglio,h258,ge
+rho,h264,mi
+riace,h265,rc
+rialto,h266,sv
+riano,h267,rm
+riardo,h268,ce
+ribera,h269,ag
+ribordone,h270,to
+ricadi,h271,vv
+ricaldone,h272,al
+riccia,h273,cb
+riccione,h274,rn
+ricengo,h276,cr
+ricigliano,h277,sa
+riese pio x,h280,tv
+riesi,h281,cl
+rieti,h282,ri
+rifreddo,h285,cn
+rignano flaminio,h288,rm
+rignano garganico,h287,fg
+rignano sull'arno,h286,fi
+rigolato,h289,ud
+rima san giuseppe,h291,vc
+rimasco,h292,vc
+rimella,h293,vc
+rimini,h294,rn
+rio di pusteria,h299,bz
+rio marina,h305,li
+rio nell'elba,h297,li
+rio saliceto,h298,re
+riofreddo,h300,rm
+riola sardo,h301,or
+riolo terme,h302,ra
+riolunato,h303,mo
+riomaggiore,h304,sp
+rionero in vulture,h307,pz
+rionero sannitico,h308,is
+ripa teatina,h320,ch
+ripabottoni,h311,cb
+ripacandida,h312,pz
+ripalimosani,h313,cb
+ripalta arpina,h314,cr
+ripalta cremasca,h315,cr
+ripalta guerina,h316,cr
+riparbella,h319,pi
+ripatransone,h321,ap
+ripe,h322,an
+ripe san ginesio,h323,mc
+ripi,h324,fr
+riposto,h325,ct
+rittana,h326,cn
+riva del garda,h330,tn
+riva di solto,h331,bg
+riva ligure,h328,im
+riva presso chieri,h337,to
+riva valdobbia,h329,vc
+rivalba,h333,to
+rivalta bormida,h334,al
+rivalta di torino,h335,to
+rivamonte agordino,h327,bl
+rivanazzano,h336,pv
+rivara,h338,to
+rivarolo canavese,h340,to
+rivarolo mantovano,h342,mn
+rivarone,h343,al
+rivarossa,h344,to
+rive,h346,vc
+rive d'arcano,h347,ud
+rivello,h348,pz
+rivergaro,h350,pc
+rivignano,h352,ud
+rivisondoli,h353,aq
+rivodutri,h354,ri
+rivoli,h355,to
+rivoli veronese,h356,vr
+rivolta d'adda,h357,cr
+rizziconi,h359,rc
+ro ferrarese,h360,fe
+roana,h361,vi
+roaschia,h362,cn
+roascio,h363,cn
+roasio,h365,vc
+roatto,h366,at
+robassomero,h367,to
+robbiate,g223,lc
+robbio,h369,pv
+robecchetto con induno,h371,mi
+robecco d'oglio,h372,cr
+robecco pavese,h375,pv
+robecco sul naviglio,h373,mi
+robella,h376,at
+robilante,h377,cn
+roburent,h378,cn
+rocca canavese,h386,to
+rocca canterano,h387,rm
+rocca ciglie',h391,cn
+rocca d'arazzo,h392,at
+rocca d'evandro,h398,ce
+rocca de' baldi,h395,cn
+rocca de' giorgi,h396,pv
+rocca di botte,h399,aq
+rocca di cambio,h400,aq
+rocca di cave,h401,rm
+rocca di mezzo,h402,aq
+rocca di neto,h403,kr
+rocca di papa,h404,rm
+rocca grimalda,h414,al
+rocca imperiale,h416,cs
+rocca massima,h421,lt
+rocca pia,h429,aq
+rocca pietore,h379,bl
+rocca priora,h432,rm
+rocca san casciano,h437,fo
+rocca san felice,h438,av
+rocca san giovanni,h439,ch
+rocca santa maria,h440,te
+rocca santo stefano,h441,rm
+rocca sinibalda,h446,ri
+rocca susella,h450,pv
+roccabascerana,h382,av
+roccabernarda,h383,kr
+roccabianca,h384,pr
+roccabruna,h385,cn
+roccacasale,h389,aq
+roccadaspide,h394,sa
+roccafluvione,h390,ap
+roccaforte del greco,h408,rc
+roccaforte ligure,h406,al
+roccaforte mondovi',h407,cn
+roccaforzata,h409,ta
+roccafranca,h410,bs
+roccagiovine,h411,rm
+roccagloriosa,h412,sa
+roccagorga,h413,lt
+roccalbegna,h417,gr
+roccalumera,h418,me
+roccamandolfi,h420,is
+roccamena,h422,pa
+roccamonfina,h423,ce
+roccamontepiano,h424,ch
+roccamorice,h425,pe
+roccanova,h426,pz
+roccantica,h427,ri
+roccapalumba,h428,pa
+roccapiemonte,h431,sa
+roccarainola,h433,na
+roccaraso,h434,aq
+roccaromana,h436,ce
+roccascalegna,h442,ch
+roccasecca,h443,fr
+roccasecca dei volsci,h444,lt
+roccasicura,h445,is
+roccasparvera,h447,cn
+roccaspinalveti,h448,ch
+roccastrada,h449,gr
+roccavaldina,h380,me
+roccaverano,h451,at
+roccavignale,h452,sv
+roccavione,h453,cn
+roccavivara,h454,cb
+roccella ionica,h456,rc
+roccella valdemone,h455,me
+rocchetta a volturno,h458,is
+rocchetta belbo,h462,cn
+rocchetta di vara,h461,sp
+rocchetta e croce,h459,ce
+rocchetta ligure,h465,al
+rocchetta nervina,h460,im
+rocchetta palafea,h466,at
+rocchetta sant'antonio,h467,fg
+rocchetta tanaro,h468,at
+rodano,h470,mi
+roddi,h472,cn
+roddino,h473,cn
+rodello,h474,cn
+rodengo,h475,bz
+rodero,h478,co
+rodi garganico,h480,fg
+rodi' milici,h479,me
+rodigo,h481,mn
+roe' volciano,h484,bs
+rofrano,h485,sa
+rogeno,h486,lc
+roggiano gravina,h488,cs
+roghudi,h489,rc
+rogliano,h490,cs
+rognano,h491,pv
+rogno,h492,bg
+rogolo,h493,so
+roiate,h494,rm
+roio del sangro,h495,ch
+roisan,h497,ao
+roletto,h498,to
+rolo,h500,re
+roma,h501,rm
+romagnano al monte,h503,sa
+romagnano sesia,h502,no
+romagnese,h505,pv
+romallo,h506,tn
+romana,h507,ss
+romanengo,h508,cr
+romano canavese,h511,to
+romano d'ezzelino,h512,vi
+romano di lombardia,h509,bg
+romans d'isonzo,h514,go
+rombiolo,h516,vv
+romeno,h517,tn
+romentino,h518,no
+rometta,h519,me
+ronago,h521,co
+ronca',h522,vr
+roncade,h523,tv
+roncadelle,h525,bs
+roncaro,h527,pv
+roncegno,h528,tn
+roncello,h529,mi
+ronchi dei legionari,h531,go
+ronchi valsugana,h532,tn
+ronchis,h533,ud
+ronciglione,h534,vt
+ronco all'adige,h540,vr
+ronco biellese,h538,bi
+ronco briantino,h537,mi
+ronco canavese,h539,to
+ronco scrivia,h536,ge
+roncobello,h535,bg
+roncoferraro,h541,mn
+roncofreddo,h542,fo
+roncola,h544,bg
+roncone,h545,tn
+rondanina,h546,ge
+rondissone,h547,to
+ronsecco,h549,vc
+ronzo-chienis,g313,tn
+ronzone,h552,tn
+roppolo,h553,bi
+rora',h554,to
+rosa',h556,vi
+rosarno,h558,rc
+rosasco,h559,pv
+rosate,h560,mi
+rosazza,h561,bi
+rosciano,h562,pe
+roscigno,h564,sa
+rose,h565,cs
+rosello,h566,ch
+roseto capo spulico,h572,cs
+roseto degli abruzzi,f585,te
+roseto valfortore,h568,fg
+rosignano marittimo,h570,li
+rosignano monferrato,h569,al
+rosolina,h573,ro
+rosolini,h574,sr
+rosora,h575,an
+rossa,h577,vc
+rossana,h578,cn
+rossano,h579,cs
+rossano veneto,h580,vi
+rossiglione,h581,ge
+rosta,h583,to
+rota d'imagna,h584,bg
+rota greca,h585,cs
+rotella,h588,ap
+rotello,h589,cb
+rotonda,h590,pz
+rotondella,h591,mt
+rotondi,h592,av
+rottofreno,h593,pc
+rotzo,h594,vi
+roure,h555,to
+rovagnate,h596,lc
+rovasenda,h364,vc
+rovato,h598,bs
+rovegno,h599,ge
+rovellasca,h601,co
+rovello porro,h602,co
+roverbella,h604,mn
+roverchiara,h606,vr
+rovere' della luna,h607,tn
+rovere' veronese,h608,vr
+roveredo di gua',h610,vr
+roveredo in piano,h609,pn
+rovereto,h612,tn
+rovescala,h614,pv
+rovetta,h615,bg
+roviano,h618,rm
+rovigo,h620,ro
+rovito,h621,cs
+rovolon,h622,pd
+rozzano,h623,mi
+rubano,h625,pd
+rubiana,h627,to
+rubiera,h628,re
+ruda,h629,ud
+rudiano,h630,bs
+rueglio,h631,to
+ruffano,h632,le
+ruffia,h633,cn
+ruffre',h634,tn
+rufina,h635,fi
+ruinas,f271,or
+ruino,h637,pv
+rumo,h639,tn
+ruoti,h641,pz
+russi,h642,ra
+rutigliano,h643,ba
+rutino,h644,sa
+ruviano,h165,ce
+ruvo del monte,h646,pz
+ruvo di puglia,h645,ba
+sabaudia,h647,lt
+sabbia,h648,vc
+sabbio chiese,h650,bs
+sabbioneta,h652,mn
+sacco,h654,sa
+saccolongo,h655,pd
+sacile,h657,pn
+sacrofano,h658,rm
+sadali,h659,nu
+sagama,h661,nu
+sagliano micca,h662,bi
+sagrado,h665,go
+sagron mis,h666,tn
+sala baganza,h682,pr
+sala biellese,h681,bi
+sala bolognese,h678,bo
+sala comacina,h679,co
+sala monferrato,h677,al
+sala consilina,h683,sa
+salandra,h687,mt
+salaparuta,h688,tp
+salara,h689,ro
+salasco,h690,vc
+salassa,h691,to
+salbertrand,h684,to
+salcedo,f810,vi
+salcito,h693,cb
+sale,h694,al
+sale delle langhe,h695,cn
+sale marasino,h699,bs
+sale san giovanni,h704,cn
+salemi,h700,tp
+salento,h686,sa
+salerano canavese,h702,to
+salerano sul lambro,h701,lo
+salerno,h703,sa
+saletto,h705,pd
+salgareda,h706,tv
+salice salentino,h708,le
+saliceto,h710,cn
+salisano,h713,ri
+salizzole,h714,vr
+salle,h715,pe
+salmour,h716,cn
+salo',h717,bs
+salorno,h719,bz
+salsomaggiore terme,h720,pr
+saltara,h721,ps
+saltrio,h723,va
+saludecio,h724,rn
+saluggia,h725,vc
+salussola,h726,bi
+saluzzo,h727,cn
+salve,h729,le
+salvirola,h731,cr
+salvitelle,h732,sa
+salza di pinerolo,h734,to
+salza irpina,h733,av
+salzano,h735,ve
+samarate,h736,va
+samassi,h738,ca
+samatzai,h739,ca
+sambuca di sicilia,h743,ag
+sambuca pistoiese,h744,pt
+sambuci,h745,rm
+sambuco,h746,cn
+sammichele di bari,h749,ba
+samo,h013,rc
+samolaco,h752,so
+samone,h753,tn
+sampeyre,h755,cn
+samugheo,h756,or
+san bartolomeo al mare,h763,im
+san bartolomeo in galdo,h764,bn
+san bartolomeo val cavargna,h760,co
+san basile,h765,cs
+san basilio,h766,ca
+san bassano,h767,cr
+san bellino,h768,ro
+san benedetto belbo,h770,cn
+san benedetto dei marsi,h772,aq
+san benedetto del tronto,h769,ap
+san benedetto in perillis,h773,aq
+san benedetto po,h771,mn
+san benedetto ullano,h774,cs
+san benedetto val di sambro,g566,bo
+san benigno canavese,h775,to
+san bernardino verbano,h777,vb
+san biagio della cima,h780,im
+san biagio platani,h778,ag
+san biagio saracinisco,h779,fr
+san biagio di callalta,h781,tv
+san biase,h782,cb
+san bonifacio,h783,vr
+san buono,h784,ch
+san calogero,h785,vv
+san candido,h786,bz
+san canzian d'isonzo,h787,go
+san carlo canavese,h789,to
+san casciano dei bagni,h790,si
+san casciano in val di pesa,h791,fi
+san cassiano,m264,le
+san cataldo,h792,cl
+san cesario di lecce,h793,le
+san cesario sul panaro,h794,mo
+san chirico nuovo,h795,pz
+san chirico raparo,h796,pz
+san cipirello,h797,pa
+san cipriano d'aversa,h798,ce
+san cipriano picentino,h800,sa
+san cipriano po,h799,pv
+san clemente,h801,rn
+san colombano al lambro,h803,mi
+san colombano belmonte,h804,to
+san colombano certenoli,h802,ge
+san cono,h805,ct
+san cosmo albanese,h806,cs
+san costantino albanese,h808,pz
+san costantino calabro,h807,vv
+san costanzo,h809,ps
+san cristoforo,h810,al
+san damiano al colle,h814,pv
+san damiano d'asti,h811,at
+san damiano macra,h812,cn
+san daniele po,h815,cr
+san daniele del friuli,h816,ud
+san demetrio corone,h818,cs
+san didero,h820,to
+san dona' di piave,h823,ve
+san donaci,h822,br
+san donato di lecce,h826,le
+san donato di ninea,h825,cs
+san donato milanese,h827,mi
+san donato val di comino,h824,fr
+san dorligo della valle,d324,ts
+san fedele intelvi,h830,co
+san fele,h831,pz
+san felice a cancello,h834,ce
+san felice circeo,h836,lt
+san felice del benaco,h838,bs
+san felice del molise,h833,cb
+san felice sul panaro,h835,mo
+san ferdinando,m277,rc
+san ferdinando di puglia,h839,fg
+san fermo della battaglia,h840,co
+san fili,h841,cs
+san filippo del mela,h842,me
+san fior,h843,tv
+san fiorano,h844,lo
+san floriano del collio,h845,go
+san floro,h846,cz
+san francesco al campo,h847,to
+san fratello,h850,me
+san gavino monreale,h856,ca
+san gemini,h857,tr
+san genesio atesino,h858,bz
+san genesio ed uniti,h859,pv
+san gennaro vesuviano,h860,na
+san germano chisone,h862,to
+san germano dei berici,h863,vi
+san germano vercellese,h861,vc
+san gervasio bresciano,h865,bs
+san giacomo degli schiavoni,h867,cb
+san giacomo delle segnate,h870,mn
+san giacomo filippo,h868,so
+san giacomo vercellese,b952,vc
+san gillio,h873,to
+san gimignano,h875,si
+san ginesio,h876,mc
+san giorgio a cremano,h892,na
+san giorgio a liri,h880,fr
+san giorgio albanese,h881,cs
+san giorgio canavese,h890,to
+san giorgio del sannio,h894,bn
+san giorgio di lomellina,h885,pv
+san giorgio di mantova,h883,mn
+san giorgio di nogaro,h895,ud
+san giorgio di pesaro,h886,ps
+san giorgio di piano,h896,bo
+san giorgio in bosco,h897,pd
+san giorgio ionico,h882,ta
+san giorgio la molara,h898,bn
+san giorgio lucano,h888,mt
+san giorgio monferrato,h878,al
+san giorgio morgeto,h889,rc
+san giorgio piacentino,h887,pc
+san giorgio scarampi,h899,at
+san giorgio su legnano,h884,mi
+san giovanni a piro,h907,sa
+san giovanni al natisone,h906,ud
+san giovanni bianco,h910,bg
+san giovanni d'asso,h911,si
+san giovanni del dosso,h912,mn
+san giovanni di gerace,h903,rc
+san giovanni gemini,h914,ag
+san giovanni ilarione,h916,vr
+san giovanni in croce,h918,cr
+san giovanni in fiore,h919,cs
+san giovanni in galdo,h920,cb
+san giovanni in persiceto,g467,bo
+san giovanni incarico,h917,fr
+san giovanni la punta,h922,ct
+san giovanni lipioni,h923,ch
+san giovanni lupatoto,h924,vr
+san giovanni rotondo,h926,fg
+san giovanni suergiu,g287,ca
+san giovanni teatino,d690,ch
+san giovanni valdarno,h901,ar
+san giuliano del sannio,h928,cb
+san giuliano di puglia,h929,cb
+san giuliano milanese,h930,mi
+san giuliano terme,a562,pi
+san giuseppe iato,h933,pa
+san giuseppe vesuviano,h931,na
+san giustino,h935,pg
+san giusto canavese,h936,to
+san godenzo,h937,fi
+san gregorio d'ippona,h941,vv
+san gregorio da sassola,h942,rm
+san gregorio di catania,h940,ct
+san gregorio magno,h943,sa
+san gregorio matese,h939,ce
+san gregorio nelle alpi,h938,bl
+san lazzaro di savena,h945,bo
+san leo,h949,ps
+st leonhard,h950,bz
+san leonardo,h951,ud
+san leonardo in passiria,h952,bz
+san leucio del sannio,h953,bn
+san lorenzello,h955,bn
+san lorenzo,h959,rc
+san lorenzo al mare,h957,im
+san lorenzo bellizzi,h961,cs
+san lorenzo del vallo,h962,cs
+san lorenzo di sebato,h956,bz
+san lorenzo in banale,h966,tn
+san lorenzo in campo,h958,ps
+san lorenzo isontino,h964,go
+san lorenzo maggiore,h967,bn
+san lorenzo nuovo,h969,vt
+san luca,h970,rc
+san lucido,h971,cs
+san lupo,h973,bn
+san mango d'aquino,h976,cz
+san mango piemonte,h977,sa
+san mango sul calore,h975,av
+san marcellino,h978,ce
+san marcello,h979,an
+san marcello pistoiese,h980,pt
+san marco argentano,h981,cs
+san marco d'alunzio,h982,me
+san marco dei cavoti,h984,bn
+san marco evangelista,f043,ce
+san marco in lamis,h985,fg
+san marco la catola,h986,fg
+san martino alfieri,h987,at
+san martino buon albergo,i003,vr
+san martino di venezze,h996,ro
+san martino canavese,h997,to
+san martino d'agri,h994,pz
+san martino del lago,i007,cr
+san martino di finita,h992,cs
+san martino di lupari,i008,pd
+san martino in badia,h988,bz
+san martino in pensilis,h990,cb
+san martino in rio,i011,re
+san martino in strada,i012,lo
+san martino sannita,i002,bn
+san martino siccomario,i014,pv
+san martino sulla marrucina,h991,ch
+san martino valle caudina,i016,av
+san marzano di san giuseppe,i018,ta
+san marzano oliveto,i017,at
+san marzano sul sarno,i019,sa
+san massimo,i023,cb
+san maurizio canavese,i024,to
+san maurizio d'opaglio,i025,no
+san mauro castelverde,i028,pa
+san mauro cilento,i031,sa
+san mauro di saline,h712,vr
+san mauro forte,i029,mt
+san mauro la bruca,i032,sa
+san mauro marchesato,i026,kr
+san mauro pascoli,i027,fo
+san mauro torinese,i030,to
+san michele all'adige,i042,tn
+san michele di ganzaria,i035,ct
+san michele di serino,i034,av
+san michele mondovi',i037,cn
+san michele salentino,i045,br
+san miniato,i046,pi
+san nazario,i047,vi
+san nazzaro,i049,bn
+san nazzaro sesia,i052,no
+san nazzaro val cavargna,i051,co
+san nicola arcella,i060,cs
+san nicola baronia,i061,av
+san nicola da crissa,i058,vv
+san nicola dell'alto,i057,kr
+san nicola la strada,i056,ce
+san nicola manfredi,i062,bn
+san nicolo' d'arcidano,a368,or
+san nicolo' di comelico,i063,bl
+san nicolo' gerrei,g383,ca
+san pancrazio salentino,i066,br
+san paolo,g407,bs
+san paolo albanese,b906,pz
+san paolo bel sito,i073,na
+san paolo cervo,i074,bi
+san paolo d'argon,b310,bg
+san paolo di civitate,i072,fg
+san paolo solbrito,i076,at
+san pellegrino terme,i079,bg
+san pier d'isonzo,i082,go
+san pier niceto,i084,me
+san piero a sieve,i085,fi
+san piero patti,i086,me
+san pietro a maida,i093,cz
+san pietro al natisone,i092,ud
+san pietro al tanagro,i089,sa
+san pietro apostolo,i095,cz
+san pietro avellana,i096,is
+san pietro clarenza,i098,ct
+san pietro di cadore,i088,bl
+san pietro di carida',i102,rc
+san pietro di feletto,i103,tv
+san pietro di morubio,i105,vr
+san pietro in amantea,i108,cs
+san pietro in cariano,i109,vr
+san pietro in casale,i110,bo
+san pietro in cerro,g788,pc
+san pietro in guarano,i114,cs
+san pietro in lama,i115,le
+san pietro infine,i113,ce
+san pietro mosezzo,i116,no
+san pietro mussolino,i117,vi
+san pietro val lemina,i090,to
+san pietro vernotico,i119,br
+san pietro viminario,i120,pd
+san pio delle camere,i121,aq
+san polo d'enza,i123,re
+san polo dei cavalieri,i125,rm
+san polo di piave,i124,tv
+san polomatese,i122,cb
+san possidonio,i128,mo
+san potito sannitico,i130,ce
+san potito ultra,i129,av
+san prisco,i131,ce
+san procopio,i132,rc
+san prospero,i133,mo
+san quirico d'orcia,i135,si
+san quirino,i136,pn
+san raffaele cimena,i137,to
+san roberto,i139,rc
+san rocco al porto,i140,lo
+san romano in garfagnana,i142,lu
+san rufo,i143,sa
+san salvatore di fitalia,i147,me
+san salvatore monferrato,i144,al
+san salvatore telesino,i145,bn
+san salvo,i148,ch
+san sebastiano al vesuvio,i151,na
+san sebastiano curone,i150,al
+san sebastiano da po,i152,to
+san secondo di pinerolo,i154,to
+san secondo parmense,i153,pr
+san severino lucano,i157,pz
+san severino marche,i156,mc
+san severo,i158,fg
+san sossio baronia,i163,av
+san sostene,i164,cz
+san sosti,i165,cs
+san sperate,i166,ca
+san tammaro,i261,ce
+san teodoro,i328,nu
+san tomaso agordino,i347,bl
+san valentino in abruzzo citer,i376,pe
+san valentino torio,i377,sa
+san venanzo,i381,tr
+san vendemiano,i382,tv
+san vero milis,i384,or
+san vincenzo,i390,li
+san vincenzo la costa,i388,cs
+san vincenzo valle roveto,i389,aq
+san vitaliano,i391,na
+san vito,i402,ca
+san vito al tagliamento,i403,pn
+san vito al torre,i404,ud
+san vito chietino,i394,ch
+san vito dei normanni,i396,br
+san vito di cadore,i392,bl
+san vito di fagagna,i405,ud
+san vito di leguzzano,i401,vi
+san vito lo capo,i407,tp
+san vito romano,i400,rm
+san vito sullo ionio,i393,cz
+san vittore del lazio,i408,fr
+san vittore olona,i409,mi
+san zeno di montagna,i414,vr
+san zeno naviglio,i412,bs
+san zenone al lambro,i415,mi
+san zenone al po,i416,pv
+sanarica,h757,le
+sandigliano,h821,bi
+sandrigo,h829,vi
+sanfre',h851,cn
+sanfront,h852,cn
+sangano,h855,to
+sangiano,h872,va
+sangineto,h877,cs
+sanguinetto,h944,vr
+sanluri,h974,ca
+sannazzaro de' burgondi,i048,pv
+sannicandro di bari,i053,ba
+sannicandro garganico,i054,fg
+sannicola,i059,le
+san pancrazio,i065,bz
+san pancrazio salentino,i066,br
+san pancrazio parmense,i068,pr
+sanremo,i138,im
+sansepolcro,i155,ar
+sant'abbondio,i167,co
+sant'agapito,i189,is
+sant'agata bolognese,i191,bo
+sant'agata de' goti,i197,bn
+sant'agata del bianco,i198,rc
+sant'agata di esaro,i192,cs
+sant'agata di militello,i199,me
+sant'agata di puglia,i193,fg
+sant'agata feltria,i201,ps
+sant'agata fossili,i190,al
+sant'agata li battiati,i202,ct
+sant'agata sul santerno,i196,ra
+sant'agnello,i208,na
+sant'agostino,i209,fe
+sant'albano stura,i210,cn
+sant'alessio con vialone,i213,pv
+sant'alessio in aspromonte,i214,rc
+sant'alessio siculo,i215,me
+sant'alfio,i216,ct
+sant'ambrogio di torino,i258,to
+sant'ambrogio sul garigliano,i256,fr
+sant'anastasia,i262,na
+sant'anatolia di narco,i263,pg
+sant'andrea del garigliano,i265,fr
+sant'andrea di conza,i264,av
+sant'andrea frius,i271,ca
+sant'angelo a cupolo,i277,bn
+sant'angelo a fasanella,i278,sa
+sant'angelo a scala,i280,av
+sant'angelo all'esca,i279,av
+sant'angelo d'alife,i273,ce
+sant'angelo dei lombardi,i281,av
+sant'angelo di brolo,i283,me
+sant'angelo in lizzola,i285,ps
+sant'angelo in pontano,i286,mc
+sant'angelo in vado,i287,ps
+sant'angelo le fratte,i288,pz
+sant'angelo limosano,i289,cb
+sant'angelo lodigiano,i274,lo
+sant'angelo lomellina,i276,pv
+sant'angelo muxaro,i290,ag
+sant'angelo romano,i284,rm
+sant'anna arresi,m209,ca
+sant'anna d'alfaedo,i292,vr
+sant'antimo,i293,na
+sant'antioco,i294,ca
+sant'antonino di susa,i296,to
+sant'antonio abate,i300,na
+sant'antonio di gallura,m276,ss
+sant'apollinare,i302,fr
+sant'arcangelo,i305,pz
+sant'arcangelo trimonte,f557,av
+sant'arpino,i306,ce
+sant'arsenio,i307,sa
+sant'egidio alla vibrata,i318,te
+sant'egidio del monte albino,i317,sa
+sant'elena,i319,pd
+sant'elena sannita,b466,is
+sant'elia a pianisi,i320,cb
+sant'elia fiumerapido,i321,fr
+sant'elpidio a mare,i324,ap
+sant'eufemia a maiella,i332,pe
+sant'eufemia d'aspromonte,i333,rc
+sant'eusanio del sangro,i335,ch
+sant'eusanio forconese,i336,aq
+sant'ilario d'enza,i342,re
+sant'ilario dello ionio,i341,rc
+sant'ippolito,i344,ps
+sant'olcese,i346,ge
+sant'omero,i348,te
+sant'omobono imagna,i349,bg
+sant'onofrio,i350,vv
+sant'oreste,i352,rm
+sant'urbano,i375,pd
+santa brigida,i168,bg
+santa caterina albanese,i171,cs
+santa caterina dello ionio,i170,cz
+santa caterina villarmosa,i169,cl
+santa cesarea terme,i172,le
+santa cristina d'aspromonte,i176,rc
+santa cristina e bissone,i175,pv
+santa cristina gela,i174,pa
+santa cristina valgardena,i173,bz
+santa croce camerina,i178,rg
+santa croce del sannio,i179,bn
+santa croce di magliano,i181,cb
+santa croce sull'arno,i177,pi
+santa domenica talao,i183,cs
+santa domenica vittoria,i184,me
+santa elisabetta,i185,ag
+santa fiora,i187,gr
+santa flavia,i188,pa
+santa giuletta,i203,pv
+santa giusta,i205,or
+santa giustina,i206,bl
+santa giustina in colle,i207,pd
+santa luce,i217,pi
+santa lucia del mela,i220,me
+santa lucia di piave,i221,tv
+santa lucia di serino,i219,av
+santa margherita d'adige,i226,pd
+santa margherita di belice,i224,ag
+santa margherita di staffora,i230,pv
+santa margherita ligure,i225,ge
+santa maria a monte,i232,pi
+santa maria a vico,i233,ce
+santa maria capua vetere,i234,ce
+santa maria coghinas,m284,ss
+santa maria del cedro,c717,cs
+santa maria del molise,i238,is
+santa maria della versa,i237,pv
+santa maria di licodia,i240,ct
+santa maria di sala,i242,ve
+santa maria hoe',i243,lc
+santa maria imbaro,i244,ch
+santa maria la carita',m273,na
+santa maria la fossa,i247,ce
+santa maria la longa,i248,ud
+santa maria maggiore,i249,vb
+santa maria nuova,i251,an
+santa maria rezzonico,i252,co
+santa marina,i253,sa
+santa marina salina,i254,me
+santa marinella,i255,rm
+sant'andrea apostolo dello ionio,i266,cz
+sant'angelo del pesco,i282,is
+santa ninfa,i291,tp
+santa paolina,i301,av
+santa severina,i308,kr
+santa sofia,i310,fo
+santa sofia d'epiro,i309,cs
+santa teresa di riva,i311,me
+santa teresa gallura,i312,ss
+santa venerina,i314,ct
+santa vittoria d'alba,i316,cn
+santa vittoria in matenano,i315,ap
+santadi,i182,ca
+sante marie,i326,aq
+santena,i327,to
+santeramo in colle,i330,ba
+santhia',i337,vc
+santi cosma e damiano,i339,lt
+santo stefano al mare,i365,im
+santo stefano belbo,i367,cn
+santo stefano d'aveto,i368,ge
+santo stefano del sole,i357,av
+santo stefano di cadore,c919,bl
+santo stefano di camastra,i370,me
+santo stefano di magra,i363,sp
+santo stefano di rogliano,i359,cs
+santo stefano di sessanio,i360,aq
+santo stefano in aspromonte,i371,rc
+santo stefano lodigiano,i362,lo
+santo stefano quisquina,i356,ag
+santo stefano roero,i372,cn
+santo stefano ticino,i361,mi
+santo stino di livenza,i373,ve
+santomenna,i260,sa
+santorso,i353,vi
+santu lussurgiu,i374,or
+sanza,i410,sa
+sanzeno,i411,tn
+san zenone al lambro,i415,mi
+san zenone al po,i416,pv
+san zenone degli ezzelini,i417,tv
+saonara,i418,pd
+saponara,i420,me
+sappada,i421,bl
+sapri,i422,sa
+saracena,i423,cs
+saracinesco,i424,rm
+sarcedo,i425,vi
+sarconi,i426,pz
+sardara,i428,ca
+sardigliano,i429,al
+sarego,i430,vi
+sarentino,i431,bz
+sarezzano,i432,al
+sarezzo,i433,bs
+sarmato,i434,pc
+sarmede,i435,tv
+sarnano,i436,mc
+sarnico,i437,bg
+sarno,i438,sa
+sarnonico,i439,tn
+saronno,i441,va
+sarre,i442,ao
+sarroch,i443,ca
+sarsina,i444,fo
+sarteano,i445,si
+sartirana lomellina,i447,pv
+sarule,i448,nu
+sarzana,i449,sp
+sassano,i451,sa
+sassari,i452,ss
+sassello,i453,sv
+sassetta,i454,li
+sassinoro,i455,bn
+sasso di castalda,i457,pz
+sasso marconi,g972,bo
+sassocorvaro,i459,ps
+sassofeltrio,i460,ps
+sassoferrato,i461,an
+sassuolo,i462,mo
+satriano,i463,cz
+satriano di lucania,g614,pz
+sauris,i464,ud
+sauze d'oulx,i466,to
+sauze di cesana,i465,to
+sava,i467,ta
+savelli,i468,kr
+saviano,i469,na
+savigliano,i470,cn
+savignano irpino,i471,av
+savignano sul rubicone,i473,mo
+savignano sul panaro,i473,mo
+savigno,i474,bo
+savignone,i475,ge
+saviore dell'adamello,i476,bs
+savoca,i477,me
+savogna,i478,ud
+savogna d'isonzo,i479,go
+savoia di lucania,h730,pz
+savona,i480,sv
+scafa,i482,pe
+scafati,i483,sa
+scagnello,i484,cn
+scala,i486,sa
+scala coeli,i485,cs
+scaldasole,i487,pv
+scalea,i489,cs
+scalenghe,i490,to
+scaletta zanclea,i492,me
+scampitella,i493,av
+scandale,i494,kr
+scandeluzza,i495,at
+scandiano,i496,re
+scandicci,b962,fi
+scandolara ravara,i497,cr
+scandolara ripa d'oglio,i498,cr
+scandriglia,i499,ri
+scanno,i501,aq
+scano di montiferro,i503,or
+scansano,i504,gr
+scanzano ionico,m256,mt
+scanzorosciate,i506,bg
+scapoli,i507,is
+scarlino,i510,gr
+scarmagno,i511,to
+scarnafigi,i512,cn
+scarperia,i514,fi
+scerni,i520,ch
+scheggia e pascelupo,i522,pg
+scheggino,i523,pg
+schiavi di abruzzo,i526,ch
+schiavon,i527,vi
+schignano,i529,co
+schilpario,i530,bg
+schio,i531,vi
+schivenoglia,i532,mn
+sciacca,i533,ag
+sciara,i534,pa
+scicli,i535,rg
+scido,i536,rc
+scigliano,d290,cs
+scilla,i537,rc
+scillato,i538,pa
+sciolze,i539,to
+scisciano,i540,na
+sclafani bagni,i541,pa
+scontrone,i543,aq
+scopa,i544,vc
+scopello,i545,vc
+scoppito,i546,aq
+scordia,i548,ct
+scorrano,i549,le
+scorze',i551,ve
+scurcola marsicana,i553,aq
+scurelle,i554,tn
+scurzolengo,i555,at
+seborga,i556,im
+secinaro,i558,aq
+secugnago,i561,lo
+sedegliano,i562,ud
+sedico,i563,bl
+sedilo,i564,or
+sedini,i565,ss
+sedriano,i566,mi
+sedrina,i567,bg
+sefro,i569,mc
+segariu,i570,ca
+seggiano,i571,gr
+segni,i573,rm
+segonzano,i576,tn
+segrate,i577,mi
+segusino,i578,tv
+selargius,i580,ca
+selci,i581,ri
+selegas,i582,ca
+sellano,i585,pg
+sellero,i588,bs
+sellia,i589,cz
+sellia marina,i590,cz
+selva dei molini,i593,bz
+selva di cadore,i592,bl
+selva di progno,i594,vr
+selva di val gardena,i591,bz
+selvazzano dentro,i595,pd
+selve marcone,i596,bi
+selvino,i597,bg
+semestene,i598,ss
+semiana,i599,pv
+seminara,i600,rc
+semproniano,i601,gr
+senago,i602,mi
+seneghe,i605,or
+senerchia,i606,av
+seniga,i607,bs
+senigallia,i608,an
+senis,i609,or
+senise,i610,pz
+senna comasco,i611,co
+senna lodigiana,i612,lo
+sennariolo,i613,or
+sennori,i614,ss
+senorbi',i615,ca
+sepino,i618,cb
+seppiana,i619,vb
+sequals,i621,pn
+seravezza,i622,lu
+serdiana,i624,ca
+seregno,i625,mi
+seren del grappa,i626,bl
+sergnano,i627,cr
+seriate,i628,bg
+serina,i629,bg
+serino,i630,av
+serle,i631,bs
+sermide,i632,mn
+sermoneta,i634,lt
+sernaglia della battaglia,i635,tv
+sernio,i636,so
+serole,i637,at
+serra d'aiello,i642,cs
+serra de' conti,i643,an
+serra pedace,i650,cs
+serra ricco',i640,ge
+serra san bruno,i639,vv
+serra san quirico,i653,an
+serra sant'abbondio,i654,ps
+serracapriola,i641,fg
+serradifalco,i644,cl
+serralunga d'alba,i646,cn
+serralunga di crea,i645,al
+serramanna,i647,ca
+serramazzoni,f357,mo
+serramezzana,i648,sa
+serramonacesca,i649,pe
+serrapetrona,i651,mc
+serrara fontana,i652,na
+serrastretta,i655,cz
+serrata,i656,rc
+serravalle a po,i662,mn
+serravalle di chienti,i661,mc
+serravalle pistoiese,i660,pt
+serravalle scrivia,i657,al
+serravalle sesia,i663,vc
+serre,i666,sa
+serrenti,i667,ca
+serri,i668,nu
+serrone,i669,fr
+serrungarina,i670,ps
+sersale,i671,cz
+servigliano,c070,ap
+sessa aurunca,i676,ce
+sessa cilento,i677,sa
+sessame,i678,at
+sessano del molise,i679,is
+sesta godano,e070,sp
+sestino,i681,ar
+sesto al reghena,i686,pn
+sesto calende,i688,va
+sesto campano,i682,is
+sesto ed uniti,i683,cr
+sesto fiorentino,i684,fi
+sesto san giovanni,i690,mi
+sestola,i689,mo
+sestri levante,i693,ge
+sestriere,i692,to
+sestu,i695,ca
+settala,i696,mi
+settefrati,i697,fr
+settime,i698,at
+settimo milanese,i700,mi
+settimo rottaro,i701,to
+settimo san pietro,i699,ca
+settimo torinese,i703,to
+settimo vittone,i702,to
+settingiano,i704,cz
+setzu,i705,ca
+seui,i706,nu
+seulo,i707,nu
+seveso,i709,mi
+sezzadio,i711,al
+sezze,i712,lt
+sfruz,i714,tn
+sgonico,i715,ts
+sgurgola,i716,fr
+siamaggiore,i717,or
+siamanna,i718,or
+siano,i720,sa
+siapiccia,i721,or
+sicignano degli alburni,m253,sa
+siculiana,i723,ag
+siddi,i724,ca
+siderno,i725,rc
+siena,i726,si
+sigillo,i727,pg
+signa,i728,fi
+silandro,i729,bz
+silanus,i730,nu
+silea,f116,tv
+siligo,i732,ss
+siliqua,i734,ca
+silius,i735,ca
+sillano,i737,lu
+sillavengo,i736,no
+silvano d'orba,i738,al
+silvano pietra,i739,pv
+silvi,i741,te
+simala,i742,or
+simaxis,i743,or
+simbario,i744,vv
+sinagra,i747,me
+sinalunga,a468,si
+sindia,i748,nu
+sini,i749,or
+sinio,i750,cn
+siniscola,i751,nu
+sinnai,i752,ca
+sinopoli,i753,rc
+siracusa,i754,sr
+sirignano,i756,av
+siris,i757,or
+sirmione,i633,bs
+sirolo,i758,an
+sirone,i759,lc
+siror,i760,tn
+sirtori,i761,lc
+sissa,i763,pr
+siurgus donigala,i765,ca
+siziano,e265,pv
+sizzano,i767,no
+sluderno,i771,bz
+smarano,i772,tn
+smerillo,i774,ap
+soave,i775,vr
+socchieve,i777,ud
+sogliano al rubicone,i779,fo
+sogliano cavour,i780,le
+soglio,i781,at
+soiano del lago,i782,bs
+solagna,i783,vi
+solarino,i785,sr
+solaro,i786,mi
+solarolo,i787,ra
+solarolo rainerio,i790,cr
+solarussa,i791,or
+solbiate,i792,co
+solbiate arno,i793,va
+solbiate olona,i794,va
+soldano,i796,im
+soleminis,i797,ca
+solero,i798,al
+solesino,i799,pd
+soleto,i800,le
+solferino,i801,mn
+soliera,i802,mo
+solignano,i803,pr
+solofra,i805,av
+solonghello,i808,al
+solopaca,i809,bn
+solto collina,i812,bg
+solza,i813,bg
+somaglia,i815,lo
+somano,i817,cn
+somma lombardo,i819,va
+somma vesuviana,i820,na
+sommacampagna,i821,vr
+sommariva del bosco,i822,cn
+sommariva perno,i823,cn
+sommatino,i824,cl
+sommo,i825,pv
+sona,i826,vr
+soncino,i827,cr
+sondalo,i828,so
+sondrio,i829,so
+songavazzo,i830,bg
+sonico,i831,bs
+sonnino,i832,lt
+soprana,i835,bi
+sora,i838,fr
+soraga,i839,tn
+soragna,i840,pr
+sorano,i841,gr
+sorbo san basile,i844,cz
+sorbo serpico,i843,av
+sorbolo,i845,pr
+sordevolo,i847,bi
+sordio,i848,lo
+soresina,i849,cr
+sorga',i850,vr
+sorgono,i851,nu
+sori,i852,ge
+sorianello,i853,vv
+soriano calabro,i854,vv
+soriano nel cimino,i855,vt
+sorico,i856,co
+soriso,i857,no
+sorisole,i858,bg
+sormano,i860,co
+sorradile,i861,or
+sorrento,i862,na
+sorso,i863,ss
+sortino,i864,sr
+sospiro,i865,cr
+sospirolo,i866,bl
+sossano,i867,vi
+sostegno,i868,bi
+sover,i871,tn
+soverato,i872,cz
+sovere,i873,bg
+soveria mannelli,i874,cz
+soveria simeri,i875,cz
+soverzene,i876,bl
+sovicille,i877,si
+sovico,i878,mi
+sovizzo,i879,vi
+sovramonte,i673,bl
+sozzago,i880,no
+spadafora,i881,me
+spadola,i884,vv
+sparanise,i885,ce
+sparone,i886,to
+specchia,i887,le
+spello,i888,pg
+spera,i889,tn
+sperlinga,i891,en
+sperlonga,i892,lt
+sperone,i893,av
+spessa,i894,pv
+spezzano albanese,i895,cs
+spezzano della sila,i896,cs
+spezzano piccolo,i898,cs
+spiazzo,i899,tn
+spigno monferrato,i901,al
+spigno saturnia,i902,lt
+spilamberto,i903,mo
+spilimbergo,i904,pn
+spilinga,i905,vv
+spinadesco,i906,cr
+spinazzola,i907,ba
+spinea,i908,ve
+spineda,i909,cr
+spinete,i910,cb
+spineto scrivia,i911,al
+spinetoli,i912,ap
+spino d'adda,i914,cr
+spinone al lago,i916,bg
+spinoso,i917,pz
+spirano,i919,bg
+spoleto,i921,pg
+spoltore,i922,pe
+spongano,i923,le
+spormaggiore,i924,tn
+sporminore,i925,tn
+spotorno,i926,sv
+spresiano,i927,tv
+spriana,i928,so
+squillace,i929,cz
+squinzano,i930,le
+staffolo,i932,an
+stagno lombardo,i935,cr
+staiti,i936,rc
+staletti,i937,cz
+stanghella,i938,pd
+staranzano,i939,go
+stazzano,i941,al
+stazzema,i942,lu
+stazzona,i943,co
+stefanaconi,i945,vv
+stella,i946,sv
+stella cilento,g887,sa
+stellanello,i947,sv
+stenico,i949,tn
+sternatia,i950,le
+stezzano,i951,bg
+stia,i952,ar
+stienta,i953,ro
+stigliano,i954,mt
+stignano,i955,rc
+stilo,i956,rc
+stimigliano,i959,ri
+stio,i960,sa
+stornara,i962,fg
+stornarella,i963,fg
+storo,i964,tn
+stra',i965,ve
+stradella,i968,pv
+strambinello,i969,to
+strambino,i970,to
+strangolagalli,i973,fr
+stregna,i974,ud
+strembo,i975,tn
+stresa,i976,vb
+strevi,i977,al
+striano,i978,na
+strigno,i979,tn
+strona,i980,bi
+stroncone,i981,tr
+strongoli,i982,kr
+stroppiana,i984,vc
+stroppo,i985,cn
+strozza,i986,bg
+sturno,i990,av
+suardi,b014,pv
+subbiano,i991,ar
+subiaco,i992,rm
+succivo,i993,ce
+sueglio,i994,lc
+suelli,i995,ca
+suello,i996,lc
+suisio,i997,bg
+sulbiate,i998,mi
+sulmona,i804,aq
+sulzano,l002,bs
+sumirago,l003,va
+summonte,l004,av
+suni,l006,nu
+suno,l007,no
+supersano,l008,le
+supino,l009,fr
+surano,l010,le
+surbo,l011,le
+susa,l013,to
+susegana,l014,tv
+sustinente,l015,mn
+sutera,l016,cl
+sutri,l017,vt
+sutrio,l018,ud
+suvereto,l019,li
+suzzara,l020,mn
+taceno,l022,lc
+tadasuni,l023,or
+taggia,l024,im
+tagliacozzo,l025,aq
+taglio di po,l026,ro
+tagliolo monferrato,l027,al
+taibon agordino,l030,bl
+taino,l032,va
+taio,l033,tn
+taipana,g736,ud
+talamello,l034,ps
+talamona,l035,so
+talana,l036,nu
+taleggio,l037,bg
+talla,l038,ar
+talmassons,l039,ud
+tambre,l040,bl
+taormina,l042,me
+tapogliano,l044,ud
+tarano,l046,ri
+taranta peligna,l047,ch
+tarantasca,l048,cn
+taranto,l049,ta
+tarcento,l050,ud
+tarquinia,d024,vt
+tarsia,l055,cs
+tartano,l056,so
+tarvisio,l057,ud
+tarzo,l058,tv
+tassarolo,l059,al
+tassullo,l060,tn
+taurano,l061,av
+taurasi,l062,av
+taurianova,l063,rc
+taurisano,l064,le
+tavagnacco,l065,ud
+tavagnasco,l066,to
+tavarnelle val di pesa,l067,fi
+tavazzano con villavesco,f260,lo
+tavenna,l069,cb
+taverna,l070,cz
+tavernerio,l071,co
+tavernola bergamasca,l073,bg
+tavernole sul mella,c698,bs
+taviano,l074,le
+tavigliano,l075,bi
+tavoleto,l078,ps
+tavullia,l081,ps
+teana,l082,pz
+teano,l083,ce
+teggiano,d292,sa
+teglio,l084,so
+teglio veneto,l085,ve
+telese,l086,bn
+telgate,l087,bg
+telti,l088,ss
+telve di sopra,l090,tn
+tempio pausania,l093,ss
+temu',l094,bs
+tenna,l096,tn
+tenno,l097,tn
+teolo,l100,pd
+teor,l101,ud
+teora,l102,av
+teramo,l103,te
+terdobbiate,l104,no
+terelle,l105,fr
+terenzo,e548,pr
+tergu,m282,ss
+terlago,l107,tn
+terlizzi,l109,ba
+terme vigliatore,m210,me
+termeno sulla strada del vino,l111,bz
+termini imerese,l112,pa
+termoli,l113,cb
+ternate,l115,va
+ternengo,l116,bi
+terni,l117,tr
+terno d'isola,l118,bg
+terracina,l120,lt
+terragnolo,l121,tn
+terralba,l122,or
+terranova da sibari,l124,cs
+terranova di pollino,l126,pz
+terranova sappo minulio,l127,rc
+terranuova bracciolini,l123,ar
+terrasini,l131,pa
+terrassa padovana,l132,pd
+terravecchia,l134,cs
+terrazzo,l136,vr
+terres,l137,tn
+terricciola,l138,pi
+terruggia,l139,al
+tertenia,l140,nu
+terzigno,l142,na
+terzo,l143,al
+terzolas,l145,tn
+terzorio,l146,im
+tesero,l147,tn
+tessennano,l150,vt
+testico,l152,sv
+teti,l153,nu
+teulada,l154,ca
+teverola,l155,ce
+tezze sul brenta,l156,vi
+thiene,l157,vi
+thiesi,l158,ss
+tiana,l160,nu
+tiarno di sopra,l162,tn
+tiarno di sotto,l163,tn
+ticengo,l164,cr
+ticineto,l165,al
+tiggiano,l166,le
+tiglieto,l167,ge
+tigliole,l168,at
+tignale,l169,bs
+tinnura,l172,nu
+tione degli abruzzi,l173,aq
+tione di trento,l174,tn
+tirano,l175,so
+tiriolo,l177,cz
+tirolo,l178,bz
+tissi,l180,ss
+tito,l181,pz
+tivoli,l182,rm
+tizzano val parma,l183,pr
+toano,l184,re
+tocco caudio,l185,bn
+tocco da casauria,l186,pe
+toceno,l187,vb
+todi,l188,pg
+toffia,l189,ri
+toirano,l190,sv
+tolentino,l191,mc
+tolfa,l192,rm
+tollegno,l193,bi
+tollo,l194,ch
+tolmezzo,l195,ud
+tolve,l197,pz
+tombolo,l199,pd
+ton,l200,tn
+tonadico,l201,tn
+tonara,l202,nu
+tonco,l203,at
+tonengo,l204,at
+tonezza del cimone,d717,vi
+tora e piccilli,l205,ce
+torano castello,l206,cs
+torano nuovo,l207,te
+torbole casaglia,l210,bs
+torcegno,l211,tn
+torchiara,l212,sa
+torchiarolo,l213,br
+torella de' lombardi,l214,av
+torella del sannio,l215,cb
+torgiano,l216,pg
+torgnon,l217,ao
+torino,l219,to
+torino di sangro,l218,ch
+toritto,l220,ba
+torlino vimercati,l221,cr
+tornaco,l223,no
+tornareccio,l224,ch
+tornata,l225,cr
+tornimparte,l227,aq
+torno,l228,co
+tornolo,l229,pr
+toro,l230,cb
+torpe',l231,nu
+torraca,l233,sa
+torralba,l235,ss
+torrazza coste,l237,pv
+torrazza piemonte,l238,to
+torrazzo,l239,bi
+torre annunziata,l245,na
+torre beretti e castellaro,l250,pv
+torre boldone,l251,bg
+torre bormida,l252,cn
+torre canavese,l247,to
+torre d'arese,l256,pv
+torre d'isola,l269,pv
+torre de' busi,l257,lc
+torre de' passeri,l263,pe
+torre de' picenardi,l258,cr
+torre de' roveri,l265,bg
+torre del greco,l259,na
+torre di mosto,l267,ve
+torre di ruggiero,l240,cz
+torre di santa maria,l244,so
+torre le nocelle,l272,av
+torre mondovi',l241,cn
+torre orsaia,l274,sa
+torre pallavicina,l276,bg
+torre pellice,l277,to
+torre san giorgio,l278,cn
+torre san patrizio,l279,ap
+torre santa susanna,l280,br
+torreano,l246,ud
+torrebelvicino,l248,vi
+torrebruna,l253,ch
+torrecuso,l254,bn
+torreglia,l270,pd
+torregrotta,l271,me
+torremaggiore,l273,fg
+torrenova,m287,ct
+torresina,l281,cn
+torretta,l282,pa
+torrevecchia pia,l285,pv
+torrevecchia teatina,l284,ch
+torri del benaco,l287,vr
+torri di quartesolo,l297,vi
+torri in sabina,l286,ri
+torriana,i550,rn
+torrice,l290,fr
+torricella,l294,ta
+torricella del pizzo,l296,cr
+torricella in sabina,l293,ri
+torricella peligna,l291,ch
+torricella sicura,l295,te
+torricella verzate,l292,pv
+torriglia,l298,ge
+torrile,l299,pr
+torrioni,l301,av
+torrita di siena,l303,si
+torrita tiberina,l302,rm
+tortoli',a355,nu
+tortona,l304,al
+tortora,l305,cs
+tortorella,l306,sa
+tortoreto,l307,te
+tortorici,l308,me
+torviscosa,l309,ud
+tossicia,l314,te
+tovo di sant'agata,l316,so
+tovo san giacomo,l315,sv
+trabia,l317,pa
+tradate,l319,va
+tramatza,l321,or
+trambileno,l322,tn
+tramonti,l323,sa
+tramonti di sopra,l324,pn
+tramonti di sotto,l325,pn
+tramutola,l326,pz
+trana,l327,to
+trani,l328,ba
+transacqua,l329,tn
+traona,l330,so
+trapani,l331,tp
+trappeto,l332,pa
+trasacco,l334,aq
+trasaghis,l335,ud
+trasquera,l336,vb
+tratalias,l337,ca
+trausella,l338,to
+travagliato,l339,bs
+travedona-monate,l342,va
+traversella,l345,to
+traversetolo,l346,pr
+traves,l340,to
+travesio,l347,pn
+travo,l348,pc
+trebaseleghe,l349,pd
+trebisacce,l353,cs
+trecasali,l354,pr
+trecase,m280,na
+trecastagni,l355,ct
+trecate,l356,no
+trecchina,l357,pz
+trecenta,l359,ro
+tredozio,l361,fo
+treglio,l363,ch
+tregnago,l364,vr
+treia,l366,mc
+treiso,l367,cn
+tremenico,l368,lc
+tremestieri etneo,l369,ct
+tremezzo,l371,co
+tremosine,l372,bs
+trenta,l375,cs
+trentinara,l377,sa
+trento,l378,tn
+trentola ducenta,l379,ce
+trenzano,l380,bs
+treppo carnico,l381,ud
+treppo grande,l382,ud
+trepuzzi,l383,le
+trequanda,l384,si
+tres,l385,tn
+tresana,l386,ms
+trescore balneario,l388,bg
+trescore cremasco,l389,cr
+tresigallo,l390,fe
+tresivio,l392,so
+tresnuraghes,l393,or
+trevenzuolo,l396,vr
+trevi,l397,pg
+trevi nel lazio,l398,fr
+trevico,l399,av
+treviglio,l400,bg
+trevignano,l402,tv
+trevignano romano,l401,rm
+treville,l403,al
+treviolo,l404,bg
+treviso,l407,tv
+treviso bresciano,l406,bs
+trezzano rosa,l408,mi
+trezzano sul naviglio,l409,mi
+trezzo sull'adda,l411,mi
+trezzo tinella,l410,cn
+trezzone,l413,co
+tribano,l414,pd
+tribiano,l415,mi
+tribogna,l416,ge
+tricarico,l418,mt
+tricase,l419,le
+tricerro,l420,vc
+tricesimo,l421,ud
+trichiana,l422,bl
+triei,l423,nu
+trieste,l424,ts
+triggiano,l425,ba
+trigolo,l426,cr
+trinita',l427,cn
+trinita' d'agultu e vignola,l428,ss
+trinitapoli,b915,fg
+trino,l429,vc
+triora,l430,im
+tripi,l431,me
+trisobbio,l432,al
+trissino,l433,vi
+triuggio,l434,mi
+trivento,l435,cb
+trivero,l436,bi
+trivigliano,l437,fr
+trivignano udinese,l438,ud
+trivigno,l439,pz
+trivolzio,l440,pv
+trofarello,l445,to
+troia,l447,fg
+troina,l448,en
+tromello,l449,pv
+trontano,l450,vb
+tronzano lago maggiore,a705,va
+tronzano vercellese,l451,vc
+tropea,l452,vv
+trovo,l453,pv
+truccazzano,l454,mi
+tuenno,l457,tn
+tufara,l458,cb
+tufillo,l459,ch
+tufino,l460,na
+tufo,l461,av
+tuglie,l462,le
+tuili,l463,ca
+tula,l464,ss
+tuoro sul trasimeno,l466,pg
+turania,g507,ri
+turano lodigiano,l469,lo
+turate,l470,co
+turbigo,l471,mi
+turi,l472,ba
+turri,l473,ca
+turriaco,l474,go
+turrivalignani,l475,pe
+tursi,l477,mt
+tusa,l478,me
+tuscania,l310,vt
+ubiale clanezzo,c789,bg
+uboldo,l480,va
+ucria,l482,me
+udine,l483,ud
+ugento,l484,le
+uggiano la chiesa,l485,le
+uggiate trevano,l487,co
+ula' tirso,l488,or
+ulassai,l489,nu
+umbertide,d786,pg
+umbriatico,l492,kr
+urago d'oglio,l494,bs
+uras,l496,or
+urbana,l497,pd
+urbania,l498,ps
+urbe,l499,sv
+urbino,l500,ps
+urbisaglia,l501,mc
+urgnano,l502,bg
+uri,l503,ss
+ururi,l505,cb
+urzulei,l506,nu
+uscio,l507,ge
+usellus,l508,or
+usini,l509,ss
+usmate velate,l511,mi
+ussana,l512,ca
+ussaramanna,l513,ca
+ussassai,l514,nu
+usseaux,l515,to
+usseglio,l516,to
+ussita,l517,mc
+ustica,l519,pa
+uta,l521,ca
+uzzano,l522,pt
+vaccarizzo albanese,l524,cs
+vacone,l525,ri
+vacri,l526,ch
+vadena,l527,bz
+vado ligure,l528,sv
+vagli sotto,l533,lu
+vaglia,l529,fi
+vaglio basilicata,l532,pz
+vaglio serra,l531,at
+vaiano,l537,po
+vaiano cremasco,l535,cr
+vaie,l538,to
+vailate,l539,cr
+vairano patenora,l540,ce
+vajont,m265,pn
+val della torre,l555,to
+val di nizza,l562,pv
+val di vizze,l564,bz
+val masino,l638,so
+val rezzo,h259,co
+valbondione,l544,bg
+valbrembo,l545,bg
+valbrevenna,l546,ge
+valbrona,l547,co
+valda,l550,tn
+valdagno,l551,vi
+valdastico,l554,vi
+valdengo,l556,bi
+valderice,g319,tp
+valdidentro,l557,so
+valdieri,l558,cn
+valdina,l561,me
+valdisotto,l563,so
+valdobbiadene,l565,tv
+valduggia,l566,vc
+valeggio sul mincio,l567,vr
+valentano,l569,vt
+valenza,l570,al
+valenzano,l571,ba
+valera fratta,l572,lo
+valfabbrica,l573,pg
+valfenera,l574,at
+valfloriana,l575,tn
+valfurva,l576,so
+valganna,l577,va
+valgioie,l578,to
+valgoglio,l579,bg
+valgrana,l580,cn
+valgreghentino,l581,lc
+valgrisenche,l582,ao
+valguarnera caropepe,l583,en
+vallada agordina,l584,bl
+vallanzengo,l586,bi
+vallarsa,l588,tn
+vallata,l589,av
+valle agricola,l594,ce
+valle castellana,l597,te
+valle dell'angelo,g540,sa
+valle di cadore,l590,bl
+valle di casies,l601,bz
+valle di maddaloni,l591,ce
+valle lomellina,l593,pv
+valle mosso,l606,bi
+valle salimbene,l617,pv
+valle san nicolao,l620,bi
+vallebona,l596,im
+vallecorsa,l598,fr
+vallecrosia,l599,im
+valledolmo,l603,pa
+valledoria,l604,ss
+vallefiorita,i322,cz
+vallelonga,l607,vv
+vallelunga pratameno,l609,cl
+vallemaio,l605,fr
+vallepietra,l611,rm
+vallerano,l612,vt
+vallermosa,l613,ca
+vallerotonda,l614,fr
+vallesaccarda,l616,av
+valleve,l623,bg
+valli del pasubio,l624,vi
+vallinfreda,l625,rm
+vallio terme,l626,bs
+vallo della lucania,l628,sa
+vallo di nera,l627,pg
+vallo torinese,l629,to
+valloriate,l631,cn
+valmacca,l633,al
+valmadrera,l634,lc
+valmala,l636,cn
+valmontone,l639,rm
+valmorea,l640,co
+valmozzola,l641,pr
+valnegra,l642,bg
+valpelline,l643,ao
+valperga,l644,to
+valprato soana,b510,to
+valsavarenche,l647,ao
+valsecca,l649,bg
+valsinni,d513,mt
+valsolda,c936,co
+valstagna,l650,vi
+valstrona,l651,vb
+valtopina,l653,pg
+valtorta,l655,bg
+valtournenche,l654,ao
+valva,l656,sa
+valvasone,l657,pn
+valverde,l658,ct
+valvestino,l468,bs
+vandoies,l660,bz
+vanzaghello,l664,mi
+vanzago,l665,mi
+vanzone con san carlo,l666,vb
+vaprio d'adda,l667,mi
+vaprio d'agogna,l668,no
+varallo,l669,vc
+varallo pombia,l670,no
+varano borghi,l671,va
+varano de' melegari,l672,pr
+varapodio,l673,rc
+varazze,l675,sv
+varco sabino,l676,ri
+varedo,l677,mi
+varena,l678,tn
+varenna,l680,lc
+varese,l682,va
+varese ligure,l681,sp
+varisella,l685,to
+varmo,l686,ud
+varna,l687,bz
+varsi,l689,pr
+varzi,l690,pv
+varzo,l691,vb
+vas,l692,bl
+vasanello,a701,vt
+vasia,l693,im
+vasto,e372,ch
+vastogirardi,l696,is
+vattaro,l697,tn
+vauda canavese,l698,to
+vazzano,l699,vv
+vazzola,l700,tv
+vecchiano,l702,pi
+vedano al lambro,l704,mi
+vedano olona,l703,va
+veddasca,l705,va
+vedelago,l706,tv
+vedeseta,l707,bg
+veduggio con colzano,l709,mi
+veggiano,l710,pd
+veglie,l711,le
+veglio,l712,bi
+veiano,l713,vt
+veleso,l715,co
+velezzo lomellina,l716,pv
+velletri,l719,rm
+vellezzo bellini,l720,pv
+velo d'astico,l723,vi
+velo veronese,l722,vr
+velturno,l724,bz
+venafro,l725,is
+venaria,l727,to
+venarotta,l728,ap
+venasca,l729,cn
+venaus,l726,to
+vendone,l730,sv
+vendrogno,l731,lc
+venegono inferiore,l733,va
+venegono superiore,l734,va
+venetico,l735,me
+venezia,l736,ve
+veniano,l737,co
+venosa,l738,pz
+venticano,l739,av
+ventimiglia,l741,im
+ventimiglia di sicilia,l740,pa
+ventotene,l742,lt
+venzone,l743,ud
+verano brianza,l744,mi
+verbania,l746,vb
+verbicaro,l747,cs
+vercana,l748,co
+verceia,l749,so
+vercelli,l750,vc
+vercurago,l751,lc
+verdellino,l752,bg
+verdello,l753,bg
+verderio inferiore,l755,lc
+verderio superiore,l756,lc
+verduno,l758,cn
+vergato,l762,bo
+vergemoli,l763,lu
+verghereto,l764,fo
+vergiate,l765,va
+vermezzo,l768,mi
+vermiglio,l769,tn
+vernante,l771,cn
+vernasca,l772,pc
+vernate,l773,mi
+vernazza,l774,sp
+vernio,l775,po
+vernole,l776,le
+verolanuova,l777,bs
+verolavecchia,l778,bs
+verolengo,l779,to
+veroli,l780,fr
+verona,l781,vr
+veronella,d193,vr
+verrayes,l783,ao
+verres,c282,ao
+verretto,l784,pv
+verrone,l785,bi
+verrua po,l788,pv
+verrua savoia,l787,to
+vertemate con minoprio,l792,co
+vertova,l795,bg
+verucchio,l797,rn
+veruno,l798,no
+vervio,l799,so
+vervo',l800,tn
+verzegnis,l801,ud
+verzino,l802,kr
+verzuolo,l804,cn
+vescovana,l805,pd
+vescovato,l806,cr
+vesime,l807,at
+vespolate,l808,no
+vessalico,l809,im
+vestenanova,l810,vr
+vestigne',l811,to
+vestone,l812,bs
+vestreno,l813,lc
+vetralla,l814,vt
+vetto,l815,re
+vezza d'alba,l817,cn
+vezza d'oglio,l816,bs
+vezzano,l821,tn
+vezzano ligure,l819,sp
+vezzano sul crostolo,l820,re
+vezzi portio,l823,sv
+viadana,l826,mn
+viadanica,l827,bg
+viagrande,l828,ct
+viale d'asti,l829,at
+vialfre',l830,to
+viano,l831,re
+viareggio,l833,lu
+viarigi,l834,at
+vibo valentia,f537,vv
+vibonati,l835,sa
+vicalvi,l836,fr
+vicari,l837,pa
+vicchio,l838,fi
+vicenza,l840,vi
+vico canavese,l548,to
+vico del gargano,l842,fg
+vico equense,l845,na
+vico nel lazio,l843,fr
+vicoforte,l841,cn
+vicoli,l846,pe
+vicolungo,l847,no
+vicopisano,l850,pi
+vicovaro,l851,rm
+viddalba,m259,ss
+vidigulfo,l854,pv
+vidor,l856,tv
+vidracco,l857,to
+vieste,l858,fg
+vietri di potenza,l859,pz
+vietri sul mare,l860,sa
+viganella,l864,vb
+vigano',l866,lc
+vigarano mainarda,l868,fe
+vigasio,l869,vr
+vigevano,l872,pv
+viggianello,l873,pz
+viggiano,l874,pz
+viggiu',l876,va
+vighizzolo d'este,l878,pd
+vigliano biellese,l880,bi
+vigliano d'asti,l879,at
+vignale monferrato,l881,al
+vignanello,l882,vt
+vignate,l883,mi
+vignola falesina,l884,mo
+vignola,l885,mo
+vignole borbera,l887,al
+vignolo,l888,cn
+vignone,l889,vb
+vigo di cadore,l890,bl
+vigo di fassa,l893,tn
+vigo rendena,l903,tn
+vigodarzere,l892,pd
+vigolo,l894,bg
+vigolo vattaro,l896,tn
+vigolzone,l897,pc
+vigone,l898,to
+vigonovo,l899,ve
+vigonza,l900,pd
+viguzzolo,l904,al
+villa agnedo,l910,tn
+villa bartolomea,l912,vr
+villa basilica,l913,lu
+villa biscossi,l917,pv
+villa carcina,l919,bs
+villa castelli,l920,br
+villa celiera,l922,pe
+villa collemandina,l926,lu
+villa cortese,l928,mi
+villa d'adda,l929,bg
+villa d'ogna,l938,bg
+villa del bosco,l933,bi
+villa del conte,l934,pd
+villa di briano,d801,ce
+villa di chiavenna,l907,so
+villa di serio,l936,bg
+villa di tirano,l908,so
+villa estense,l937,pd
+villa faraldi,l943,im
+villa guardia,l955,co
+villa lagarina,l957,tn
+villa latina,a081,fr
+villa literno,l844,ce
+villa minozzo,l969,re
+villa poma,f804,mn
+villa rendena,m006,tn
+villa san giovanni,m018,rc
+villa san giovanni in tuscia,h913,vt
+villa san pietro,i118,ca
+villa san secondo,m019,at
+villa sant'angelo,m023,aq
+villa santa lucia,l905,fr
+villa santa lucia degli abruzz,m021,aq
+villa santa maria,m022,ch
+villa santina,l909,ud
+villa santo stefano,i364,fr
+villa verde,a609,or
+villa vicentina,m034,ud
+villabassa,l914,ts
+villabate,l916,pa
+villachiara,l923,bs
+villacidro,l924,ca
+villadeati,l931,al
+villadose,l939,ro
+villadossola,l906,vb
+villafalletto,l942,cn
+villafranca d'asti,l945,at
+villafranca di verona,l949,vr
+villafranca in lunigiana,l946,ms
+villafranca padovana,l947,pd
+villafranca piemonte,l948,to
+villafranca sicula,l944,ag
+villafranca tirrena,l950,me
+villafrati,l951,pa
+villaga,l952,vi
+villagrande strisaili,l953,nu
+villalago,l958,aq
+villalba,l959,cl
+villalfonsina,l961,ch
+villalvernia,l963,al
+villamagna,l964,ch
+villamaina,l965,av
+villamar,l966,ca
+villamarzana,l967,ro
+villamassargia,l968,ca
+villamiroglio,l970,al
+villanova biellese,l978,bi
+villanova canavese,l982,to
+villanova d'albenga,l975,sv
+villanova d'ardenghi,l983,pv
+villanova d'asti,l984,at
+villanova del battista,l973,av
+villanova del ghebbo,l985,ro
+villanova del sillaro,l977,lo
+villanova marchesana,l988,ro
+villanova mondovi',l974,cn
+villanova monferrato,l972,al
+villanova monteleone,l989,ss
+villanova solaro,l990,cn
+villanova sull'arda,l980,pc
+villanova truschedu,l991,or
+villanovaforru,l986,ca
+villanovafranca,l987,ca
+villanterio,l994,pv
+villanuova sul clisi,l995,bs
+villaperuccio,m278,ca
+villapiana,b903,cs
+villaputzu,l998,ca
+villar dora,l999,to
+villar focchiardo,m007,to
+villar pellice,m013,to
+villar perosa,m014,to
+villar san costanzo,m015,cn
+villarbasse,m002,to
+villarboit,m003,vc
+villareggia,m004,to
+villaricca,g309,na
+villaromagnano,m009,al
+villarosa,m011,en
+villasalto,m016,ca
+villasanta,m017,mi
+villasimius,b738,ca
+villasor,m025,ca
+villaspeciosa,m026,ca
+villastellone,m027,to
+villata,m028,vc
+villaverla,m032,vi
+villeneuve,l981,ao
+villesse,m043,go
+villetta barrea,m041,aq
+villette,m042,vb
+villimpenta,m044,mn
+villongo,m045,bg
+villorba,m048,tv
+vilminore di scalve,m050,bg
+vimercate,m052,mi
+vimodrone,m053,mi
+vinadio,m055,cn
+vinchiaturo,m057,cb
+vinchio,m058,at
+vinci,m059,fi
+vinovo,m060,to
+vinzaglio,m062,no
+viola,m063,cn
+vione,m065,bs
+vipiteno,m067,bz
+virgilio,h123,mn
+virle piemonte,m069,to
+visano,m070,bs
+vische,m071,to
+visciano,m072,na
+visco,m073,ud
+visone,m077,al
+visso,m078,mc
+vistarino,m079,pv
+vistrorio,m080,to
+vita,m081,tp
+viterbo,m082,vt
+viticuso,m083,fr
+vito d'asio,m085,pn
+vitorchiano,m086,vt
+vittoria,m088,rg
+vittorio veneto,m089,tv
+vittorito,m090,aq
+vittuone,m091,mi
+vitulano,m093,bn
+vitulazio,m092,ce
+viu',m094,to
+vivaro,m096,pn
+vivaro romano,m095,rm
+viverone,m098,bi
+vizzini,m100,ct
+vizzola ticino,m101,va
+vizzolo predabissi,m102,mi
+vobarno,m104,bs
+vobbia,m105,ge
+vocca,m106,vc
+vodo di cadore,m108,bl
+voghera,m109,pv
+voghiera,m110,fe
+vogogna,m111,vb
+volano,m113,tn
+volla,m115,na
+volongo,m116,cr
+volpago del montello,m118,tv
+volpara,m119,pv
+volpedo,m120,al
+volpeglino,m121,al
+volpiano,m122,to
+volta mantovana,m125,mn
+voltaggio,m123,al
+voltago agordino,m124,bl
+volterra,m126,pi
+voltido,m127,cr
+volturara appula,m131,fg
+volturara irpina,m130,av
+volturino,m132,fg
+volvera,m133,to
+vottignasco,m136,cn
+zaccanopoli,m138,vv
+zafferana etnea,m139,ct
+zagarise,m140,cz
+zagarolo,m141,rm
+zambana,m142,tn
+zambrone,m143,vv
+zandobbio,m144,bg
+zane',m145,vi
+zanica,m147,bg
+zapponeta,m267,fg
+zavattarello,m150,pv
+zeccone,m152,pv
+zeddiani,m153,or
+zelbio,m156,co
+zelo buon persico,m158,lo
+zelo surrigone,m160,mi
+zeme,m161,pv
+zenevredo,m162,pv
+zenson di piave,m163,tv
+zerba,m165,pc
+zerbo,m166,pv
+zerbolo',m167,pv
+zerfaliu,m168,or
+zeri,m169,ms
+zermeghedo,m170,vi
+zero branco,m171,tv
+zevio,m172,vr
+ziano di fiemme,m173,tn
+ziano piacentino,l848,pc
+zibello,m174,pr
+zibido san giacomo,m176,mi
+zignago,m177,sp
+zimella,m178,vr
+zimone,m179,bi
+zinasco,m180,pv
+zoagli,m182,ge
+zocca,m183,mo
+zogno,m184,bg
+zola predosa,m185,bo
+zoldo alto,i345,bl
+zollino,m187,le
+zone,m188,bs
+zoppe' di cadore,m189,bl
+zoppola,m190,pn
+zovencedo,m194,vi
+zubiena,m196,bi
+zuccarello,m197,sv
+zuclo,m198,tn
+zugliano,m199,vi
+zuglio,m200,ud
+zumaglia,m201,bi
+zumpano,m202,cs
+zungoli,m203,av
+zungri,m204,vv
+afghanistan,z200,ee
+albania,z100,ee
+algeria,z301,ee
+altovolta,z354,ee
+andorra,z101,ee
+angola,z302,ee
+antille britanniche,z523,ee
+antille britanniche,z501,ee
+arabia meridionale,z201,ee
+arabia saudita,z203,ee
+argentina,z600,ee
+armenia,z137,ee
+australia,z700,ee
+austria,z102,ee
+azerbaidjan,z141,ee
+bahama,z502,ee
+bahrein,z204,ee
+bangladesh,z249,ee
+barbados,z522,ee
+basutoland sud africa britannico,z303,ee
+beciuania sud africa britannico,z304,ee
+belgio,z103,ee
+belize,z512,ee
+bermude,z400,ee
+bhutan,z205,ee
+bielorussia,z139,ee
+birmania,z206,ee
+bolivia,z601,ee
+bosnia ed erzegovina,z153,ee
+botswana,z358,ee
+brasile,z602,ee
+brunei,z207,ee
+bulgaria,z104,ee
+burundi,z305,ee
+cambogia,z208,ee
+camerun,z306,ee
+canada,z401,ee
+capo verde,z307,ee
+caroline,z701,ee
+cecoslovacchia,z105,ee
+christmas,z702,ee
+ciad,z309,ee
+cile,z603,ee
+cina repubblica nazionale,z217,ee
+cina repubblica popolare,z210,ee
+cipro,z211,ee
+citta' del vaticano,z106,ee
+cocos,z212,ee
+colombia,z604,ee
+comore,z310,ee
+congo,z311,ee
+cook,z703,ee
+corea repubblica popolare,z214,ee
+costa d'avorio,z313,ee
+costa rica,z503,ee
+croazia,z149,ee
+cuba,z504,ee
+dahomey,z314,ee
+danimarca,z107,ee
+dipendenze australiane ant.,z900,ee
+dipendenze britanniche artico,z901,ee
+dipendenze canadesi artico,z800,ee
+dipendenze francesi ant.,z902,ee
+dipendenze neozelandesi ant.,z903,ee
+dipendenze norvegesi ant.,z904,ee
+dipendenze norvegesi artico,z801,ee
+dipendenze sovietiche artico,z802,ee
+dipendenze statunitensi ant.,z905,ee
+dipendenze sudafricane ant.,z906,ee
+equador,z605,ee
+egitto,z336,ee
+el salvador,z506,ee
+ellice,z705,ee
+emirati arabi uniti,z215,ee
+estonia,z144,ee
+etiopia,z315,ee
+faer oer,z108,ee
+figi,z704,ee
+filippine,z216,ee
+finlandia,z109,ee
+francia,z110,ee
+gabon,z316,ee
+gambia,z317,ee
+georgia,z136,ee
+germania est,z111,ee
+germania ovest,z112,ee
+ghana,z318,ee
+giamaica,z507,ee
+giappone,z219,ee
+gibilterra,z113,ee
+gibuti,z361,ee
+giordania,z220,ee
+gran bretagna,z114,ee
+grecia,z115,ee
+grenada,z524,ee
+groenlandia,z402,ee
+guadalupa,z508,ee
+guam,z706,ee
+guatemala,z509,ee
+guayana francese,z607,ee
+guinea,z319,ee
+guinea bissau,z320,ee
+guinea equatoriale,z321,ee
+haiti,z510,ee
+honduras,z511,ee
+hong kong,z221,ee
+ifni,z323,ee
+impero centroafricano,z308,ee
+india,z222,ee
+indonesia,z223,ee
+iran,z224,ee
+iraq,z225,ee
+irian occidentale,z707,ee
+irlanda,z116,ee
+islanda,z117,ee
+isole vergini,z520,ee
+israele,z226,ee
+jugoslavia,z118,ee
+kazakistan,z152,ee
+kenia,z322,ee
+kirghizistan,z142,ee
+kuwait,z227,ee
+la reunion,z324,ee
+laos,z228,ee
+lesotho,z359,ee
+lettonia,z145,ee
+libano,z229,ee
+liberia,z325,ee
+libia,z326,ee
+liechtenstein,z119,ee
+lituania,z146,ee
+lussemburgo,z120,ee
+macao,z231,ee
+macedonia,z148,ee
+macquarie,z708,ee
+madagascar,z327,ee
+malawi,z328,ee
+malaysia,z247,ee
+maldive,z232,ee
+malesia,z230,ee
+mali,z329,ee
+malta,z121,ee
+malvine,z609,ee
+man,z122,ee
+marcus,z709,ee
+marianne,z710,ee
+marocco,z330,ee
+marshall,z711,ee
+martinica,z513,ee
+mauritania,z331,ee
+maurizio,z332,ee
+mayotte,z360,ee
+messico,z514,ee
+midway,z712,ee
+moldavia,z140,ee
+monaco,z123,ee
+mongolia,z233,ee
+mozambico,z333,ee
+namibia,z300,ee
+narau,z713,ee
+nepal,z234,ee
+nicaragua,z515,ee
+niger,z334,ee
+nigeria,z335,ee
+norfolk,z715,ee
+normanne,z124,ee
+norvegia,z125,ee
+nuova caledonia,z716,ee
+nuova guinea,z718,ee
+nuova zelanda,z719,ee
+nuove ebridi,z717,ee
+oman,z235,ee
+olanda,z126,ee
+pakistan,z236,ee
+panama,z516,ee
+panama canale,z517,ee
+papua,z730,ee
+papuasia,z720,ee
+paraguay,z610,ee
+pasqua,z721,ee
+peru',z611,ee
+pitcairn,z722,ee
+polinesia,z723,ee
+polonia,z127,ee
+portogallo,z128,ee
+principe,z341,ee
+protettorato arabia merid.,z202,ee
+puerto rico,z518,ee
+qatar,z237,ee
+rep. dominicana,z505,ee
+repubblica ceca,z156,ee
+repubblica della guayana,z606,ee
+repubblica di corea,z213,ee
+repubblica slovacca,z155,ee
+repubblica sudafricana,z347,ee
+romania,z129,ee
+ruanda,z338,ee
+russia,z154,ee
+ryukyu,z238,ee
+sahara meridionale,z362,ee
+sahara settentrionale,z363,ee
+sahara spagnolo,z339,ee
+saint pierre et miquelon,z403,ee
+salomone,z724,ee
+samoa americane,z725,ee
+samoa occidentali,z726,ee
+san marino,z130,ee
+sant'elena,z340,ee
+savage,z714,ee
+seicelle,z342,ee
+senegal,z343,ee
+sierra leone,z344,ee
+sikkim,z239,ee
+singapore,z248,ee
+siria,z240,ee
+slovenia,z150,ee
+somalia,z345,ee
+somalia francese,z346,ee
+spagna,z131,ee
+sri lanka,z209,ee
+stati uniti d'america,z404,ee
+sudan,z348,ee
+suriname,z608,ee
+svezia,z132,ee
+svizzera,z133,ee
+swaziland,z349,ee
+tagikistan,z147,ee
+tanganica,z350,ee
+tanzania,z357,ee
+territorio di gaza,z218,ee
+thailandia,z241,ee
+timor,z242,ee
+togo,z351,ee
+tokelau,z727,ee
+tonga,z728,ee
+trinidad e tobago,z612,ee
+tunisia,z352,ee
+turchia,z243,ee
+turkmenistan,z151,ee
+turks,z519,ee
+ucraina,z138,ee
+uganda,z353,ee
+ungheria,z134,ee
+urss,z135,ee
+uruguay,z613,ee
+uzbekistan,z143,ee
+venezuela,z614,ee
+vietnam,z251,ee
+vietnam del nord,z245,ee
+vietnam del sud,z244,ee
+wallis,z729,ee
+yemen,z246,ee
+yemen rep. dem. pop.,z250,ee
+zaire,z312,ee
+zambia,z355,ee
+zanzibar,z356,ee
+zimbawe,z337,ee
