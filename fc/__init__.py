@@ -1,6 +1,5 @@
 import json
 
-
 class FiscalCode:
     def __init__(self, surname: str, name: str, gender: str, date: str, common: str):
         self.surname_ = surname
@@ -9,7 +8,7 @@ class FiscalCode:
         self.date_ = date
         self.common_ = common
 
-        table = json.load(open("table.json")) # http://it.wikipedia.org/wiki/Codice_fiscale
+        table = json.load(open("assets/table.json")) # http://it.wikipedia.org/wiki/Codice_fiscale
 
         self.vowels = []
         self.consonants = []
@@ -47,7 +46,7 @@ class FiscalCode:
             if obj[i] in special_chars:
                 index_list.append(i)
 
-        if index_list != []:
+        if index_list:
             s = ""
             for i in range(0, len(obj)):
                 if i not in index_list:
@@ -119,7 +118,7 @@ class FiscalCode:
             self.day = str(40 + int(self.date[0]))
     
     def __makeCadastralCode(self, common: str):
-        file = open("codici_catastali.txt", "r")
+        file = open("assets/codici_catastali.txt", "r")
 
         for line in file:
             self.commons.append(line.split(","))
@@ -127,6 +126,7 @@ class FiscalCode:
         for item in self.commons:
             if common == item[0]:
                 self.cadastral_code = item[1]
+                break
         
         del self.commons[:]
     
@@ -156,7 +156,7 @@ class FiscalCode:
         del self.odd_digits[:]
     
     def saveData(self):
-        with open("db_it.json") as file:
+        with open("assets/db_it.json") as file:
             objects = json.load(file)
 
         person = {
@@ -171,10 +171,10 @@ class FiscalCode:
         if person not in objects:
             objects.append(person)
 
-        with open("db_it.json", "w") as json_file:
+        with open("assets/db_it.json", "w") as json_file:
             json.dump(objects, json_file, indent=4, separators=(",", ": "))
 
-    def makeFiscalCode(self):
+    def build(self):
         self.__makeSurname(self.__makeCorrectString(self.surname_))
         self.__makeName(self.__makeCorrectString(self.name_))
         self.__setGender(self.gender_)

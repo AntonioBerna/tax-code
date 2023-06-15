@@ -1,12 +1,11 @@
-from fiscal_code import FiscalCode
-from check import Checker
+from fc import FiscalCode
+from fc.check import Checker
 from telebot import types
 import telebot
 import json
 
-
-bot_db = json.load(open("bot_db.json"))
-db_it = json.load(open("db_it.json"))
+bot_db = json.load(open("assets/bot_db.json"))
+db_it = json.load(open("assets/db_it.json"))
 bot = telebot.TeleBot(bot_db["token"], parse_mode="HTML")
 checker = Checker()
 
@@ -115,29 +114,26 @@ def process_common_step(message):
         chat_id = message.chat.id
         user = user_dict[chat_id]
 
-        if user.common == None:
-            common = message.text
+        if user.common is None:
+            common = message.text.lower()
+            user.common = common
         
-        file = open("codici_catastali.txt", "r")
-        commons = []
-        for line in file:
-            commons.append(line.split(","))
+        file = open("assets/codici_catastali.txt", "r")
+        commons = [line.split(",") for line in file]
         
         found = False
         for item in commons:
-            if common.lower() == item[0]:
+            if user.common == item[0].lower():
                 found = True
                 break
         
         if not found:
-            bot.send_message(message.chat.id, "Si è verificato un errore: comune non trovato!")
-            process_common_step(message)
+            bot.send_message(chat_id, "Si è verificato un errore: comune non trovato!")
+            process_gender_step(message)
         else:
-            user.common = common
-
-        fc = FiscalCode(surname=user.surname.lower(), name=user.name.lower(), gender=user.gender, date=user.date, common=user.common.lower())
-        bot.send_message(chat_id, f"<b>Informazioni Inserite:</b>\n\nCognome: {user.surname}\nNome: {user.name}\nData di nascita: {user.date}\nSesso: {user.gender}\nComune: {user.common}\n\n<b>Codice Fiscale:</b>")
-        bot.send_message(chat_id, f"<b>{fc.makeFiscalCode()}</b>")
+            fc = FiscalCode(surname=user.surname.lower(), name=user.name.lower(), gender=user.gender.lower(), date=user.date, common=user.common.lower())
+            bot.send_message(chat_id, f"<b>Informazioni Inserite:</b>\n\nCognome: {user.surname}\nNome: {user.name}\nData di nascita: {user.date}\nSesso: {user.gender}\nComune: {user.common}\n\n<b>Codice Fiscale:</b>")
+            bot.send_message(chat_id, f"<b>{fc.build()}</b>")
     except Exception as e:
         print(f"Si è verificato un errore...\n{e}")
         bot.send_message(chat_id, "Si è verificato un errore... Riprova più tardi!")
