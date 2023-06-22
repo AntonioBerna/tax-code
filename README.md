@@ -25,7 +25,7 @@ Again, to use my project, you don't have to install any external libraries and j
         <img src="./imgs/gui.png" width="400"/>
     </p>
 
-3. Finally we have the version associated with a telegram bot. This version is dedicated to all those who are always with their smartphone in hand, in fact, thanks to the telegram bot it will be possible to always have at hand my project that will allow you to calculate the tax code of anyone you want! In this case, however, you will have to install the ```pyTelegramBotAPI``` external library using the command ```pip install -r requirements.txt```. I leave it up to you whether or not to create a virtual environment for this project, although I highly recommend it! (I remind you that just use the following commands and you`re done: ```virtualenv venv``` and ```source venv/bin/activate```). Now to run the program you can use the following command:
+3. Finally we have the version associated with a telegram bot. This version is dedicated to all those who are always with their smartphone in hand, in fact, thanks to the telegram bot it will be possible to always have at hand my project that will allow you to calculate the tax code of anyone you want! In this case, however, you will have to install the ```pyTelegramBotAPI``` external library using the command ```pip install -r requirements.txt```. I leave it up to you whether or not to create a virtual environment for this project, although I highly recommend it! (I remind you that just use the following commands and you are done: ```virtualenv venv``` and ```source venv/bin/activate```). Now to run the program you can use the following command:
 
     ```
     python3 bot.py
