@@ -1,5 +1,5 @@
-from fc import FiscalCode
-from fc.check import Checker
+from tax import TaxCode
+from tax.check import Checker
 import subprocess
 import platform
 
@@ -44,7 +44,7 @@ class UserInterface(Checker):
 
     def start(self):
         surname, name, gender, birth_date, common = self.get_personal_data()
-        return FiscalCode(surname, name, gender, birth_date, common).build()
+        return TaxCode(surname, name, gender, birth_date, common).build()
 
 if __name__ == "__main__":
     try:

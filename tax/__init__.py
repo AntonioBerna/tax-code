@@ -1,6 +1,6 @@
 import json
 
-class FiscalCode:
+class TaxCode:
     def __init__(self, surname: str, name: str, gender: str, date: str, common: str):
         self.surname_ = surname
         self.name_ = name

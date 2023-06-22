@@ -1,5 +1,5 @@
-from fc import FiscalCode
-from fc.check import Checker
+from tax import TaxCode
+from tax.check import Checker
 import tkinter as tk
 from tkinter import messagebox
 import webbrowser
@@ -29,7 +29,7 @@ class HelpWindow(tk.Toplevel):
         webbrowser.open("https://www.instagram.com/clever_code/")
 
 
-class FiscalCodeWindow(tk.Tk):
+class TaxCodeWindow(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Codice Fiscale - by Clever Code")
@@ -106,13 +106,16 @@ class FiscalCodeWindow(tk.Tk):
         if surname and name and gender and birth_date and common:
             checker = Checker()
             if checker.checkGender(gender) and checker.checkDate(birth_date) and checker.checkCommon(common.lower()):
-                fc = FiscalCode(surname.lower(), name.lower(), gender, birth_date, common.lower())
-                self.fiscal_code_entry.insert(0, fc.build())
+                code = TaxCode(surname.lower(), name.lower(), gender, birth_date, common.lower())
+                self.fiscal_code_entry.insert(0, code.build())
             else:
                 messagebox.showerror("Si è verificato un errore", "Valori Inseriti Non Validi!")
         else:
             messagebox.showerror("Si è verificato un errore", "Valori Inseriti Non Sufficienti!")
 
+    def run(self):
+        self.mainloop()
+
 if __name__ == "__main__":
-    window = FiscalCodeWindow()
-    window.mainloop()
+    app = TaxCodeWindow()
+    app.run()

@@ -1,5 +1,5 @@
-from fc import FiscalCode
-from fc.check import Checker
+from tax import TaxCode
+from tax.check import Checker
 from telebot import types
 import telebot
 import json
@@ -131,9 +131,9 @@ def process_common_step(message):
             bot.send_message(chat_id, "Si è verificato un errore: comune non trovato!")
             process_gender_step(message)
         else:
-            fc = FiscalCode(surname=user.surname.lower(), name=user.name.lower(), gender=user.gender.lower(), date=user.date, common=user.common.lower())
+            code = TaxCode(surname=user.surname.lower(), name=user.name.lower(), gender=user.gender.lower(), date=user.date, common=user.common.lower())
             bot.send_message(chat_id, f"<b>Informazioni Inserite:</b>\n\nCognome: {user.surname}\nNome: {user.name}\nData di nascita: {user.date}\nSesso: {user.gender}\nComune: {user.common}\n\n<b>Codice Fiscale:</b>")
-            bot.send_message(chat_id, f"<b>{fc.build()}</b>")
+            bot.send_message(chat_id, f"<b>{code.build()}</b>")
     except Exception as e:
         print(f"Si è verificato un errore...\n{e}")
         bot.send_message(chat_id, "Si è verificato un errore... Riprova più tardi!")
