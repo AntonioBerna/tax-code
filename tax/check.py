@@ -5,11 +5,14 @@ class Checker:
 
     def load_commons(self):
         commons = {}
-        with open("assets/codici_catastali.txt", "r") as file:
+        with open("assets/cadastral-codes.txt", "r") as file:
             for line in file:
                 common, code, _ = line.strip().split(",")
                 commons[common.lower()] = code
         return commons
+
+    def checkText(self, text: str):
+        return text.isalpha()
     
     def checkGender(self, gender: str):
         return gender in self.genders
@@ -33,6 +36,7 @@ class Checker:
             if day < 1 or day > max_day: return False
 
             return True
+        
         except:
             return False
 

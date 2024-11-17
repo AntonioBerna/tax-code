@@ -118,7 +118,7 @@ def process_common_step(message):
             common = message.text.lower()
             user.common = common
         
-        file = open("assets/codici_catastali.txt", "r")
+        file = open("assets/cadastral-codes.txt", "r")
         commons = [line.split(",") for line in file]
         
         found = False

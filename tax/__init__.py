@@ -7,8 +7,9 @@ class TaxCode:
         self.gender_ = gender
         self.date_ = date
         self.common_ = common
-
-        table = json.load(open("assets/table.json")) # http://it.wikipedia.org/wiki/Codice_fiscale
+        
+        # ? http://it.wikipedia.org/wiki/Codice_fiscale
+        table = json.load(open("assets/table.json"))
 
         self.vowels = []
         self.consonants = []
@@ -25,11 +26,11 @@ class TaxCode:
         self.year = ""
         self.gender = ""
         self.cadastral_code = ""
-        self.incomplete_fiscal_code = ""
+        self.incomplete_tax_code = ""
         self.even_digits = []
         self.odd_digits = []
         self.control_letter = ""
-        self.fiscal_code = ""
+        self.tax_code = ""
     
     def __makeSeparation(self, obj: str):
         for char in obj:
@@ -118,7 +119,7 @@ class TaxCode:
             self.day = str(40 + int(self.date[0]))
     
     def __makeCadastralCode(self, common: str):
-        file = open("assets/codici_catastali.txt", "r")
+        file = open("assets/cadastral-codes.txt", "r")
 
         for line in file:
             self.commons.append(line.split(","))
@@ -131,9 +132,9 @@ class TaxCode:
         del self.commons[:]
     
     def __makeControlLetter(self):
-        self.incomplete_fiscal_code = self.surname + self.name + self.year + self.month + self.day + self.cadastral_code
-        even = self.incomplete_fiscal_code[1::2]
-        odd = self.incomplete_fiscal_code[::2]
+        self.incomplete_tax_code = self.surname + self.name + self.year + self.month + self.day + self.cadastral_code
+        even = self.incomplete_tax_code[1::2]
+        odd = self.incomplete_tax_code[::2]
 
         for item in even:
             self.even_digits.append(int(self.table_even[item]))
@@ -150,7 +151,7 @@ class TaxCode:
             odd_sum += item
         
         self.control_letter = self.table_rest[str((even_sum + odd_sum) % 26)]
-        self.fiscal_code = (self.incomplete_fiscal_code + self.control_letter).upper()
+        self.tax_code = (self.incomplete_tax_code + self.control_letter).upper()
 
         del self.even_digits[:]
         del self.odd_digits[:]
@@ -165,7 +166,7 @@ class TaxCode:
             "gender": self.gender_,
             "date": self.date_,
             "common": self.common_,
-            "fiscal_code": self.fiscal_code
+            "tax_code": self.tax_code
         }
 
         if person not in objects:
@@ -184,4 +185,4 @@ class TaxCode:
 
         self.saveData()
 
-        return self.fiscal_code
+        return self.tax_code
